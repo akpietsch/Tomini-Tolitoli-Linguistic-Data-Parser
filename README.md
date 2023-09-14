@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-- Prof. Dr. Nikolaus P. Himmelmann (Head of Institut of Linguistics, University of Cologne)
+- Prof. Dr. Nikolaus P. Himmelmann (Head of Institute of Linguistics, University of Cologne)
 - Dr. Gabriele Schwiertz (Active collaborator and linguistic supervision)
 - Anne-Kathrin Pietsch (Technical implementation, Institute of Digital Humanities)
   
