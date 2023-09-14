@@ -60,13 +60,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Dr. Gabriele Schwiertz (Active collaborator and linguistic supervision)
 - Anne-Kathrin Pietsch (Technical implementation, Institute of Digital Humanities)
   
-## Acknowledgments
-
-We acknowledge the following external resources and collaborators used in this project for linguistic analysis:
-
-- Prof. Dr. Nikolaus P. Himmelmann Head of Institute of Linguistics, University of Cologne
-- Dr. Gabriele Schwiertz, Active collaborator and linguistic supervision
-- Anne-Kathrin Pietsch, Technical implementation, Institute of Digital Humanities
-
 ## License
 This project is licensed under the MIT License.
