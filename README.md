@@ -5,7 +5,6 @@ The Tomini–Tolitoli languages are spoken in the northern part of Central Sulaw
 ## Table of Contents <!-- omit in toc -->
 
 - [Description](#description)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
@@ -15,29 +14,6 @@ The Tomini–Tolitoli languages are spoken in the northern part of Central Sulaw
 - [Acknowledgments](#acknowledgments)
 - [License](#license-1)
 
-
-## Project Structure
-
-The project directory structure is organized as follows:
-```bash
-TTLDP/
-├── data/
-│ ├── dictionaries/
-│ │ ├── abbreviations.json
-│ │ ├── default_hamlet.json
-│ │ ├── latitude.json
-│ │ └── longitude.json
-│ └─ input/
-│ ├── Location.xlsx
-│ └── Tomini.xlsx
-.xlsx
-├── output/
-│ ├── csv/
-│ └── excel/
-├── src/
-│ ├── main.py
-├── README.md
-```
 ## Getting Started
 
 To get started with the project, follow these steps:
