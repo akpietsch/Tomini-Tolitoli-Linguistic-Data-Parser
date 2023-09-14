@@ -1,0 +1,906 @@
+﻿NUMBER,IDSW,ENGLISH,INDONESIAN,FORM,ORIGINAL_FORM,LANGUAGE,LOCATION,LONGITUDE,LATITUDE,GENDER,RECORDED,MEDIALINK,REGISTER,EXCLUDE,REFERENCE,GRAMMAR_COMMENT,PRONUNCIATION_COMMENT,TRANSLATION_COMMENT,EDITING_COMMENT,CATEGORY1,CATEGORY2,CATEGORY3,CATEGORY4,HOLLE,SIL,REID,BLUST,LIST,SWA100,GUD200
+0001,04.110,body,"badan, tubuh",butangan,butangan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0001,001,28.0,0.0,,,
+0002,04.200,head,kepala,baki,baki  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0002,002,134.0,24.0,C116 D37 E108 F107 G116,38.0,67.0
+0003,04.202,skull,"tengkorak, tempurung kepala  ->08.832",pantuang baki,pantuang baki,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0005,003,0.0,0.0,,,
+0003b,04.207,fontanel,ubun-ubun,tokumomboo,tokumomboo (depan),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(depan),,,noun,,,,,0.0,0.0,,,
+0004,04.203,brain,otak,utok,utok,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0036,004*,32.0,0.0,,,
+0005,04.140,"hair (head, not body)",rambut  ->04.144,baki,"baki, njia baki",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0006,005,131.0,26.0,C109 D36 E106 F105 G114,37.0,64.0
+0005,04.140,"hair (head, not body)",rambut  ->04.144,njia baki,"baki, njia baki",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0006,005,131.0,26.0,C109 D36 E106 F105 G114,37.0,64.0
+0005a,04.141,"gray hair (head, not body)",uban,gurang,gurang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0006a,,0.0,0.0,Z,,
+0006,04.205,forehead,dahi,kire,kire ['] -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,['],,,bodyparts,noun,,anggota tubuh,0004,007,119.0,0.0,,,
+0007,04.201,temple,pelipis,pampalingang,pampalingang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,,013,0.0,0.0,,,
+0008,04.204,face,"muka, wajah",rupa,rupa ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0003,006*,99.0,0.0,C133 E124 F108 G117,,
+0009,04.210,eye,mata,mata,mata,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0011,008,96.0,45.0,C118 D39 E110 F109 G118,40.0,39.0
+0010,04.216,eyeball,biji mata ->08.311,udung mata,udung mata ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,,noun,,anggota tubuh,,009,0.0,0.0,,,
+0010a,04.217,pupil (eye),manik mata,tautau mata,tautau mata ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,,noun,,,,,0.0,0.0,,,
+0011,04.212,eyebrow,"kening, alis mata",bulu kire,bulu kire ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0015,010*,97.0,0.0,,,
+0012,04.214,eyelashes,bulu mata,bulu mata,bulu mata ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0013,011,98.0,0.0,,,
+0014,04.213,eyelid,kelopak mata,pika mata,pika mata [matah],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[matah],,,bodyparts,noun,,,0012,,0.0,0.0,,,
+0015,04.220,ear,telinga,talinga,talinga,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0009,022,85.0,43.0,C117 D38 E109 F115 G124,39.0,35.0
+0016,04.222,earwax,tahi telinga,tai talinga,tai talinga,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0010,,0.0,0.0,,,
+0016a,04.225,disease of the ear,sakit telinga (air busuk keluar),ligong,ligong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,,,0.0,0.0,,,
+0017,04.240,mouth,mulut,ngudu,ngudu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0022,017*,187.0,30.0,C120 D41 E112 F111 G120,42.0,98.0
+0017a,04.242,"mouth: oral cavity, oropharynx",mulut (dalam) terbuka,nganga,nganga,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0024,,0.0,0.0,,,
+0018,04.250,lip,bibir,ngudu,=04.240,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=04.240,,,,,bodyparts,noun,,anggota tubuh,0025/26,018*,168.0,0.0,C121 E113 F112 G121,,
+0019,04.260,tongue,lidah,oyo,oyo ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0031,019,323.0,32.0,C123 D43 E115 F114 G123,44.0,172.0
+0020,04.270,tooth,gigi,ngisi,ngisi ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0033,020,304.0,31.0,C122 D42 E114 F113 G122,43.0,173.0
+0021,04.230,nose,hidung,enge,enge  p11,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0018,014,200.0,27.0,C119 D40 E111 F110 G119,41.0,106.0
+0023,04.208,cheek,pipi,pipi,pipi  [1. pipi'],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[1. pipi'],,,bodyparts,noun,,anggota tubuh,0021,015,45.0,0.0,,,
+0025,04.209,chin,dagu,ngade,ngade  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0029,021,49.0,0.0,,,
+0026,04.370,"foot, leg",kaki,bisit,bisit,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0086,038,162.0,4.0,C125 D45 E117 F121 G130,46.0,55.0
+0027,04.380,toe,jari kaki,burak bisit,burak bisit,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0106,046,321.0,0.0,,,
+0028,04.373,sole of the foot,tapak kaki,intek bisit,intek bisit,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0087,044,275.0,0.0,,,
+0029,04.360,knee,lutut,baki tuku,baki tuku  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0091,041,154.0,0.0,C126 D46 E118 F122 G131 Sa92,47.0,
+0030,04.362,"popliteal space, back of the knee#",(pe)lipatan lutut,kalanggair,kalanggair,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0092,042*,0.0,0.0,,,
+0030a,04.363,knee cap,tempurung lutut,batu katela,batu katela [1. katelah],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[1. katelah],,,bodyparts,noun,,,,,0.0,0.0,,,
+0031,04.371,"joint (ankle, elbow, wrist)","sendi, pergelangan (kaki, tangan, etc)",lolotukong,lolotukong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0088,043*,5.0,0.0,,,
+0031a,04.376,ankle,"mata kaki, buku lali",bukulali,bukulali p17,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,,,,0.0,0.0,,,
+0032,04.372,heel,tumit,tumbar,tumbar,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0089,045,138.0,0.0,,,
+0033,04.330,hand,tangan,pale,pale  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0097,027*,132.0,1.0,C127 D47 E119 F119 G128,48.0,65.0
+0034,04.331,palm of the hand,tapak tangan,intek pale,intek pale,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0102,028,210.0,0.0,,,
+0035,12.541,span (eight inches),jengkal,handangang,handangang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,anggota tubuh,,029,279.0,0.0,,,
+0036,04.340,finger,jari,burak pale,burak pale p28,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0104,030,110.0,0.0,,,
+0037,04.342,thumb,ibu jari,sinang pale,sinang pale,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0108,031,0.0,0.0,,,
+0038,04.343,"pinky, little finger",jari kelingking,kalinjing,kalinjing,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0112,032,0.0,0.0,,,
+0039,04.344,fingernail,kuku jari,konuku,konuku  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0107,033,111.0,0.0,C124 D44 E116 F120 G129,,
+0040,04.320,elbow,siku,siku,siku  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0100,026,94.0,0.0,,,
+0041,04.310,arm,lengan,takia,takia,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0095,,0.0,0.0,,,
+0042,04.400,chest,dada,barabak,barabak,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0041/42,035,46.0,0.0,,,
+0043,04.410,breast,"susu, buah dada",susu,susu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0044,036*,34.0,18.0,C130 D50 E122 G126 Sa18,51.0,
+0044,04.412,nipple,puting susu,ngudu susu,ngudu susu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0045,,0.0,0.0,,,
+0045,04.411,suck at the breast,susu  menyusu,susu,susu mompaN%n- moN%n- ni--i ro--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mompaN%n- moN%n- ni--i ro--i,,,,body,intr,action,,0048,,0.0,0.0,,,
+0046,04.415,milk,air susu,dunana susu,dunana susu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,body,noun,mass,,0046,,0.0,0.0,,,
+0047,04.280,neck,leher,baroko,baroko   ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0038,023*,192.0,25.0,C129 D49 E121 F116 G125,50.0,103.0
+0048,04.290,throat (esophagus),kerongkongan,gorogot,gorogot,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0037,024*,315.0,0.0,,,
+0049,04.191,upper back,punggung atas,banjik,banjik,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0063,034*,11.0,13.0,,,6.0
+0049b,04.192,"backbone, spine",tulang punggung,bunggorung,bunggorung,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0064,,0.0,0.0,,,
+0050,04.435,belly,perut,kompong,kompong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0054,037*,16.0,14.0,C128 D48 E120 F117 G127 Z4.46A,49.0,10.0
+0051,04.144,body hair,bulu (badan)  ->04.140,bulu,bulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0122,047*,0.0,0.0,C115 E107 F106 G115,,
+0052,04.300,shoulder,bahu,paluka,paluka  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0065,025,261.0,19.0,,,
+0053,04.301,shoulderblade,tulang belikat,buku paluka,buku paluka,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0066,,0.0,0.0,,,
+0053a,04.302,collarbone,tulang selangka,buku lologi,buku lologi  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,,,,0.0,0.0,,,
+0054,04.351,thigh,paha,palanga,palanga   ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0090,039,309.0,0.0,,,
+0055,04.120,skin (person),kulit,kuli,kuli   ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0121,048,265.0,12.0,C117 D27 E101 F100 G107,28.0,137.0
+0056,04.160,bone,tulang,buku,buku,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0115,051,31.0,15.0,C112 D30 E104 F104 G113,31.0,17.0
+0057,04.162,rib,tulang rusuk,buku usuk,buku usuk  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0050,052,232.0,0.0,,,
+0058,04.440,heart,jantung ->08.845,sule,sule,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0052,053*,136.0,0.0,C132 D51 G111,52.0,69.0
+0059,04.150,blood,darah,raa,raa  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,body,noun,mass,anggota tubuh,0116,054,26.0,23.0,C111 D29 E103 F103 G110,30.0,15.0
+0060,04.454,"gall, bile",empedu,peit,peit,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0057,057*,0.0,0.0,,,
+0061,04.461,"intestines, guts (G)","usus, isi perut (w)",talinggo,talinggo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0055,059*,150.0,16.0,,,63.0
+0063,04.450,liver,hati,ate,ate  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0056,056*,170.0,17.0,C131 D52 E123 F118 G112,53.0,90.0
+0064,04.441,lungs,paru-paru,ate bokak,ate bokak,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0051,058,175.0,0.0,,,
+0065,04.130,"flesh, meat",daging (mentah),isi,isi  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0539/01,049*,0.0,103.0,C110 D28 E102 F102 G108,29.0,95.0
+0066,04.492,penis,kemaluan laki-laki,aro,aro  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,anggota tubuh,0077,064*,213.0,0.0,,,
+0069,04.480,vagina,kemaluan perempuan,ßana,ßana  [fana'],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[fana'],,,bodyparts,noun,,anggota tubuh,0078,065,333.0,0.0,,,
+0072,04.731,become pregnant,jadi hamil,lumalo,"lumalo mo- (up to 3. month), nombaßa ['] =10.620",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo- ,,(up to 3. month),,body,tr,,,,,0.0,0.0,,,
+0072,04.731,become pregnant,jadi hamil,nombaßa,"lumalo mo- (up to 3. month), nombaßa ['] =10.620",Balaesang,Rano,119.7132,-0.0433,,True,,,False,=10.620,,['],,,body,tr,,,,,0.0,0.0,,,
+0075,04.720,give birth to,lahir  melahirkan  dilahirkan  #,nganak,nganak me- mopepe- p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- mopepe- ,,,,body,tr,action,,0413/01,,0.0,0.0,,,
+0076,04.470,womb,"kandungan, rahim ->02.270",gaibu,gaibu [geißu'],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[geißu'],,,bodyparts,noun,,,,,0.0,0.0,,,
+0077,04.722,afterbirth,"tembuni, ari-ari",siakang = 02.457,siakang = 02.457,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,body,noun,mass,,0180,,0.0,0.0,,,
+0078,04.723,umbilical cord,tali pusat,randan,randan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0062,,0.0,0.0,,,
+0079,04.725,midwife,bidan ->22.410,sando,sando  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,culture,noun,,,0414,,0.0,0.0,,,
+0080,04.465,anus,"dubur, lubang pantat",porok kindut,porok kindut,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0071,061*,7.0,0.0,,,
+0081,04.464,buttocks,"pantat, bokong",kindut,kindut,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0069,060,38.0,0.0,,,
+0082,04.665,"excrement, feces",tahi,tai,tai p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,body,noun,mass,anggota tubuh,0073,063,95.0,0.0,,,
+0083,04.660,defecate,"berak, membuang air besar",tai,tai  me-RDP- p31,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-RDP- ,,,,body,intr,action,kata kerja,0072,452,73.0,0.0,,,
+0084,04.650,urinate,kencing (k.k.),tolee,tolee me- pe--i  p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- pe--i  ,,,,body,intr,action,,0082,,0.0,0.0,,,
+0085,04.651,urine,air kencing #collapse?,lee,lee,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0083,062,332.0,0.0,,,
+0086,04.640,fart,kentut  berkentut,ontut,ontut RDP2 meN-/N-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,RDP2 meN-/N-,,,,body,intr,action,,0075,,0.0,0.0,,,
+0087a,04.335,fist,"tinju, kepalan",gomuh,gomuh / gomus,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,,,0.0,0.0,,,
+0087a,04.335,fist,"tinju, kepalan",gomus,gomuh / gomus,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,,,0.0,0.0,,,
+0088,04.346,middle finger,jari tengah,tipalando,tipalando  [']  [taipalando],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,"[']"", '[taipalando]",,,bodyparts,noun,,,0110,,0.0,0.0,,,
+0088a,04.347,index finger,jari telunjuk,taituduk,taituduk,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0109,,0.0,0.0,,,
+0088b,04.348,ring finger,jari manis,singgáiling,singgáiling,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0111,,0.0,0.0,,,
+0090,04.313,upper arm,pangkal lengan,takia,=04.310,Balaesang,Rano,119.7132,-0.0433,,True,,,True,=04.310,,,,,bodyparts,noun,,,0098,,0.0,0.0,,,
+0090a,04.314,forearm,lengan bagian bawah,takia,=04.310,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=04.310,,,,,bodyparts,noun,,,,,0.0,0.0,,,
+0091,04.352,calf,betis,kalenter,kalenter [kalentér],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[kalentér],,,bodyparts,noun,,anggota tubuh,0093,040,0.0,0.0,,,
+0091b,04.353,shin,tulang kering,bulud,bulud,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,,0094,,0.0,0.0,,,
+0093,04.281,nape,tengkuk,tundu,tundu  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,,0040,,0.0,0.0,,,
+0094,04.295,Adam's apple,"jakun, lekum",buku gorogot,buku gorogot ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,bodyparts,noun,,,0039,,0.0,0.0,,,
+0095,04.462,waist,pinggang,usuk,usuk,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,,,0.0,0.0,,,
+0095a,04.312,armpit,ketiak,keke,keke  [']  =08.220,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=08.220,,['],,,,noun,,,0099,,0.0,0.0,,,
+0095c,04.463,hip,"pinggul, pangkal paha",bengo,bengo  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodypart,noun,,,,,0.0,0.0,,,
+0096,04.468,tailbone (coccyx),tulang tungging/ekor,tampedung,tampedung  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,,0070,,0.0,0.0,,,
+0097,04.430,navel,pusat,puse,puse  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,,0061,,0.0,0.0,,,
+0098,04.460,stomach,lambung,besek,besek,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0053,,0.0,0.0,,,
+0100,04.272,molar,geraham,bagang,bagang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0034,,0.0,0.0,,,
+0100a,04.244,palate,langit-langit mulut,langangar,langangar  p28,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0032,,0.0,0.0,,,
+0102,04.155,"vein, tendon","urat, urat darah",ußat,ußat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodypart,noun,,anggota tubuh,0118,055*,334.0,0.0,,,
+0105,05.791,"fat, grease#",lemak,longu,longu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,prop / sta,anggota tubuh,1073,050*,104.0,104.0,C113 D31 E105 F101 G109,32.0,42.0
+0106,04.232,mucus,ingus ->04.845,nguus,nguus [ngus] / nguuh~,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[ngus],,,body,noun,,,0020,,0.0,0.0,,,
+0106,04.232,mucus,ingus ->04.845,nguuh,nguus [ngus] / nguuh~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,body,noun,,,0020,,0.0,0.0,,,
+0107,04.146,dandruff,"ketombe, sindap",solu,solu  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,,,,0.0,0.0,,,
+0108,04.142,beard (goatee),janggut,janggu,janggu  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,,0028,,0.0,0.0,,,
+0108a,04.143,"sideburns, whiskers",cambang,cambang,cambang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,bodyparts,noun,,,0030,,0.0,0.0,,,
+0109,04.148,moustache,kumis,bulusumi,bulusumi  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,bodyparts,noun,,,0027,,0.0,0.0,,,
+0110,04.990,"naked, bare",telanjang,laang,laang me- [meláng],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- ,[meláng],,,body,stative,,,,,0.0,0.0,,,
+0111,04.930,bald,"gundul, botak",dolih,dolih mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,body,stative,state,,0007,,0.0,0.0,,,
+0111x,04.8,wart,kutil,lamperui,lamperui  [lamperuih],Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,[lamperuih],,,,noun,,,,,0.0,0.0,,,
+0112,04.740,"live, be alive",hidup ->12.530,ntußu,ntußu me- p21,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- ,,,,,intr,state,kata kerja,0182,410,0.0,76.0,,,89.0
+0113,04.610,sleep,tidur   ->07.212,turu,turu me- nipe--i p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- nipe--i ,,,,body,stative,event,kata kerja,0138,466*,269.0,48.0,C186 E59 E170 F171 G183,60.0,139.0
+0115,04.620,dream,(ber)mimpi,upi mongungupi,upi mongungupi  ~ p35,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,body,intr / tr,event,kata kerja,0139,467,79.0,50.0,C211 E191 F172 G186,,
+0116,04.628,nod,angguk  mengangguk,kinde,kinde RDP2 mopo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,RDP2 mopo-  ,,,,body,intr,action,,0177,,0.0,0.0,,,
+0117,04.624,"nod, be sleepy",antuk  mengantuk,antuk,antuk maN-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,maN-  ,,,,body,intr / adj,state,kata kerja,0141,464,0.0,0.0,C212 E182 F170 G185,,
+0119,04.612,snore,dengkur  berdengkur,anggor,anggor maN-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,maN-  ,,,,body,intr,,,,,0.0,0.0,,,
+0120,04.630,wake up,"bangun, sadar  ->09.440",mbaung,mbaung me- p23,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- ,,,,body,intr,event,kata kerja,0142,468*,0.0,0.0,C188 E172 F173 G187,,
+0121,04.631,"awaken s.o., get up",bangun  membangunkan  ->10.145,mbaung,mbaung pepe-  p23,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,pepe-  ,,,,,tr,action,kata kerja,1223,469*,0.0,0.0,C189 E173 G188,,
+0122,05.110,eat,makan,kumang,kumang meN-/N-~ ro- ni-~  p11,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,meN-/N- ro- ni-  ,,,,body,tr / intr,action,kata kerja,0128,390,89.0,37.0,C182 D54 E166 F165 G178,55.0,37.0
+0123,05.180,chew (not swallow),kunyah  mengunyah,ntaul,ntaul -i me- moma- ni--i  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i me- moma- ni--i  ,,,,body,tr,action,kata kerja,,393,0.0,38.0,,,
+0124,05.181,chew betelnut,makan pinang,pangang,pangang moN%p-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p-  ,,,,,tr,action,kata kerja,,394*,18.0,0.0,Z8.62B,,
+0125,05.183,swallow,telan  menelan,onop,onop moN- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-  ,,,,body,intr / tr,action,kata kerja,0137,395,296.0,0.0,,,
+0127,05.160,suck (not nurse),isap  mengisap,ontop,ontop -i moN- moN--i ni--i~  p4,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i moN- moN--i ni--i  ,,,,,tr,action,kata kerja,1235,396*,293.0,42.0,,,156.0
+0127a,05.162,smoke,"rokok  merokok, isap",sosop,sosop moN%n- ni-~  p4,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%n- ni-  ,,,,,tr,action,kata kerja,,,0.0,0.0,,,
+0129,05.130,drink,minum,inung,inung moN- ni- [ni'inung] p11,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN- ni-  ,[ni'inung],,,body,tr / intr,action,kata kerja,0130,391,80.0,40.0,C180 D53 E164 F163 G176,54.0,31.0
+0130,04.980,drunk,mabuk,majat kinaa,majat kinaa  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,body,stative,state,,0131,,0.0,0.0,,,
+0131,05.145,satisfied,puas,sau,sau mV- -mo  p7,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- -mo  ,,,,body,stative,state,,0133,,0.0,0.0,,,
+0132,05.151,thirsty,haus,paik,paik mV-  p17,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  ,,,,body,stative,state,kata sifat,0132,291,311.0,0.0,C179 E163 F162 G175,,
+0133,05.142,hungry,lapar,orop,orop mV- [morop] p17,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  ,[morop],,,body,stative,state,kata sifat,0129,292,145.0,0.0,C181 E165 F164 G177,,
+0135,04.550,"sweat, perspire",keringat berkeringat,gating,gating ma-/mo- p31,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ma-/mo- ,,,,body,noun,mass,anggota tubuh,0124,068,297.0,0.0,,,
+0137,04.530,cough,batuk,mengge,mengge mo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo-  ,,,,body,intr,action,kata kerja,0170,449,61.0,0.0,C201 E188 F183 G197,,
+0143,15.212,sniff #move to bodily action? but discuss with cium??#,endus  mengendus,sorobut,sorobut moN%j- ni-~  p4,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%j- ni-  ,,,,body,tr,action,,1237,,0.0,0.0,,,
+0144,04.520,yawn,kuap  menguap,ngoyab,ngoyab ma-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ma-,,,,body,intr,action,kata kerja,0176,465,0.0,47.0,,,
+0145b,04.685,tremble,gemetar bergetar,kokoana,"kokoana ni- (dingin-panas, demam) ?->04.843",Balaesang,Rano,119.7132,-0.0433,,True,,,False,?->04.843,ni-  ,,(dingin-panas; demam),,body,intr,action,,,,0.0,0.0,,,
+0146,16.370,cry,tangis  menangis,sangit,sangit me--um- RDP2~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me--um- RDP2,,,,body,intr,action,kata kerja,0163,380,65.0,34.0,C205 E190 F189 G203,,
+0147,16.250,laugh,tawa  tertawa,tataa,tataa me- [2. metata'a],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- ,[2. metata'a],,,body,intr,action,kata kerja,0161,381,158.0,33.0,C204 E180 F188 G202,,84.0
+0147a,16.251,laugh at  #alte 1020#,tawa  menertawakan,tataa,tataa me--i [metatai] pe--i [petata'ai] ipe--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me--i  pe--i  ipe--i,"[metatai]', ""[petata'ai]",,,,tr,action,,0162,,0.0,0.0,,,
+0148,16.255,smile,senyum  tersenyum,mimiing,mimiing te- mete-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,te- mete-,,,,body,intr,action,,0165,,0.0,0.0,,,
+0149,04.560,spit,"ludah, ber- / meludah",peenu,peenu moN%p-~ ni--i,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p- ni--i,,,,body,intr,action,kata kerja,0167,450,281.0,36.0,C203 E189 F184 G198,,147.0
+0150,04.570,vomit (not: spit out),muntah,suko,suko me-  =05.221 p20,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=05.221,me-   ,,,,body,intr,action,kata kerja,0168,451,335.0,35.0,C202 E179 F185 G199,,177.0
+0151,04.690,bathe,mandi #collapse?#,riing,riing me- ro-~ mompe-  p4,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me- ro- mompe-  ,,,,body,intr,action,kata kerja,0154,424,15.0,0.0,C206 E197 F190 G204,,
+0153,10.370,fly,terbang,ntayap,ntayap -um- me--um- -ao ro--ao~ i--ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-um- me--um- -ao ro--ao i--ao,,,,,intr,action,kata kerja,0788,431,118.0,101.0,C194 D62 E185 F177 G192 Wu054,64.0,
+0154,10.472,climb (mountain),daki  mendaki (gunung),parake,parake N-/moN%p-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,N-/moN%p-,,,,,tr,action,kata kerja,0737,428,51.0,172.0,,,
+0154a,10.474,get onto a vehicle/furniture,naik kendaraan/kursi,njaße,njaße me- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me- ni-,,,,,tr,action,kata kerja,,,0.0,0.0,,,
+0155,10.473,climb (tree),panjat  memanjat (pohon),penek,penek moN%p- ro--i ni--i,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%p- ro--i ni--i,,,,motion,tr,action,kata kerja,0736,427,51.0,172.0,,,
+0156,10.320,flow,alir  mengalir,salanjang,salanjang me-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-,,,,,intr,,kata kerja,,458,0.0,123.0,,,52.0
+0157,10.340,float,apung  terapung (w),lonto,lonto RDP2~ me-,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,RDP2 me-,,,,,intr,process,,,,0.0,0.0,,,51.0
+0158,10.470,go,pergi ->12.007 #check->,pek,pek M-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,M-,,,,,intr,action,,1279f,,0.0,0.0,,,
+0159,10.450,walk,jalan  berjalan,lampa,lampa RDP2 me- -mo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,RDP2 me- -mo,,,,body,intr,action,kata kerja,0145,460,337.0,5.0,C195 D63 E176 F178 G193,65.0,178.0
+0160,10.460,run,lari  berlari,lindok,lindok mo--um- [1. momindok] mindok i--ao,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo--um-  mindok i--ao,[1. momindok],,,,intr,action,kata kerja,,459,244.0,0.0,,,
+0163,10.430,jump,lompat  melompat (jauh),lumpat,lumpat -ao i--ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-ao i--ao,,,,motion,intr,action,,1249,,0.0,0.0,,,
+0163a,10.431,jump upwards,lompat  melompat (ke atas),lombor,lombor mangu- RDP.F  p23,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mangu- RDP.F  ,,,,motion,intr,action,,,,0.0,0.0,,,
+0164,10.350,swim (crawl),renang  berenang  (gaya bebas),lolom,lolom monggu- (?)  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,monggu-   ,,(?),,body,intr,action,kata kerja,0153,426*,301.0,9.0,C193 D61 E175 F176 G191,63.0,159.0
+0165,10.230,"fall, drop",jatuh menjatuhkan,nabu,nabu mV- mo--ao ni--ao~ ro--ao~ notingka-,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- mo--ao ni--ao ro--ao notingka-,,,,,intr,event,kata kerja,,401/402*,100.0,95.0,C208/9 E199/200 F191 G206/7,,40.0
+0167,10.620,"bring, carry (in the hand)",bawa  membawa ->11.140,baßa,baßa moN- ni-~ ro-~ p13,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni- ro- ,,,,,tr,action,,1216,,0.0,0.0,,,
+0169,10.610,carry on shoulder/back,pikul  memikul,sopo,sopo moN%nj- ro-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%nj- ro-  ,,,,,tr,action,,1220,,0.0,0.0,,,
+0169a,10.611,carry on shoulder with a stick,pikul  memikul (dgn pikulan),sumbi,sumbi moN%n- ni-  ~ p35,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%n- ni-   ,,,,,tr,action,,1220a,,0.0,0.0,,,
+0169b,10.612,carry sitting on the shoulder,panggul memanggul  (duduk di bahu),suung,=10.614,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=10.614,moN%j- ro-  ,,,,,tr,action,,1220b,,0.0,0.0,,,
+0170,10.614,carry on the head,junjung  menjunjung,suung,suung moN%j- ro-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%j- ro-  ,,,,,tr,action,,1212,,0.0,0.0,,,
+0171,10.615,carry under the arm,kepit  mengepit,upit,upit moN- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-  ,,,,,tr,action,,1215,,0.0,0.0,,,
+0173,10.606,"carry in a sarong, sarong used as a sling  #includes alte 890#","gendong dalam sarung,  sarung dukung",tontol,tontol moN- ro-  ~ (di muka),Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ro-   ,,(di muka),,dressing,noun,,,0587/1218,,0.0,0.0,,,
+0175,10.608,carry on the back (with a strap),ambin  mengambin,kolong,kolong moN%g- ro-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%g- ro-  ,,,,motion,tr,action,,1217,,0.0,0.0,,,
+0176,10.605,carry on the hip,"gendong  menggendong, dukung  mendukung",ambing,ambing maN- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,maN- ni-  ,,,,motion,tr,action,,1214,,0.0,0.0,,,
+0177,10.618,carry sth. hanging from the hand,jinjing  menjinjing,talenteng,talenteng moN- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-  ,,,,motion,tr,action,,1213,,0.0,0.0,,,
+0178,11.210,give,beri  memberi,bagi,bagi moN- ro--i ni--i -ao  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ro--i ni--i -ao  ,,,,,tr,action,kata kerja,1176,446,128.0,0.0,C214 D68 E201 F194 G210,70.0,59.0
+0179,11.130,take,ambil  mengambil,singgo,singgo ro- moN%n-~ p15,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ro- moN%n- ,,,,motion,tr,action,,1179,,0.0,0.0,,,
+0180,10.630,send,kirim  mengirim,pakatu,pakatu mo- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo- ni-  ,,,,,tr,action,,1282,,0.0,0.0,,,
+0182,10.670,push,dorong  mendorong,dudutao,"dudutao moN- ni-  ~ (kendaraan), duling moN- ni-  ~ (orang)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-   ,,(kendaraan),,,tr,action,kata kerja,,414,222.0,0.0,,,114.0
+0182,10.670,push,dorong  mendorong,duling,"dudutao moN- ni-  ~ (kendaraan), duling moN- ni-  ~ (orang)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-   ,,(orang),,,tr,action,kata kerja,,414,222.0,0.0,,,114.0
+0183,09.330,pull,tarik  menarik (sesuatu),kibit,kibit moN%g- -i ro--i  p11,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%g- -i ro--i  ,,,,,tr,action,kata kerja,,415,221.0,0.0,,,113.0
+0184,10.250,throw,lempar melempar (batu),tobok,tobok moN- ro-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ro-  ,,,,,tr,action,kata kerja,1275,435,316.0,94.0,,,170.0
+0184b,10.252,catch,tangkap menangkap,sokop,sokop ni- moN%j- p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ni- moN%j- ,,,,,tr,action,,,,0.0,0.0,,,
+0185,10.255,throw away,buang  membuang,buangao,"buangao moN- ni-  ~, tobokao =10.250",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-  ,,,,,tr,action,kata kerja,1274,400,317.0,0.0,,,
+0185,10.255,throw away,buang  membuang,tobokao,"buangao moN- ni-  ~, tobokao =10.250",Balaesang,Rano,119.7132,-0.0433,,True,,,False,=10.250,,,,,,tr,action,kata kerja,1274,400,317.0,0.0,,,
+0187,10.135,turn (right/left),belok  berbelok,salipar,salipar me-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me-  ,,,,,intr / tr,,kata kerja,,417,0.0,8.0,,,
+0188b,10.145,"shake, rock",goyang  monggoyang  -> 04.631 04.680,ndoyong,"ndoyong -ao ""rock gently"" p19",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-ao  ,,"""rock gently""",,,tr,,,,,0.0,0.0,,,
+0192,10.480,"come, arrive","datang, tiba",subul,"subul me- pepe- nipepe-~ ""didatangkan"" nipe--i ""didatangi"" p13",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me- pepe- nipepe-  nipe--i  ,,"""didatangkan""', '""didatangi""",,,intr,action,kata kerja,1283,470,0.0,7.0,C196 D64 E186 F179 G194,66.0,23.0
+0193a,10.555,"pass_by, via, beyond",lewat melewati,labat,labat  -ao p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-ao ,,,,motion,intr/tr,action,,,,0.0,0.0,,,
+0194,10.490,depart,angkat  berangkat,lampa,lampa  pe- ~ p5,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,pe-  ,,,,,intr,action,,1286,,0.0,0.0,,,
+0196,10.482,return home,pulang ->14.255,teule,teule me-  p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-  ,,,,motion,intr,action,kata kerja,,471,231.0,0.0,,,
+0197,10.475,"go down, descend",turun  menurun,penau,penau M- RDP  ~  p36,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,M- RDP    ,,,,,intr,action,,0950,,0.0,0.0,,,
+0200a,10.520,follow,ikut  mengikuti,libur,libur mongga- ro- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mongga- ro- ni-  ,,,,,intr,action,,,,0.0,0.0,,,
+0201,12.130,sit,duduk  ->07.432,ngodung,ngodung RDP.F me- pe--i  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,RDP.F me- pe--i  ,,,,motion,intr,state,kata kerja,0149,462*,263.0,51.0,C198 D66 E196 F181 G195,68.0,136.0
+0203,12.133,sit with legs crossed,sila  bersila,posalo,posalo mo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo-  ,,,,body,intr,state,,0150,,0.0,0.0,,,
+0204,12.139,squat,jongkok  berjongkok,porenggek,porenggek mo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo-  ,,,,body,intr,state,,0152,,0.0,0.0,,,
+0205,12.140,lie down,baring  berbaring,duling,"duling RDP me-RDP mo- ""guling""  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,RDP me-RDP mo-   ,,"""guling""",,body,intr,state,kata kerja,0148,463*,0.0,0.0,C197,67.0,88.0
+0206,12.141,lie prone,tiarap,porabak,porabak mo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo-  ,,,,body,intr,state,,0147,,0.0,0.0,,,
+0207,12.142,lie supine,telentang,tebulengang,tebulengang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,body,intr,state,,0146,,0.0,0.0,,,
+0208,12.150,stand,diri  berdiri,tido,tido mangun- -ao moN%t--ao ro- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mangun- -ao moN%t--ao ro- ni-  ,,,,body,intr,state,kata kerja,0144,461*,284.0,52.0,C199 D67 E187 F180 G196,69.0,151.0
+0209,12.160,"remain, live, stay",tinggal ->12.110,moya,moya mo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo-  ,,,,motion,intr,state,,,472,169.0,0.0,,,
+0210,07.1??,??#,tinggal: related items ??#,ßiling,"ßiling i- ""ditinggalkan"" mompangu- ""meninggalkan""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,i-  mompangu- ,,"""ditinggalkan""', '""meninggalkan""",,motion,intr,state,kata kerja,,,0.0,0.0,,,
+0211,17.170,know,"tahu, kenal",sani,sani mosi-  ~ p32 p37,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mosi-    ,,,,,tr,state,kata kerja,1193/5,369*,155.0,20.0,C187 D58 E171 F169 G182,59.0,82.0
+0215,17.310,remember,"ingat  mengingat, kenang  mengenang",inak,inak mompaN- -ao ni--ao ro--ao  ~ p37,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mompaN- -ao ni--ao ro--ao   ,,,,,tr,action,,1196,,0.0,0.0,,,
+0216,17.320,forget,lupa,kalingang,kalingang -i ni--i ro--i moN%g-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i ni--i ro--i moN%g-  ,,,,,tr,state,kata kerja,1197,371,120.0,0.0,,,
+0217,17.130,think,pikir  berpikir,pikir,pikir moN%p-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p-  ,,,,,tr,action,kata kerja,1194,368,0.0,21.0,,,166.0
+0223,17.485,be able to,"dapat, sanggup",mpakule,mpakule mo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo-  ,,,,,tr,state,,1208,,0.0,0.0,,,
+0225,18.320,answer,jawab  menjawab,simbat,simbat -i moN%n- ni--i ro--i  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i moN%n- ni--i ro--i  ,,,,,tr,action,kata kerja,1268,378,6.0,0.0,,,
+0226,18.310,ask,tanya  bertanya,pokutana,pokutana M- i-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,M- i-  ,,,,,tr,action,,1267,,0.0,0.0,,,
+0227,18.350,ask for,minta  meminta,mangidi,mangidi mo- ropo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo- ropo-  ,,,,say,tr,action,,1269,,0.0,0.0,,,
+0228,18.410,call,panggil  memanggil,leßa,leßa i--i mo-RDP~  p15,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,i--i mo-RDP  ,,,,,tr,action,,1206,,0.0,0.0,,,
+0229,18.415,beckon with the hand,panggil  memanggil (dgn tangan),kambei,kambei moN-  ro- ni-  ~ p37,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN-  ro- ni-   ,,,,,tr,,kata kerja,,374,40.0,0.0,,,
+0229a,18.417,invite,undang mengundang,umbayang,umbayang ni-  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ni-  ,,,,,tr,,,,,0.0,0.0,,,
+0230,18.220,"say, speak, utter",kata  berkata,peilu,peilu M- i--ao ro--ao moN--ao  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,M- i--ao ro--ao moN--ao  ,,,,,intr / tr,action,kata kerja,1205,376*,247.0,64.0,C216 D69 E202 F186 G200,71.0,127.0
+0238,18.221,story,cerita,gapad,gapad mo- ni- RDP--ong  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo- ni- RDP--ong  ,,,,culture,noun,,kebiasaan,0356,476,289.0,0.0,,,
+0250,18.170,whistle,siul  bersiul,mpois,mpois me- i--i  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me- i--i  ,,,,,intr,action,,,,0.0,0.0,,,
+0251,18.120,sing,"nyanyi  menyanyi, bernyanyi (w)",babae,babae mo- p23,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo- ,,,,,intr / tr,action,kata kerja,1203,379,0.0,0.0,C200 E178 F187 G201,,135.0
+0252,18.510,write,tulis  menulis,tulis,tulis moN%t- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%t- ni-  ,,,,,tr/intr,action,,,,0.0,0.0,,,
+0253,18.450,boast,sombong  menyombong,bagah,bagah ma-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ma-  ,,,,,intr,action,,,,0.0,0.0,,,
+0254,18.225,"report, inform",beritahu  memberitahu,pelu,pelu moN--ao i--ao  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN--ao i--ao  ,,,,say,tr,action,kata kerja,,375,305.0,0.0,,,
+0255,16.670,"lie, tell lies","bohong  berbohong, dusta  berdusta",ßolo,ßolo mo- ni--i  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo- ni--i  ,,,,,intr,action,kata kerja,1272,372,165.0,0.0,Wu 089,,
+0256,16.620,"like, want, be_willing","suka, mau, hendak, ingin",modoung,"modoung  p39, takinaa ro-  ""perasahan"" =16.270 p15y",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,tr,action,,1243,,0.0,0.0,,,
+0256,16.620,"like, want, be_willing","suka, mau, hendak, ingin",takinaa,"modoung  p39, takinaa ro-  ""perasahan"" =16.270 p15y",Balaesang,Rano,119.7132,-0.0433,,True,,,False,=16.270,ro-    ,,"""perasahan""",,,tr,action,,1243,,0.0,0.0,,,
+0257,16.530,"fear, be afraid of",takut (kepada),ßure,ßure mV- nipo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- nipo-  ,,,,,tr,state,kata kerja,,365*,106.0,22.0,,,44.0
+0257a,16.150,be suprised,"kaget, terkejut",sadidik,sadidik te- mete-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,te- mete-  ,,,,,stative,stat,,,,0.0,0.0,,,
+0260,16.270,love,"cinta  mencintai, kasih  mengasihi",takinaa,takinaa mo--um- mosi-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo--um- mosi-  ,,,,,tr,action,,1238,,0.0,0.0,,,
+0262,16.350,pity,kasihan,aasi,aasi  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,noun,,,,,0.0,0.0,,,
+0263,16.440,jealous,cemburu,kapang,kapang mV-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  ,,,,,noun,,,,,0.0,0.0,,,
+0270,15.722,"touch, feel","raba  meraba, sentuh menyentuh",gagap,gagap moN%0- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%0- ni-  ,,,,,tr,action,,1231,,0.0,0.0,,,
+0271,15.712,"pinch, squeeze","jepit  menjepit, tekan  menekan",upit,upit moN- ni-  ~ =10.615,Balaesang,Rano,119.7132,-0.0433,,False,,,False,=10.615,moN- ni-   ,,,,,tr,action,,1259,,0.0,0.0,,,
+0272,15.220,"smell, sniff",cium  mencium,iki,iki ni--i moN-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ni--i moN-  ,,,,,tr,action,kata kerja,1229,384*,271.0,29.0,,,141.0
+0274,15.310,"taste, nibble at",cicip  mencicipi,epei,epei moN- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-  ,,,,,tr,action,,1232,,0.0,0.0,,,
+0275,15.410,hear,dengar  mendengar,epe,epe mosi- ni- ni--ao mekekepe  p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mosi- ni- ni--ao mekekepe  ,,,,,tr,action,kata kerja,1227,382,135.0,44.0,C185 D57 E169 F168 G181,58.0,68.0
+0276,15.510,see,lihat  melihat,kita mekikita,"kita mekikita mV-~ ""terlihat"" ni-/i- p11 mosi- rokitei  p16",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  ni-/i-  mosi- rokitei  ,,"""terlihat""",,,tr,action,kata kerja,1228,383*,251.0,46.0,C184 D56 E168 F167 G180,57.0,130.0
+0276a,15.522,watch,tonton menonton,kita mongginggita,"kita mongginggita ""melihat sebentar saja"" ni-  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ni-  ,,"""melihat sebentar saja""",,,tr,action,kata kerja,,,0.0,0.0,,,
+0277,15.550,show,lihat  memperlihatkan ->15.510,kita,kita mopopo-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mopopo-  ,,,,,tr,action,,,,0.0,0.0,,,
+0278,11.310,"look for, seek",cari  mencari,pilolo,pilolo mosi- i- ro-~ moN%b-  p16,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mosi- i- ro- moN%b-  ,,,,,tr,action,,1174,,0.0,0.0,,,
+0279,15.532,spy,intai  mengintai,ilok,"ilok moN- ni-  ~ (through a hole), tampung moN- ni-  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-   ,,(through a hole),,,tr,action,,1225,,0.0,0.0,,,
+0279,15.532,spy,intai  mengintai,tampung,"ilok moN- ni-  ~ (through a hole), tampung moN- ni-  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-  ,,,,,tr,action,,1225,,0.0,0.0,,,
+0281,04.840,"painful, sore",sakit,peere,peere mV-  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  ,,,,disease,stative,,kata sifat,201,290*,209.0,160.0,,,
+0282,04.841,"ill, sick","sakit (berat, demam)",peere,=04.840,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=04.840,mV-  ,,,,disease,stative,,kata sifat,0199/20,,0.0,0.0,,,
+0285,04.852,"swelling, swollen",bengkak,manggak,manggak me-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me-  ,,,,disease,noun,,,0212,,0.0,0.0,,,
+0286,04.854,boil,bisul,bisul,bisul  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,disease,noun,,anggota tubuh,0203,067,29.0,0.0,,,
+0289,04.970,blind,buta,buta,buta mV-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  ,,,,disease,stative,state,kata sifat,0229,288,25.0,0.0,C137 E128 F128 G137,,
+0290,04.950,deaf,tuli,bongol,bongol mV-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  ,,,,disease,stative,state,kata sifat,0228,289,69.0,0.0,C136 E127 F127 G136,,
+0290a,04.955,dumb,bisu,bobo,bobo mV-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  ,,,,disease,stative,state,kata sifat,0228a,,0.0,0.0,,,
+0294,04.883,scabies,kudis,kakatol,kakatol  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,disease,noun,,,0217,,0.0,0.0,,,
+0296,04.884,"ichtyosis, tinea",kaskado,bugis,bugis  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,disease,noun,,,0215,,0.0,0.0,,,
+0297,04.856,"itch, be itchy",gatal,rentip,rentip me-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me-  ,,,,body,intr,,kata kerja,,453*,151.0,0.0,C210 E181 F192 G208,,
+0298,04.858,"scratch (an itch, body)",garuk  menggaruk (w) (badan),kakao,kakao moN-  ro-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN-  ro-  ,,,,body,intr / tr,action,kata kerja,,454,249.0,77.0,,,128.0
+0300,15.385,rheumatism,"sengal, encok",ngilu,ngilu me-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me-  ,,,,disease,noun,,,0220,,0.0,0.0,,,
+0302,04.850,wound,luka,bela,bela mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,disease,noun,,,0196,,0.0,0.0,,,
+0304,04.843,fever,"demam, malaria",koko,"koko -an ni--an  p5, pana mV- ~ p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-an ni--an  ,,,,disease,noun,,,0204/5,,0.0,0.0,,,
+0304,04.843,fever,"demam, malaria",pana,"koko -an ni--an  p5, pana mV- ~ p15",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  ,,,,disease,noun,,,0204/5,,0.0,0.0,,,
+0305,04.846,headache,"sakit kepala, pusing",pere baki,pere baki  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,disease,noun,,,0219,,0.0,0.0,,,
+0308,,have a stomach ache,sakit perut,pere kompong,pere kompong  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,disease,intr,state,,0206,,0.0,0.0,,,
+0309,04.663,have diarrhoea,ceret  menceret,tatai pupurah,tatai pupurah p31,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,disease,intr,event,,0208,,0.0,0.0,,,
+0311,04.880,medicine,obat,pakuli,pakuli  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,disease,noun,,buatan manusia,0233,253,179.0,0.0,,,
+0315,04.750,"die, dead",mati,maate,maate  p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,death,intr,state,kata kerja,0185,411,68.0,75.0,C190 D60 E174 F175 G190,61.0,27.0
+0317,04.760,kill,bunuh  membunuh (orang),papate,papate i- mo-  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,i- mo-  ,,,,death,tr,action,kata kerja,0192,434*,153.0,74.0,C192 D96 E195 F174 G189,62.0,81.0
+0318,04.770,corpse,mayat,tonanak,tonanak  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,death,noun,object,,0188,,0.0,0.0,,,
+0323,04.780,"bury, inter",kubur  menguburkan,tanong,tanong moN%t- ni- ro-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%t- ni- ro-  ,,,,death,tr,,kata kerja,0190,413,36.0,0.0,,,
+0325,02.360,mother,ibu,sinang,sinang p32  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0256,075,185.0,59.0,C144 E135 F134 G143,,96.0
+0325a,02.362,mother (form of address),ibu (panggilan),ona,ona  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0256a,,0.0,0.0,,,
+0326,02.350,father,"bapak, ayah",siamang,siamang  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0255,074,105.0,60.0,C143 E134 F133 G142,,43.0
+0326a,02.352,father (form of address),bapak  (panggilan),oma,oma  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0255a,,0.0,0.0,,,
+0328,02.455,sibling,saudara (kandung),ntolutuai hembiti,ntolutuai hembiti  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,noun,,hubungan kemasyarakatan,0268/26,084,262.0,0.0,,,
+0333,02.456,younger sibling,adik,tuai,tuai p12,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0272/27,087*,0.0,0.0,C153 E139 F138 G148,,
+0336,02.270,child,anak,nganak,nganak  p3 p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0257/25,076,48.0,56.0,,,20.0
+0339,02.273,last born child,anak bungsu,nganak tampakluit,nganak tampakluit  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0258,078*,0.0,0.0,C147 G145,,
+0340,02.272,first born child,anak sulung,lumbua,lumbua  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0257,077*,0.0,0.0,C146,,
+0343,02.470,grandmother,nenek (perempuan),beke,beke,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0264,080,0.0,0.0,C149 E137 F136 G151,,
+0343a,02.472,grandmother  (form of address),nenek perempuan  (panggilan),beke,=02.470,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=02.470,,,,,kinship,noun,,hubungan kemasyarakatan,0264a,,0.0,0.0,,,
+0344,02.460,grandfather,kakek,kai,kai,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0263,081,0.0,0.0,C148 E137,,
+0344a,02.462,grandfather (form of address),kakek (panggilan),kai,=02.460,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=02.460,,,,,kinship,noun,,hubungan kemasyarakatan,0263a,,0.0,0.0,,,
+0345,02.562,great-grandparents,moyang,toriulu,toriulu  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,0266,,0.0,0.0,,,
+0347,02.480,grandchild,cucu,mokupu,mokupu  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0274,079,0.0,0.0,C154 E140 F139 G146,,
+0352,02.520,aunt,bibi,posinaong,posinaong  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,0281/02,091*,0.0,0.0,C156 E142 F141 G150,,
+0352a,02.521,aunt (form of address),bibi  (panggilan),nao,nao  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0281/28,,0.0,0.0,,,
+0361,02.510,uncle,paman,posiamaong,posiamaong  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,0275/02,089*,0.0,0.0,C155 E141 F140 G149,,
+0361a,02.511,uncle (form of address),paman (panggilan),mangge,mangge  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0275/28,,0.0,0.0,,,
+0368,02.530,nephew/niece,kemanakan,pinanak,pinanak  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,0287/02,,0.0,0.0,,,
+0381,02.310,spouse,isteri / suami,ßerei,"ßerei ""isteri"" p14 p16, motua ""suami"" p16",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""isteri""",,kinship,noun,,hubungan kemasyarakatan,0317/18,072*,147.0,57.0,C141 D16 E132 F131 G140,,76.0
+0381,02.310,spouse,isteri / suami,motua,"ßerei ""isteri"" p14 p16, motua ""suami"" p16",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""suami""",,kinship,noun,,hubungan kemasyarakatan,0317/18,072*,147.0,57.0,C141 D16 E132 F131 G140,,76.0
+0383,02.600,parents-in-law,mertua,meniang,meniang  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,0297,,0.0,0.0,,,
+0400,02.650,brother/sister-in-law,ipar,era,era  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,0310/14,,0.0,0.0,"Z2.65A bayaw=broth, siipar=sis",,
+0405,02.710,step-parents/children,tiri,atok,atok  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,0304,,0.0,0.0,,,
+0413,02.760,widow/er,janda (mati),timbala,timbala  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,,,hubungan kemasyarakatan,,094*,357.0,0.0,,,
+0414,02.762,divorcee,janda (cerai),sara,sara mosi-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mosi-  ,,,,kinship,noun,,,,,0.0,0.0,,,
+0415,02.810,"relative, kin",sanak,kodudungna kompong,kodudungna kompong  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,kinship,noun,,,,,0.0,0.0,,,
+0420,02.345,bride price,mas kawin,popoturu,popoturu (!)  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(!),,culture,noun,,kebiasaan,0411,481*,0.0,0.0,C160 E146 F145 G156,,
+0424,02.330,"marry, marriage","kawin, perkawinan",motua,"motua mo- mopopo- (per), ßerei mo- mopopo- (l-l) p16",Balaesang,Rano,119.7132,-0.0433,feminine,True,,,False,nan,mo- mopopo- ,,,,culture,tr,action,,0408,,0.0,0.0,,,
+0424,02.330,"marry, marriage","kawin, perkawinan",ßerei,"motua mo- mopopo- (per), ßerei mo- mopopo- (l-l) p16",Balaesang,Rano,119.7132,-0.0433,masculine,True,,,False,nan,mo- mopopo-  ,,,,culture,tr,action,,0408,,0.0,0.0,,,
+0429,02.100,person,orang,too,too  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0238,069*,214.0,53.0,C138 D17 E129 F126 G135,18.0,111.0
+0432,02.253,"boy, lad (call form)",anak laki-laki  (panggilan) ->04.492,ebo,ebo  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,humans,noun,,,0250,,0.0,0.0,,,
+0433,02.263,girl  (call form),anak perempuan  (panggilan) ->04.480,eping,eping  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,humans,noun,,,0260a,,0.0,0.0,,,
+0436,02.251,"youth (male), young man (adolescent)",pemuda (laki-laki),nganak boßane,nganak boßane,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,humans,noun,,,0247,,0.0,0.0,,,
+0437,02.261,"virgin, young girl",gadis,nganak beßine,nganak beßine,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,humans,noun,,,0251,,0.0,0.0,,,
+0440,02.210,"man, male",laki-laki,boßane,boßane  p9,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,humans,property,,hubungan kemasyarakatan,0241,070,176.0,54.0,C139 E130 F129 G138,17.0,93.0
+0441,02.461,old man,laki-laki tua,langgai,langgai  p8,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,humans,noun,,,0253,,0.0,0.0,,,
+0442,02.220,woman,perempuan,beßine,beßine,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,humans,property,,hubungan kemasyarakatan,0242,071,364.0,55.0,C140 D15 E131 F130 G139,16.0,195.0
+0443,02.471,old woman,perempuan tua,benggel,benggel me-  p8,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-  ,,,,humans,noun,,,0254,,0.0,0.0,,,
+0444,18.280,name,nama,sango,sango  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,humans,noun,,kebiasaan,0239,475,189.0,63.0,C145 D100 E136 F125 G134,100.0,99.0
+0448,19.560,guest,tamu,torata,torata  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0323,095*,0.0,0.0,C158 E144 F143 G154,,
+0450,19.510,"companion, friend","kawan, teman",tagu,tagu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0320,096*,59.0,0.0,C157 E143 F142 G153,,
+0455,01.212,"earth, soil",tanah,luur,luur,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0970,197*,86.0,119.0,C36 D77 E31 F33 G35,79.0,36.0
+0456,01.211,land,darat,puntana,puntana,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,,0942,,0.0,0.0,,,
+0457,01.310,water,air,ßalu,ßalu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0930,201,341.0,122.0,C31 D73 E26 F23 G30,75.0,181.0
+0458,01.320,"sea, ocean",laut,dagat,dagat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0931,193,250.0,124.0,C40 E34 F28 G38,,129.0
+0459,01.350,wave,ombak,barumbang,barumbang mV-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-,,,,cosmos,noun,,,0935,,0.0,0.0,,,
+0460,01.322,calm (of sea),tenang (laut),lino,lino ma- -mo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ma- -mo,,,,cosmos,stative,,,,,0.0,0.0,,,
+0462,01.324,foam,"buih, busa",muyo,muyo  -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,cosmos,noun,,,,,0.0,0.0,,,
+0463,01.353,"lowtide, ebb",surut,moti noti,moti noti -mo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-mo,,,,cosmos,noun,event,,0932,,0.0,0.0,,,
+0464,01.352,"tide, hightide",pasang,sorong,sorong me- -ao p19,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me- -ao ,,,,cosmos,noun,event,,0934,,0.0,0.0,Z1.36R,,
+0466,01.270,"shore, beach",pantai,sampoan,sampoan (terbatas),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(terbatas),,cosmos,noun,,alam dunia,0938,194,258.0,0.0,,,
+0470,01.343,"cape, point","tanjung, ujung",tando,tando -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,cosmos,noun,,,0946,,0.0,0.0,,,
+0472,01.250,island,pulau,lißutong,lißutong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,,0944,,0.0,0.0,,,
+0473,01.330,lake,danau,rano,rano,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0933,208*,157.0,126.0,C39 F27 G39,,83.0
+0474,01.360,"river, stream",sungai,salu,"salu -na, selengit -na ""kuala""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,cosmos,noun,,alam dunia,0963,207*,288.0,0.0,,,119.0
+0474,01.360,"river, stream",sungai,selengit,"salu -na, selengit -na ""kuala""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na ,,"""kuala""",,cosmos,noun,,alam dunia,0963,207*,288.0,0.0,,,119.0
+0475,01.370,spring,mata air,mata ßalu,mata ßalu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,alam dunia,0967,203*,0.0,0.0,C32 E27 F24 G31,,
+0477a,01.413,"bushland, grassland","rumput-rumput, semak-semak (most common response to hutan)#",omak,omak -na mo-RDP.F [mo'omakomak],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na mo-RDP.F ,[mo'omakomak],,,cosmos,noun,,alam dunia,0957,,0.0,0.0,,,
+0477b,01.415,former location of garden in forest,bekas kebun di hutan,tarobo,tarobo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,+alam dunia,0955a,,0.0,0.0,,,
+0477c,01.416,recently abandoned garden,bekas kebun: belum 1 tahun liar lagi,kabo,=08.130,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=08.130,,,,,cosmos,noun,,alam dunia,0955b,,0.0,0.0,,,
+0478,01.412,jungle,rimba raya,kakayu,kakayu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,,0956,,0.0,0.0,,,
+0480,01.220,mountain,gunung,bulur,bulur,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0947,204,186.0,0.0,C42 D99 E36 F30 G41,86.0,97.0
+0481,01.222,hill,bukit,simoudung,"simoudung (single hill, not chain)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(single hill; not chain),,cosmos,noun,,,0948,,0.0,0.0,,,
+0482,01.230,plain,dataran,damat,"damat -na ""dataran rendah""  mV- ""rata""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na   mV- ,,"""dataran rendah""', '""rata""",,cosmos,noun,,,0951,,0.0,0.0,,,
+0483,01.240,valley,lembah,eßak,eßak -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,cosmos,noun,,,0952,,0.0,0.0,,,
+0484,01.224,summit,puncak,datar,datar -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,,noun,,alam dunia,,205,295.0,0.0,,,
+0486a,012.850,hole,lubang ->01.280,bolok,"bolok p24, lulu  p39",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,,,,0.0,0.0,,,
+0486a,012.850,hole,lubang ->01.280,lulu,"bolok p24, lulu  p39",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,,,,0.0,0.0,,,
+0487,10.712,"trail, track",jalanan,dalang to deidek,dalang to deidek,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,action<,buatan manusia,,255*,324.0,6.0,C163 D98 E148 F147 G159,85.0,120.0
+0488,10.710,road,jalan,dalang,dalang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,,0959,,0.0,0.0,,,
+0490,04.374,"trace,  (foot)print","bekas (kaki), jejak ->04.855",laab bisit,laab bisit,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,,0961,,0.0,0.0,,,
+0491,01.445,lime,kapur,toíla,toíla -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,cosmos,noun,,alam dunia,0728,214,167.0,0.0,,,
+0491a,09.640,gold,emas,bulaßan,bulaßan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,,,0.0,0.0,,,
+0492,01.213,dust,debu  ->01.840,kabu,kabu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,alam dunia,,212*,84.0,11.0,,,34.0
+0493,01.214,mud,"lumpur, pecek",loe,loe mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,cosmos,noun,,alam dunia,0960,196,188.0,0.0,,,
+0494,01.215,sand,pasir,bayas,bayas / bayah,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0971,195,246.0,121.0,C35 D76 E30 F32 G34,78.0,126.0
+0494,01.215,sand,pasir,bayah,bayas / bayah,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0971,195,246.0,121.0,C35 D76 E30 F32 G34,78.0,126.0
+0495,01.440,stone,batu,polu,"polu, batu p21",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0969,213,288.0,120.0,C34 D75 E29 F31 G33,77.0,154.0
+0495,01.440,stone,batu,batu,"polu, batu p21",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0969,213,288.0,120.0,C34 D75 E29 F31 G33,77.0,154.0
+0496,01.510,sky,langit ->01.560,layano,layano -na (cerah),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na ,,(cerah),,cosmos,noun,,alam dunia,0905,184*,267.0,128.0,,,138.0
+0497,01.520,sun,matahari ->14.410,sekat,sekat / mata sekat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0906,181,0.0,0.0,C28 D70 E23 F20 G27,72.0,157.0
+0497,01.520,sun,matahari ->14.410,mata sekat,sekat / mata sekat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0906,181,0.0,0.0,C28 D70 E23 F20 G27,72.0,157.0
+0498,01.530,moon,bulan,endak,endak -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,cosmos,noun,,alam dunia,0908,182*,181.0,129.0,C29 D71 E24 F21 G28 Sa107,73.0,
+0499,01.540,star,bintang,betuong,betuong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0912,183,285.0,130.0,C30 D72 E25 F22 G29,74.0,152.0
+0500,01.730,cloud,awan,tai poiri,tai poiri,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0921,185*,52.0,131.0,C37 D78 E32 F35 G36,80.0,21.0
+0501,01.732,raincloud,awan hitam,tai poiri to buburing,tai poiri to buburing,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,alam dunia,,186,226.0,0.0,,,
+0502,01.750,rain,hujan,udang,udang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0919,190,224.0,133.0,C33 D74 E28 F25 G32,76.0,115.0
+0503,01.590,rainbow,pelangi,sampinoraa,sampinoraa,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0923,191,225.0,0.0,,,
+0504,01.550,lightning,kilat,nggirat,nggirat mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,cosmos,noun,event,alam dunia,0926,189,166.0,135.0,,,
+0505,01.560,thunder,"guntur, guruh  ->01.510",gorung,gorung,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0924,188,318.0,134.0,,,
+0506,01.580,storm,"badai, angin ribut",ruung,ruung mo-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo-,,,,cosmos,noun,event,,0929,,0.0,0.0,,,
+0507,01.585,flood,banjir,alußaa,alußaa  mV- [malußá],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[malußá],,,cosmos,noun,,,0968,,0.0,0.0,,,
+0508,01.450,earthquake,gempa bumi,sioputa,sioputa,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,event,alam dunia,0927,198,87.0,0.0,,,
+0509,01.640,dew,embun,ondu,ondu -na,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na,,,,cosmos,noun,,,0920,,0.0,0.0,,,
+0511,01.720,wind,angin,poiri,poiri,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0928,192*,359.0,136.0,C38 E33 F36 G37,,191.0
+0512,01.740,"fog, mist#",kabut,gaßung,gaßung mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,cosmos,noun,,alam dunia,0922,187,0.0,132.0,,,54.0
+0513,01.810,fire,api,lutong,lutong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,event,alam dunia,0475,209,112.0,143.0,C43 D80 E37 F37 G42,82.0,48.0
+0514,01.830,smoke (from fire),asap,obol,obol,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,alam dunia,0482,210,272.0,145.0,C44 D79 E38 F38 G44,81.0,142.0
+0515,01.840,ashes,abu ->01.213,aßu,aßu  p3,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,alam dunia,0483,211*,10.0,146.0,C45 D81 E39 F39 G45,83.0,4.0
+0518,01.630,"shadow, shade",bayang-bayang,kalimbayung,"kalimbayung mV-RDP ""berbayang-bayang""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-RDP ,,"""berbayang-bayang""",,,noun,,alam dunia,,215*,255.0,0.0,,,
+0520,03.550,chicken,ayam,tonji,tonji  p12,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0826,110,47.0,0.0,,,
+0525,05.970,egg (chicken),telur (ayam),ntolu,ntolu p11,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,binatang,0790,112,91.0,98.0,C54 D32 E46 F46 G52,33.0,38.0
+0528,03.581,bird,burung,,tonji-tonji  p12,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,tonji-tonji  ,,,,animals,noun,,binatang,0844,108,20.0,97.0,C52 D19 E45 F45 G51,20.0,12.0
+0530b,03.585,hawk,elang,buniga,buniga (bulunya putih-hitam),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(bulunya putih-hitam),,animals,noun,,,0841a,,0.0,0.0,,,
+0532,03.593,owl,burung hantu,kalakiang,kalakiang  ~  p33,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0842,,0.0,0.0,,,
+0534,03.594,parrot,burung nuri,duri,duri  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0834,,0.0,0.0,,,
+0534b,03.595,cockatoo,kakatua,katua,katua  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,,,0.0,0.0,,,
+0536,04.392,wing,sayap,kapi,kapi  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0786,111,361.0,100.0,,,192.0
+0537,04.241,"bill, beak",paruh,ngudu,ngudu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,,0785,,0.0,0.0,,,
+0539,03.580,nest,sarang,dumung,dumung  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0789,,0.0,0.0,,,
+0540,03.592,bat (small),keluang,turupis,turupis  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0847,118*,0.0,0.0,,,
+0541,03.591,bat (big),kelelawar,paniki,paniki  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0846,117*,0.0,0.0,C56 E48 F48 G54,,
+0542,03.650,fish,ikan,bau,bau mo-  p11 p27,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo-   ,,,,food,noun,,binatang,0541,132,113.0,111.0,C51 D18 E44 F44 G50,19.0,49.0
+0543,03.666,eel,ikan belut,kadaba,kadaba  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0865,135*,90.0,0.0,,,
+0545,03.654,fish gills,insang,ngarek,ngarek  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,,134,0.0,0.0,,,
+0546,03.652,fin (dorsal),sirip,sorinjing,sorinjing  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,,,0.0,0.0,,,
+0547,03.653,fish scales,sisik,solu,solu -na  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-na  ,,,,animals,noun,,binatang,,133,0.0,0.0,,,
+0548,03.655,"shell, mollusks","kulit kerang, kerang-kerangan",,"kapi-kapi  ~, ayat  ~ (tajam, di pece)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,kapi-kapi  ,,,,animals,noun,,,0895c,,0.0,0.0,,,
+0548,03.655,"shell, mollusks","kulit kerang, kerang-kerangan",ayat,"kapi-kapi  ~, ayat  ~ (tajam, di pece)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(tajam; di pece),,animals,noun,,,0895c,,0.0,0.0,,,
+0549,03.685,shrimp,udang,urang,urang p4,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,,0892,,0.0,0.0,Z: large vs. small??,,
+0549a,03.680,crab,kepiting,sikandupi,"sikandupi  ~, bunggang  ~ (laut, besar), poromato  ~ (laut, bintik-bintik)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0893,,0.0,0.0,,,
+0549a,03.680,crab,kepiting,bunggang,"sikandupi  ~, bunggang  ~ (laut, besar), poromato  ~ (laut, bintik-bintik)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(laut; besar),,animals,noun,,,0893,,0.0,0.0,,,
+0549a,03.680,crab,kepiting,poromato,"sikandupi  ~, bunggang  ~ (laut, besar), poromato  ~ (laut, bintik-bintik)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(laut; bintik-bintik),,animals,noun,,,0893,,0.0,0.0,,,
+0550,03.630,"mouse, rat",tikus,balaßo,balaßo  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0851,141*,227.0,102.0,C59 E51 F51 G57,,
+0551,03.350,pig,babi,baßi,baßi p22,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0794,142,216.0,0.0,,,
+0554,03.610,dog,anjing,deuk,deuk  p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0811,143,78.0,96.0,C55 D20 E47 F47 G53,21.0,30.0
+0556,03.760,monkey,"monyet, kera",kodo,kodo  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0854,140*,180.0,0.0,,,
+0558,03.205,water buffalo,kerbau,bengga,bengga  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,,,binatang,0800-802,104,43.0,0.0,,,
+0559,03.206,anoa depressicornis,anoa,ndueng,ndueng  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,,,binatang,,105,0.0,0.0,,,
+0563,04.180,tail,ekor,iku,iku  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0778,107,302.0,105.0,C62 D34 E54 F54 G60,35.0,160.0
+0564,04.170,horn,tanduk,tanduk,tanduk  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0810,106,0.0,0.0,C61 D33 E53 F53 G59,34.0,
+0565,03.570,duck,bebek,titik,"titik  ~, surati  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0833,,0.0,0.0,,,
+0565,03.570,duck,bebek,surati,"titik  ~, surati  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0833,,0.0,0.0,,,
+0565a,03.572,small wild duck (dendrocygna javanica),belibis,bebek,bebek  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0833a,,0.0,0.0,,,
+0568,04.345,"claw, scratch",cakar mencakar ->04.858 ->10.852,kare,kare moN%g- ni-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%g- ni-  ,,,,animals,noun,,,0781,,0.0,0.0,,45.0,
+0569,03.620,cat,kucing,kiri,kiri   p7,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,,0813,,0.0,0.0,,,
+0571,03.410,horse,kuda,jaran,jaran  p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,,0807,,0.0,0.0,,,
+0572,03.360,goat,kambing,bembe,bembe  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0799,,0.0,0.0,,,
+0574,03.816,termite,anai-anai,ane,ane  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0885,123,307.0,0.0,,,
+0574a,03.817,ant (black),semut (hitam),seeng,seeng  p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0884,,0.0,0.0,,,
+0576,03.811,luminous millipede,kelema(n)yar,alimamayar,alimamayar  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,,,binatang,,125*,0.0,0.0,,,
+0577,03.812,centipede,lipan,alipang,alipang  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0888,124*,0.0,0.0,,,
+0578,03.814,cockroach,"lipas, kecoa (#Chikao)",lelepe,"lelepe  ~ (kecil), tambirang  ~ (besar)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(kecil),,animals,noun,,,0883,,0.0,0.0,,,
+0578,03.814,cockroach,"lipas, kecoa (#Chikao)",tambirang,"lelepe  ~ (kecil), tambirang  ~ (besar)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(besar),,animals,noun,,,0883,,0.0,0.0,,,
+0579,03.885,caterpillar,ulat,ule,"ule, leles / leleh (yg di daun) p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0879,119*,0.0,0.0,,,
+0579,03.885,caterpillar,ulat,leles,"ule, leles / leleh (yg di daun) p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0879,119*,0.0,0.0,,,
+0579,03.885,caterpillar,ulat,leleh,"ule, leles / leleh (yg di daun) p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(yg di daun),,animals,noun,,binatang,0879,119*,0.0,0.0,,,
+0580,03.930,grasshopper,belalang,tintiluk,tintiluk  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0881,,0.0,0.0,,,
+0581,03.815,scorpion,kalajengking,tomepesupi,tomepesupi  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,,,binatang,,127*,0.0,0.0,,,
+0582,03.960,lizard,kadal,lambata,lambata  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0898,,0.0,0.0,,,
+0582a,03.961,house lizard  (hemidactylus frenatus),cecak,torinatop,torinatop  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0898a,,0.0,0.0,,,
+0582b,03.965,iguana,biawak,gibang,gibang  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0899,,0.0,0.0,,,
+0583,03.950,frog,katak,tumpang,tumpang  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0896,136,123.0,0.0,,,
+0586,03.940,"snail, slug",siput,umang,"umang  ~ (ada tangan), buku  ~ (laut)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(ada tangan),,animals,noun,,,0890,,0.0,0.0,,,
+0586,03.940,"snail, slug",siput,buku,"umang  ~ (ada tangan), buku  ~ (laut)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(laut),,animals,noun,,,0890,,0.0,0.0,,,
+0587,03.981,"turtle, tortoise#  (testudinidae)",kura-kura,lasang,lasang  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0901,137*,328.0,0.0,,,
+0588,03.980,turtle (sea),penyu,tikabe,"tikabe  ~, kiki  ~ (kecil)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0902,,0.0,0.0,,,
+0588,03.980,turtle (sea),penyu,kiki,"tikabe  ~, kiki  ~ (kecil)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(kecil),,animals,noun,,,0902,,0.0,0.0,,,
+0590,03.850,snake,ular,ule saa,ule saa  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0886,131*,274.0,106.0,C60 E52 F52 G58,,144.0
+0594,03.801,louse (head),kutu (kepala),kutu,kutu  p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,animals,noun,,binatang,0866,115,163.0,108.0,C57 D21 E49 F49 G50,22.0,92.0
+0596,03.803,nit (louse egg),telur kutu,lesa,lesa  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0869,,0.0,0.0,,,
+0597,03.804,delouse,kutu: menghilangkan kutu,kute,kute mosi- p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mosi- ,,,,animals,tr,action,kata kerja,0867,455,74.0,0.0,,,
+0598,03.818,spider,labah-labah,kalibobo,kalibobo  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0871,129,280.0,110.0,,,
+0600,03.830,fly,lalat,lale,lale  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0872,122,117.0,0.0,,,
+0601,03.910,firefly,kunang-kunang,takindop,takindop  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0880,126*,0.0,0.0,,,
+0602,03.920,butterfly,kupu-kupu,kalibambang,kalibambang  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0878,120,37.0,0.0,,,
+0603,03.820,bee,lebah,ßani,"ßani  ~, lanoang  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0875,,0.0,0.0,,,
+0603,03.820,bee,lebah,lanoang,"ßani  ~, lanoang  ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,,0875,,0.0,0.0,,,
+0605,03.832,mosquito,nyamuk,sisiok,sisiok  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,animals,noun,,binatang,0877,121,184.0,109.0,C58 E50 F50 G56,,
+0606,03.890,cicada,"tonggeret, uir-uir",takureh,takureh  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,noun,,binatang,,128*,0.0,0.0,,,
+0606a,03.892,cricket,"jangkrik, riang-riang",leleng,leleng (siang)  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,(siang),,,noun,,binatang,,,0.0,0.0,,,
+0614,08.550,branch,"cabang, dahan",ndaang,ndaang  p17,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0739,146*,0.0,113.0,,,
+0616,08.560,leaf,daun,roong,roong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0746,145,159.0,114.0,C2 D24 E2 F3 G3,25.0,85.0
+0621,05.710,"fruit, to bear fruit",buah  berbuah,bua,bua me-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-,,,,plants,noun,,tumbuh-tumbuhan,0759,150*,124.0,117.0,C17 E13 F13 G12,,58.0
+0625,08.421,ripe,"masak, matang   = /->05.121",lame,lame mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,farming,stative,state,,0668,,0.0,0.0,,,
+0627,08.572,flower,bunga (hiasan halaman),bunga,bunga ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0758a,151*,116.0,116.0,C16 E12 F13 G12,,53.0
+0627a,08.570,"blossom, bud","bunga yg jadi buah, putik",burak,burak,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0758,,0.0,0.0,,,
+0628,08.580,"thorn, spine",duri,rui,rui,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0749,152,312.0,0.0,C6 E5 F5 G6,,
+0630,08.312,"pit, stone",biji keras (mangga),maru,maru ha- (?) -na,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,ha-  -na,,(?),,plants,noun,,,0763,,0.0,0.0,,,
+0632,08.821,coconut (young),kelapa muda,tolußina,tolußina,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,,155*,53.0,0.0,C8 E7 F6 G7,,
+0633,08.820,"coconut (ripe fruit, tree)","kelapa (tua, buah, pohon)",kaluku,kaluku,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,0691/92,154,54.0,0.0,C8 E7 F6 G7,,
+0636,08.832,coconut shell,tempurung (kelapa),pantuang,pantuang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0492,156*,0.0,0.0,C7 E6 F7 G8,,
+0637,08.833,coconut fiber,sabut kelapa,bunut,bunut,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0693,,0.0,0.0,,,
+0638,08.940,"bamboo: long, not very strong species",bambu,"robung ""besar","robung ""besar, tipis"" #",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0732,157*,0.0,0.0,C15 E11 G15,,
+0638,08.940,"bamboo: long, not very strong species",bambu,"tipis""","robung ""besar, tipis"" #",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0732,157*,0.0,0.0,C15 E11 G15,,
+0638a,08.941,bamboo: large species,bambu (tebal),aßok,aßok,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0732a,,0.0,0.0,,,
+0638b,08.942,"bamboo: large, strong species","bambu (keras, tebal)",tikol,"tikol  ""bambu batu""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""bambu batu""",,plants,noun,,tumbuh-tumbuhan,0732b,,0.0,0.0,,,
+0638c,08.943,"bamboo: small, thin species","bambu (kecil dan tipis, buat suling)",gasang,gasang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0732c,,0.0,0.0,,,
+0640,08.955,sago palm,rumbia,kulong,kulong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,0703,158*,0.0,0.0,C10 F8 G9,,
+0641,08.950,sago,sagu,kande,kande,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0704,,0.0,0.0,,,
+0641a,08.951,sago pith,ampas sagu,rere,rere,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,,,0.0,0.0,,,
+0641b,08.956,bark of sago tree,kulit batang sagu,ampang,"ampang (lembek), korußung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(lembek),,plants,noun,,,0703a,,0.0,0.0,,,
+0641b,08.956,bark of sago tree,kulit batang sagu,korußung,"ampang (lembek), korußung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0703a,,0.0,0.0,,,
+0642,08.811,nipa palm,nipah,nipa,nipa,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0702,159*,197.0,62.0,,,
+0643,08.817,midrib of palm frond,gaba-gaba,kumbar,kumbar,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0460,,0.0,0.0,,,
+0644,08.856,"rattan, cane#",rotan,bulagon,bulagon,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0731,160,228.0,0.0,C14 E10 F11 G14,,
+0645,08.947,sugarcane,tebu,toßu,toßu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0682,161,294.0,0.0,,,
+0646,08.910,sweet potato,ubi jalar,moloku,moloku p14  (semua macam ubi),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(semua macam ubi),,plants,noun,,tumbuh-tumbuhan,0687,167,299.0,0.0,,,
+0649,08.510,short grass,rumput,oßo,oßo ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,plants,noun,,tumbuh-tumbuhan,0770/1,170*,0.0,118.0,,,61.0
+0651,08.512,sword grass,alang-alang,gio,"gio, galung  (yg tak berbuah)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,,171*,0.0,0.0,C18 E14 F14 G17,,
+0651,08.512,sword grass,alang-alang,galung,"gio, galung  (yg tak berbuah)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(yg tak berbuah),,plants,noun,,tumbuh-tumbuhan,,171*,0.0,0.0,C18 E14 F14 G17,,
+0654,08.865,durio zibethinus,durian,durian,durian p12,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0711,,0.0,0.0,,,
+0658,08.470,"corn, maize#",jagung,katela,katela  p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0674,180,0.0,0.0,,,
+0659,08.965,ginger,jahe,láia,láia,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0730,165*,127.0,0.0,,,
+0661,05.682,garlic,bawang putih,latuna,latuna,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0684a,,0.0,0.0,,,
+0661a,05.676,ipomoea reptans,kangkung,tanggo,tanggo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,,,0.0,0.0,,,
+0663,05.660,bean,kacang,tambue neete,"tambue neete ""k. hijau""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""k. hijau""",,plants,noun,,,0678,,0.0,0.0,,,
+0664,05.775,peanut,kacang tanah,canggoreng,canggoreng,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0683,162,212.0,0.0,,,
+0666,08.852,kapok (eriodendron anfructuosum),kapok,kakaßu,kakaßu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0706,163,60.0,0.0,,,
+0668,08.931,pumpkin,labu manis,taedo,taedo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0680,,0.0,0.0,,,
+0671,08.870,mango,mangga    ->05.462,táipang,táipang  p17,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0708,,0.0,0.0,,,
+0673,08.884,jack fruit (artocarpus integrifolia),nangka,nangka,nangka,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0709,,0.0,0.0,,,
+0676,08.676,"areca nut (betelnut), areca catechu#",pinang,lugus,lugus,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0752,169,8.0,0.0,Z8.62A,,
+0677,08.840,banana,pisang,saging,saging  p12,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0716-18,153,13.0,0.0,C12 E8 F9 G11,,
+0678,08.866,nephelium lappaceum,rambutan,moloítom,moloítom,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0710,,0.0,0.0,,,
+0680,08.675,betel,sirih,lena,lena,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0753,168*,17.0,0.0,C13 E9 F10 G13 Z8.62C,,
+0681,08.858,liana,sulur,luit,"luit ""tali hutan"" p11",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""tali hutan""",,plants,noun,,,0745,,0.0,0.0,,,
+0682,08.925,taro,"talas, keladi",suli,"suli, ßia (besar, tidak bisa dimakan)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,,0689,,0.0,0.0,,,
+0682,08.925,taro,"talas, keladi",ßia,"suli, ßia (besar, tidak bisa dimakan)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(besar; tidak bisa dimakan),,plants,noun,,,0689,,0.0,0.0,,,
+0684,05.672,eggplant,terung,bubua,bubua,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,,164,92.0,0.0,Z8.61R,,
+0685,08.600,tree,pohon,boto,boto,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0734,144*,325.0,0.0,C1 D22 E1 E2 F2 G2 Sa23,23.0,174.0
+0690,08.812,lontar tree,pohon lontar,lontar,lontar ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,plants,noun,,,0696,,0.0,0.0,,,
+0691,07.120,house,rumah,salo,salo p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,buatan manusia,0437,216*,142.0,61.0,,,
+0692,07.130,"hut, shelter",pondok,salo,=07.120,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=07.120,,,,,house,noun,,,0438,,0.0,0.0,,,
+0693,07.560,house post,tiang rumah,erii,erii p18,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,buatan manusia,0461,223,0.0,0.0,,,
+0694,08.160,"fence, hedge",pagar,tondok,tondok  p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,buatan manusia,0659,225,108.0,0.0,,,
+0696,07.372,"staircase, steps",tangga,edang,edang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,,0453,,0.0,0.0,,,
+0698,07.510,roof,atap,darum,"darum moN-~ (<sagu, belum dipasang), tape (yg dipasang)",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ,,(<sagu; belum dipasang),,house,noun,,buatan manusia,0439,220*,239.0,62.0,,,
+0698,07.510,roof,atap,tape,"darum moN-~ (<sagu, belum dipasang), tape (yg dipasang)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(yg dipasang),,house,noun,,buatan manusia,0439,220*,239.0,62.0,,,
+0702,07.530,ridge of roof,bubungan,bumbungan,bumbungan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,,0440,,0.0,0.0,,,
+0703,07.540,rafter,kasau,pompenatopong,pompenatopong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,buatan manusia,0446,221*,0.0,0.0,,,
+0704,07.270,wall (of house),dinding,bombong,bombong =12.250,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=12.250,,,,,house,noun,,buatan manusia,0458/9,218,338.0,0.0,,,
+0707,07.250,window,jendela  =/-> 15.524,bambasala,bambasala,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,,0451,,0.0,0.0,,,
+0708,07.220,door,pintu,bamba,bamba,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,buatan manusia,0448,219*,0.0,0.0,,,
+0709,07.260,floor,lantai,basal,basal,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,buatan manusia,0456/7,217,115.0,0.0,,,
+0713,07.212,sleeping place,kamar tidur  =04.610,peturuong,peturuong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,,0465,,0.0,0.0,,,
+0714,07.127,space under house,kolong ->12.070,anggung,anggung,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,house,noun,,buatan manusia,0487,224,278.0,0.0,,,
+0717,07.440,table,meja,mejang,mejang  p1,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,,,,0.0,0.0,,,
+0718,07.425,"cradle, swing",dondang(an),longgung,"longgung, undengao ""move cradle up and down""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,,,,0.0,0.0,Z9.90R hammock = ayunan??,,
+0718,07.425,"cradle, swing",dondang(an),undengao,"longgung, undengao ""move cradle up and down""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""move cradle up and down""",,household,noun,,,,,0.0,0.0,Z9.90R hammock = ayunan??,,
+0720,07.126,storage shelf above hearth,"para, para-para ->07.125",tapaang,tapaang [2. tapa'an],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[2. tapa'an],,,household,noun,,buatan manusia,0473,222*,0.0,0.0,,,
+0721,09.770,mat (plaited),tikar,ompah,ompah  p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0468,247,178.0,0.0,,,
+0722,07.421,pillow,bantal,padisan,"padisan (H), kolopis",Balaesang,Rano,119.7132,-0.0433,,True,,(H),False,nan,,,,,household,noun,,buatan manusia,0469,249,217.0,0.0,,,
+0722,07.421,pillow,bantal,kolopis,"padisan (H), kolopis",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0469,249,217.0,0.0,,,
+0726,05.373,ladle made of coconut shell,gayung,bila,"bila, belinga",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,buatan manusia,,234*,156.0,0.0,,,
+0726,05.373,ladle made of coconut shell,gayung,belinga,"bila, belinga",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,buatan manusia,,234*,156.0,0.0,,,
+0739,05.347,bamboo water container (long),"tempat air bambu, perian (panjang)",langgaan,langgaan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0512,233,342.0,0.0,,,
+0740,05.348,"water jar, earthen water barrel",tempayan,sempe,sempe,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0524,232,343.0,0.0,,,
+0742,07.312,three-stone fireplace,tungku,tengong,tengong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,,230,0.0,0.0,,,
+0745,10.380,blow (on fire),"tiup  meniup, tertiup (w)",suyub,suyub -i moN%j- ni--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i moN%j- ni--i,,,,,tr,,kata kerja,0480,397,27.0,137.0,,,16.0
+0746,01.890,charcoal,arang,buring,buring,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,buatan manusia,0984,229*,44.0,0.0,,,
+0747,01.864,"put on (light), ignite",nyalakan  menyalakan (sinar),nggani,"nggani moma- mo- i--i, lombirung me-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moma- mo- i--i,,,,household,tr,action,,0485,,0.0,0.0,,,
+0747,01.864,"put on (light), ignite",nyalakan  menyalakan (sinar),lombirung,"nggani moma- mo- i--i, lombirung me-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-,,,,household,tr,action,,0485,,0.0,0.0,,,
+0748,05.120,food,makanan,to rokumang,to rokumang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,,0534,,0.0,0.0,,,
+0750,05.810,salt,garam,pagar,pagar,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,alam dunia,0563,199,245.0,125.0,C170 E156 F154 G166,,125.0
+0751,05.850,sugar,gula,gola,gola -na p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na ,,,,food,noun,,alam dunia,0701,200,0.0,0.0,C171 E156 F155 G167,,
+0752,05.717,coconut pulp,ampas (kelapa),supat,supat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,,0564,,0.0,0.0,Ka 201,,
+0753,05.555,rice porridge,bubur nasi,gagaluar,gagaluar,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,,0556,,0.0,0.0,,,
+0756,05.552,sago flour,tepung sagu,labu kande,labu kande,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,,0557,,0.0,0.0,,,
+0762,05.415,side dish,lauk-pauk,sulut,sulut,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,,0536,,0.0,0.0,,,
+0763,05.840,honey,madu,manisan,manisan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,,0876,,0.0,0.0,,,
+0765,05.650,vegetables,sayuran,utang,utang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,,0537,,0.0,0.0,,,
+0770a,05.491,mix,campur  mencampur,posigagaur,posigagaur mo- mo-RDP- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo- mo-RDP- ni-,,,,food,tr,action,,,,0.0,0.0,,,
+0771,05.562,pound (rice),tumbuk  menumbuk   ->09.110,pombayu,pombayu M- ro-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,M- ro-,,,,food,tr,action,,0552,,220.0,93.0,C169 E154 F153 G165,,
+0772,05.560,grind,giling  menggiling,giling,giling ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ro-,,,,food,tr,action,,0555,,0.0,0.0,,,
+0774,05.210,cook,masak  memasak,pogabu,pogabu M- ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,M- ro-,,,,food,intr / tr,proc / act,kata kerja,,387*,57.0,39.0,Ka202 Sa28,,
+0775,05.221,boil(ing) (of water),didih  mendidih,suko,suko me-  =04.570,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=04.570,me-  ,,,,,intr,event,kata kerja,,388*,30.0,0.0,,,
+0776,05.240,bake,bakar membakar,tunu,tunu mV- moN%t- ro-~ ni-,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- moN%t- ro- ni-,,,,food,tr,action,,0531,,0.0,0.0,,,
+0779,05.216,cook in bamboo container (sticky rice),lemang  melemang (nasi pulut),punjok,punjok moN- mV- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- mV- ni-,,,,food,tr,action,,0525,,0.0,0.0,,,
+0780,05.121,"done, cooked",masak,ngongo,ngongo mV- -mo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- -mo,,,,household,stative,state,,0532,,0.0,0.0,,,
+0782,05.220,"boil, cook (in pot/water)",rebus  merebus,pogabu,=05.210,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=05.210,M- ro-,,,,food,tr,action,,0526,,0.0,0.0,,,
+0782a,05.230,fry,goreng  menggoreng,sola,sola moN%j- -i~ ni--i,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%j- -i ni--i,,,,food,tr,action,,0528,,0.0,0.0,,,
+0783,09.237,"sharpen, grind",asah  mengasah,asa,asa maN- [1. mongasa] ni--i,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,maN-  ni--i,[1. mongasa],,,farming,tr,action,,0989,,0.0,0.0,,,
+0784,09.238,grindstone,batu asah,pangasaong,pangasaong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,0990,,0.0,0.0,,,
+0785,20.550,fish trap,bubu,bußu,bußu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,0860,,0.0,0.0,,,
+0787,20.520,"fish hook, to fish with a line","mata kail, pancing",pekang,pekang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,,,0.0,0.0,,,
+0788,20.510,fisherman,nelayan,to pobau,to pobau,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,,,0.0,0.0,,,
+0790,20.560,bait,umpan,upang,upang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,,,0.0,0.0,,,
+0791,10.815,stern,buritan,guling,guling,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,1047,,0.0,0.0,,,
+0791a,10.816,bow of boat,haluan kapal,luan,luan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,1047a,,0.0,0.0,,,
+0793,10.851,canoe paddle,dayung,bose,bose p11,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,buatan manusia,,227,42.0,0.0,,,
+0794,10.852,paddle,kayuh  mengayuh  ->08.220,kumamber,kumamber mo-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo-,,,,farming,intr,action,,1042,,0.0,0.0,,,
+0795,10.860,"rudder, helm",kemudi -> 10.815,guling,=10.815,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=10.815,,,,,farming,noun,,,1038,,0.0,0.0,,,
+0796,10.880,"sail, to sail","layar, berlayar",sombal,sombal mo--um-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo--um-,,,,farming,intr / nou,action,,1036/37,,0.0,0.0,,,
+0802,10.830,"canoe, boat",perahu,kayang,"kayang  ""sampan""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""sampan""",,farming,noun,,buatan manusia,1033,226*,41.0,0.0,C164 E149 F148 G160,,
+0803,10.840,raft,rakit,akit,akit ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,farming,noun,,buatan manusia,1050,228,223.0,0.0,,,
+0806,08.130,"garden, dry rice/corn field","kebun, ladang",kabo,kabo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,0653/655,254*,300.0,0.0,Z8.12 swidden (field) dry,,
+0808,08.325,pick,petik  memetik,pupu,pupu moN- ni- ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni- ro-,,,,farming,tr,action,,0673,,0.0,0.0,,,
+0809b,08.155,clear jungle/brushwood,"merintis hutan, bersihkan rumput",taras,taras / tarah~ moN%t-~ ni--i ro--i~,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,tr/intr,action,,,,0.0,0.0,,,
+0809b,08.155,clear jungle/brushwood,"merintis hutan, bersihkan rumput",tarah,taras / tarah~ moN%t-~ ni--i ro--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%t- ni--i ro--i,,,,farming,tr/intr,action,,,,0.0,0.0,,,
+0810,01.851,burn (field),bakar  membakar (kebun) ->08.150,sulong,sulong moN%j- ni--i,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%j- ni--i,,,,,tr,action,kata kerja,1276,405*,35.0,144.0,C48 D97 E41 F41 G43,,19.0
+0812,08.531,plant,tanam  menanam,pembula,pembula M- -i p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,M- -i ,,,,farming,tr,action,kata kerja,0665,406*,219.0,84.0,,,
+0813,12.530,grow,tumbuh    ->08.530#->?#,ntußu,ntußu me-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-,,,,,intr,process,kata kerja,1078,407,0.0,86.0,,,
+0814,08.415,harvest,tuai  menuai,rapan,rapan mo-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo-,,,,farming,intr / tr,action,,0670,,0.0,0.0,,,
+0815,08.281,make a hole (with dibble in ground),membuat lubang dgn tugal,asok,asok maN-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,maN-,,,,farming,tr,action,,0646/66,,0.0,0.0,,,
+0816,08.280,dibble,tugal,iasok,iasok  (!),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(!),,farming,noun,,,0645,,0.0,0.0,,,
+0818,08.310,sow (scattering the seeds),tabur  menabur benih,pasura,pasura mo-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo-,,,,farming,intr / tr,action,,0663,,0.0,0.0,,,
+0823,08.316,seedling (hard plants) ??,bibit tanaman keras,pasura,pasura  (coklat) p21,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,(coklat),,farming,noun,,,,,0.0,0.0,,,
+0830,08.480,rice plant,padi,boas,boas / boah,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,tumbuh-tumbuhan,0546,175,233.0,0.0,C19 E15 F15 G18 Ka 200,,
+0830,08.480,rice plant,padi,boah,boas / boah,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,tumbuh-tumbuhan,0546,175,233.0,0.0,C19 E15 F15 G18 Ka 200,,
+0835,08.481,hulled rice,beras,ßea,ßea,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,food,noun,,tumbuh-tumbuhan,0544,178,234.0,0.0,C20 E16 F16 G19,,
+0836,08.482,cooked rice,nasi,boah,=08.480,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=08.480,,,,,food,noun,,tumbuh-tumbuhan,0545,179,235.0,0.0,C21 E17 F17 G20,,
+0837,05.580,"mortar, rice pounder#",lesung,ngonjung,ngonjung  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0550,235,183.0,0.0,C167 E152 F151 G163,,
+0839,05.590,"pounder, pestle (rice)","alu, penumbuk",pombayu,pombayu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0551,236,215.0,0.0,C168 E153 F152 G164,,
+0842,09.230,knife,pisau,babe,babe,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0505,237*,0.0,0.0,C165 E150 F149 G161,,
+0844,09.232,"machete, chopper#",parang,piso,"piso p15, kamidol",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0506,238,0.0,0.0,C166 E151 F150 G162 Z5.38A,,
+0844,09.232,"machete, chopper#",parang,kamidol,"piso p15, kamidol",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,0506,238,0.0,0.0,C166 E151 F150 G162 Z5.38A,,
+0845,09.233,sheath for machete,sarung parang,guma,guma,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,,239,257.0,0.0,,,
+0848,09.221,cut down,tebang  menebang,tobong,tobong moN- ni- ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni- ro-,,,,farming,tr,action,,0738,,0.0,0.0,,,
+0849,09.222,"chip, slash, hew","tetak  menetak, bacok  membacok",tatar,tatar moN- ni-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN- ni-,,,,farming,tr,action,,0610,,0.0,0.0,,,
+0850,09.220,"cut (wood, across grain)",potong  memotong (kayu),kolo,"kolo moN%g- ni- ro- RDP2, sambale i- p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%g- ni- ro- RDP2,,,,,tr,action,kata kerja,1247,385*,66.0,78.0,,,25.0
+0850,09.220,"cut (wood, across grain)",potong  memotong (kayu),sambale,"kolo moN%g- ni- ro- RDP2, sambale i- p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,i- ,,,,,tr,action,kata kerja,1247,385*,66.0,78.0,,,25.0
+0850a,09.260,break (stick)  #alte 1048#,patah  mematahkan (tongkat),kolo,kolo moN%g--ao,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%g--ao,,,,,tr,action,,1253,,0.0,0.0,,,
+0851,09.270,split (wood),belah  membelah (kayu),bira,bira ni- moN- ro-~ mV-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ni- moN- ro- mV-,,,,,tr,action,kata kerja,,386*,0.0,80.0,,,148.0
+0851a,09.262,"broken, smashed  #alte 1049##",pecah  memecahkan,poso,poso mV- moN%p--ao -ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- moN%p--ao -ao,,,,,tr,action,,1255,,0.0,0.0,Z9.26R,,
+0852,20.643,trap: lance that bounces up,belantik,saßalo,saßalo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,farming,noun,,,0856,,0.0,0.0,,,
+0857a,20.260,"spear, lance, javelin",tombak,tagad,"tagad (bambu), bujak (besi), sorong (besi)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(bambu),,,tr,action,kata kerja,0611,,0.0,0.0,,,
+0857a,20.260,"spear, lance, javelin",tombak,bujak,"tagad (bambu), bujak (besi), sorong (besi)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(besi),,,tr,action,kata kerja,0611,,0.0,0.0,,,
+0857a,20.260,"spear, lance, javelin",tombak,sorong,"tagad (bambu), bujak (besi), sorong (besi)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(besi),,,tr,action,kata kerja,0611,,0.0,0.0,,,
+0859,20.290,blow gun,sumpitan,sumpitan,sumpitan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,0612,,0.0,0.0,,,
+0859a,20.291,blow gun: blowing end,sumpitan: pangkalnya,pimpi,pimpi,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,0612a,,0.0,0.0,,,
+0859b,20.294,dart for blow gun,sumpitan: anaknya / pelornya (tajam),boron,boron,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,0612b,,0.0,0.0,,,
+0859d,20.296,drill (for base of dart),sumpitan: bor,pagoro,pagoro,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,0612d,,0.0,0.0,,,
+0859e,20.292,forked end of blow gun ?#,sumpitan: ujungnya yg percabang,sangkung,sangkung,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,0612e,,0.0,0.0,,,
+0859f,20.295,blow gun: quiver,sumpitan: tempat anaknya,tantalangan,tantalangan,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,0612f,,0.0,0.0,,,
+0862,20.230,sling,ali-ali,ayar,ayar paN-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,paN-,,,,culture,noun,,,0624,,0.0,0.0,,,
+0863,04.890,poison,racun,rarit,"rarit (sumpitan), rasung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(sumpitan),,culture,noun,,,,,0.0,0.0,,,
+0863,04.890,poison,racun,rasung,"rarit (sumpitan), rasung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,,,0.0,0.0,,,
+0865,06.350,sew,jahit  menjahit,daung,daung moN- ni- ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni- ro-,,,,household,tr,action,kata kerja,1006,440,254.0,67.0,,,132.0
+0866,06.360,needle,jarum,gigiu,gigiu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,household,noun,,buatan manusia,1005,244,193.0,68.0,,,
+0868,06.330,weave cloth,tenun  menenun,soru,soru moN%j- ni-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%j- ni-,,,,dressing,tr,action,kata kerja,0593,441,346.0,0.0,,,
+0869,06.332,weave a mat,"anyam  menganyam, jalin  menjalin (tikar)",anang,anang maN- [1. monganang] ni-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,maN-  ni-,[1. monganang],,,dressing,tr,action,kata kerja,0600,442,347.0,0.0,,,
+0886,06.125,loincloth,"cawat, kain punggung",sabit,sabit,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,dressing,noun,,buatan manusia,0588,250*,171.0,0.0,,,
+0895,06.730,ring (for finger),cincin,sinjing,sinjing,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,dressing,noun,,buatan manusia,0575,241,237.0,0.0,,,
+0896,06.742,anklet,gelang kaki,galang,galang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,dressing,noun,,,0580,,0.0,0.0,,,
+0907,06.910,comb,sisir,sasaig,sasaig me-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-,,,,dressing,noun,,buatan manusia,0573,240,56.0,0.0,,,
+0908,06.912,fine tooth comb (for lice),sisir kutu,surut,surut,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,dressing,noun,,,0574,,0.0,0.0,,,
+0911,11.810,buy,beli  membeli ->11.870,oli,oli moN- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-,,,,culture,tr,action,kata kerja,1010,443,39.0,91.0,,,
+0912,11.820,sell,jual  menjual ->11.845,pongoli,pongoli RDP moN%p- ni-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,RDP moN%p- ni-,,,,culture,tr,action,kata kerja,1016,444,252.0,0.0,,,
+0915,11.870,price,harga ->11.810,oli,oli -na  p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na  ,,,,culture,noun,,,1007,,0.0,0.0,,,
+0916,11.890,cheap,murah,sempo,sempo ma-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ma-,,,,culture,stative,state,,1012,,0.0,0.0,,,
+0917,11.880,"expensive, dear",mahal,suli,suli ma-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ma-,,,,culture,stative,state,,1011,,0.0,0.0,,,
+0926,11.610,"borrow, lend",pinjam  meminjamkan,ambuh,"ambuh maN-  ~ p15, inda maN- p15",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,maN-   ,,,,culture,tr,action,,1018,,0.0,0.0,,,
+0926,11.610,"borrow, lend",pinjam  meminjamkan,inda,"ambuh maN-  ~ p15, inda maN- p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,maN- ,,,,culture,tr,action,,1018,,0.0,0.0,,,
+0954,21.540,pirate,bajak laut,parampo,parampo,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,culture,noun,,,1053,,0.0,0.0,,,
+0962,16.260,play,main  bermain,pogising,pogising M- ni--ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,M- ni--ao,,,,culture,intr / tr,action,kata kerja,0432,403,218.0,0.0,,,112.0
+0965,16.265,"top, to spin a top",gasing  bermain gasing,pasil,pasil mo- moN%p-  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mo- moN%p-  ,,,,culture,tr,action,,0434,,0.0,0.0,,,
+0974,18.125,song,lagu,kedo,kedo -na  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-na  ,,,,c / music,noun,,,0429,,0.0,0.0,,,
+1003,09.120,work,bekerja,pogauk,pogauk M-~ ni-~ ro-  p12,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,M- ni- ro-  ,,,,,tr,action,kata kerja,1210,404,368.0,83.0,Sa214,,
+1004,09.110,"make, do",buat  membuat,padian,"padian moN-~ ni- ro-, baya i- ro- *moN- p12",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni- ro-,,,,,tr,action,,1187,,0.0,0.0,,,
+1004,09.110,"make, do",buat  membuat,baya,"padian moN-~ ni- ro-, baya i- ro- *moN- p12",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,i- ro- *moN- ,,,,,tr,action,,1187,,0.0,0.0,,,
+1005,09.440,build (house),bangun  membangun ->04.630,baung,baung moN- -ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- -ao,,,,,tr,action,,0490,,0.0,0.0,,,
+1006,09.365,wash fingers (before eating),cuci  mencuci tangan (di piring),baso,baso moN- poN--ong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN- poN--ong,,,,,intr / tr,,kata kerja,1191a,423,340.0,0.0,,,
+1006a,09.366,wash face,cuci  mencuci muka,ndoup,ndoup me- me--i -i ni--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me- me--i -i ni--i,,,,,tr,action,,1191,,0.0,0.0,,,
+1007,09.363,"wash up (dishes, spoons etc.)",cuci  mencuci (peralatan makanan),galigo,galigo moN- ni--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni--i,,,,household,tr,action,,1189,,0.0,0.0,,,
+1008,09.360,wash clothes,cuci  mencuci pakaian,tatap,tatap moN- ni--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni--i,,,,,tr,action,kata kerja,1190,421,339.0,0.0,,,180.0
+1009,15.844,hang out sth to dry (on rack/clothesline),ampai mengampai,pupuai,=15.845,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=15.845,moN- ni-,,,,,intr,process,kata kerja,,,0.0,0.0,,,
+1009a,15.845,dry in the sun (on the floor),jemur  menjemur (di lantai spt padi),pupuai,pupuai moN- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni-,,,,,intr,process,kata kerja,1126,422,82.0,0.0,C94 E86 F86 G92,,
+1010,09.370,sweep,sapu  menyapu,parih,parih / paris~ moN%p- poN%p- (alat) ni--i~,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,tr,action,,,,0.0,0.0,,,
+1010,09.370,sweep,sapu  menyapu,paris,parih / paris~ moN%p- poN%p- (alat) ni--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p- poN%p-  ni--i,,(alat),,,tr,action,,,,0.0,0.0,,,
+1011,09.312,wipe,kelap  mengelap,palulu,palulu moN%p- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p- ni-,,,,,intr / tr,action,kata kerja,,420,363.0,0.0,,,193.0
+1012,09.791,fan,kipas  mengipas,kayabi,kayabi moN%g- mosi- ni- p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%g- mosi- ni- ,,,,,intr / tr,action,,,,0.0,0.0,,,
+1013,12.270,hide,sembunyi  bersembunyi,sambuni,sambuni me-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-,,,,,intr / ref,action,kata kerja,1266,429*,140.0,171.0,,,
+1014,12.271,hide (something),sembunyi  menyembunyikan (sesuatu),buni,buni moN--ao ni--ao,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN--ao ni--ao,,,,,tr,action,,1265,,0.0,0.0,,,
+1015,11.320,find,temu  menemukan  ->10.480,kadaop,"kadaop me- ni-~ ""dapat"" p24",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me- ni-  ,,"""dapat""",,,tr,action,,1175,,0.0,0.0,,,
+1016/198,11.330,"lost, lose something, disappear",hilang  ke--an meng--kan meng-,tading,"tading ni--ao ""dihilangkan"" nopaka- ""dihilangkan""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ni--ao  nopaka- ,,"""dihilangkan""', '""dihilangkan""",,,tr,,kata kerja,,447,174.0,0.0,,,
+1018,12.180,wait,tunggu  menunggu,pentorong,"pentorong / pontorong moN- po--ao  me-~ ni-~ p25, montangao",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,intr,state,kata kerja,1226,473,336.0,0.0,,,
+1018,12.180,wait,tunggu  menunggu,pontorong,"pentorong / pontorong moN- po--ao  me-~ ni-~ p25, montangao",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- po--ao  me- ni- ,,,,,intr,state,kata kerja,1226,473,336.0,0.0,,,
+1018,12.180,wait,tunggu  menunggu,montangao,"pentorong / pontorong moN- po--ao  me-~ ni-~ p25, montangao",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,intr,state,kata kerja,1226,473,336.0,0.0,,,
+1019,21.510,steal,curi  mencuri,panako,"panako M-/moN- nipoN- ""kecurian"" to poN-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,M-/moN- nipoN-  to poN-,,"""kecurian""",,,tr,action,kata kerja,1273,439,286.0,73.0,,,
+1023,19.650,meet,"jumpa berjumpa, temu bertemu ->10.480",ntomu,ntomu mesi-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mesi-,,,,,tr / rec,action,,1287/88,,0.0,0.0,,,
+1026,19.450,"send (out), order, command","suruh  menyuruh, perintah  ->02.335",patudu,patudu no- p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,no- ,,,,,tr,action,,1281,,0.0,0.0,,,
+1029,16.680,"cheat, deceive",tipu  menipu,akali,akali maN- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,maN- ni-,,,,,tr,action,,1271,,0.0,0.0,,,
+1030,19.580,"help, aid","tolong  menolong, bantu  membantu",podulu,podulu moN- ni-~ mosi-RDP,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni- mosi-RDP,,,,,tr,,,,,0.0,0.0,,,
+1031,08.220,dig (hole),gali  menggali ->10.852,keke,keke moN- ni--i,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN- ni--i,,,,,intr / tr,action,kata kerja,1278,412,76.0,90.0,,,28.0
+1032,09.341,hang up,gantung  menggantungkan,ntoeng ntoenong,"ntoeng ntoenong ""ayunan"" ro- p19 popo- nipopo-~ mopopo-",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ro-  popo- nipopo- mopopo-,,"""ayunan""",,,tr,action,,,,0.0,0.0,,,
+1032b,12.120,"put, place",taruh menaruh,kabasa,kabasa ni- p12,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ni- ,,,,,tr,action,,,,0.0,0.0,,,
+1033,05.467,slice (mango),sayat  menyayat (mangga) ->08.870,taip,taip moN%t- ni--i,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%t- ni--i,,,,,tr,action,,,,0.0,0.0,,,
+1033a,05.465,skin (an animal),kulit  menguliti binatang,kulit,kulit moN%g- ni--i [nikulitih],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%g- ni--i ,[nikulitih],,,,tr,action,,0762a,,0.0,0.0,,,
+1033b,05.462,peel (fruit),kupas  mengupas (buah-buahan)   ->04.120,kulis,kulis moN%g- ni--i,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%g- ni--i,,,,,tr,action,,0762,,0.0,0.0,,,
+1034,09.565,stick to,lekat  melekat berlekat,kampit,kampit meN- -ao,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,meN- -ao,,,,,tr,action,kata kerja,,419*,287.0,0.0,,,
+1035,12.210,"gather, meet",kumpul  berkumpul,rimung,rimung mosi- p11,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mosi- ,,,,,intr / ref,action,,1290,,0.0,0.0,,,
+1036,12.211,collect,kumpul  mengumpulkan,rimung,rimung ro--ao p11,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ro--ao ,,,,,tr,action,,1289,,0.0,0.0,,,
+1038,13.107,count,hitung  menghitung,rekeng,rekeng ro-~ mome-,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,ro- mome-,,,,,tr,action,kata kerja,,366,62.0,196.0,,,24.0
+1039,11.630,"debt, owe",hutang  berhutang,inda,inda maN- ni-~ mosi- [mosi'inda],Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,maN- ni- mosi- ,[mosi'inda],,,culture,noun / tr,state,kebiasaan,1013,479,70.0,0.0,,,
+1041,14.250,begin (intr/tr),mulai,pamula,pamula moN%p- ni-~ ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p- ni- ro-,,,,,intr / tr,proc /act,,1260/61,,0.0,0.0,,,
+1043,14.280,stop,henti  berhenti,osa,osa me- -mo ni--ao [niosao] ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,me- -mo ni--ao  ro-,[niosao],,,,intr / tr,proc / act,,1263,,0.0,0.0,,,
+1045,15.710,"touch, strike",kena  mengenai,kana,kana mV- mosi- niposi- ipo- pa- moma- p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- mosi- niposi- ipo- pa- moma- ,,,,,tr,action,,1251,,0.0,0.0,,,
+1046,09.210,"beat, hit",pukul  memukul,rembas,rembas mosi-RDP--i mosi--i i--i~ mome- p16,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mosi-RDP--i mosi--i i--i mome- ,,,,,tr,action,kata kerja,1291,436,0.0,72.0,,,72.0
+1046c,09.215,"box, punch",tinju meninju  -> 20.110,jaguru,jaguru mosi- mepe- i-~  p16,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mosi- mepe- i-  ,,,,,tr,action,kata kerja,1291c,,0.0,0.0,,,
+1046g,09.213,beat hard,pukul  memukul dgn kayu berat,bobok,"bobok moN%0- ni- ""pukul sampai hancur""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN%0- ni- ,,"""pukul sampai hancur""",,,tr,action,kata kerja,,,0.0,0.0,,,
+1050,11.270,destroy,rusak  merusakkan,geser,geser moN- me-~ ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- me- ro-,,,,,tr,action,,,,0.0,0.0,,,
+1051,09.280,tear,"sobek  menyobek, robek  sobek  menyobek",dempar,dempar moN- mome- mV-~ ro- ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- mome- mV- ro- ni-,,,,,tr,action,,,,0.0,0.0,,,
+1052,20.110,fight,kelahi  berkelahi ->09.215,sala,sala mosi-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mosi-,,,,,intr,,kata kerja,,438,109.0,0.0,,,47.0
+1053,09.223,stab,tikam  menikam,jalo,jalo mosi- mepe-~ i-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mosi- mepe- i-,,,,,tr,action,kata kerja,,433,283.0,71.0,,,150.0
+1054,09.343,squeeze (in hand),peras  memeras,podot,podot moN%p- ni-~ ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p- ni- ro-,,,,,tr,action,kata kerja,,399*,282.0,88.0,,,149.0
+1056,09.265,break (rope),putus  memutuskan (tali),toruh,toruh / torus moN%t- moN%t--ao ni--ao~ ro--ao~,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,tr,action,,1254,,0.0,0.0,,,
+1056,09.265,break (rope),putus  memutuskan (tali),torus,toruh / torus moN%t- moN%t--ao ni--ao~ ro--ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%t- moN%t--ao ni--ao ro--ao,,,,,tr,action,,1254,,0.0,0.0,,,
+1057,09.160,"tie (tether animal), bind","ikat  mengikat, tambat  menambatkan",batok,batok -i~ ni--i~ moN-,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i ni--i moN-,,,,,tr,action,kata kerja,1264,416*,319.0,66.0,Z: tie=bind up,,171.0
+1058,09.161,untie,"urai  menguraikan, buka ->12.240",ßakar,"ßakar -i~ ro--i~ ni--i~ moma- moma--ao~, +12.230",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i ro--i ni--i moma- moma--ao,,,,,tr,action,,,,0.0,0.0,,,
+1058,09.161,untie,"urai  menguraikan, buka ->12.240",,"ßakar -i~ ro--i~ ni--i~ moma- moma--ao~, +12.230",Balaesang,Rano,119.7132,-0.0433,,True,,,False,+12.230,,,,,,tr,action,,,,0.0,0.0,,,
+1059,04.580,bite,gigit  menggigit,kiki,kiki moN- ni- p16,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN- ni- ,,,,,tr,action,kata kerja,0135,392,21.0,41.0,C183 D55 E167 F166 G179,56.0,13.0
+1061,09.315,rub (massage),gosok  menggosok (badan),geges,geges -i moN%0-~ ni--i~ ro--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-i moN%0- ni--i ro--i,,,,,tr,action,kata kerja,,456,243.0,0.0,,,124.0
+1062,11.140,"hold, grip, seize",pegang  memegang ->10.620,kokong,kokong moN- -i ni--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- -i ni--i,,,,,tr,action,kata kerja,1185,398,139.0,89.0,,,73.0
+1063,10.645,lead by the hand,tuntun  menuntun,totor,totor moN- ni-~ ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ni- ro-,,,,,tr,action,,1186,,0.0,0.0,,,
+1065,12.230,separate,"pisah  memisahkan  ->02.341, 17.920",tubai,"tubai te- -ao moN%t--ao ni--ao ro--ao~ p25, gaat mo- ro-",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,te- -ao moN%t--ao ni--ao ro--ao ,,,,,tr,action,,,,0.0,0.0,,,
+1065,12.230,separate,"pisah  memisahkan  ->02.341, 17.920",gaat,"tubai te- -ao moN%t--ao ni--ao ro--ao~ p25, gaat mo- ro-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo- ro-,,,,,tr,action,,,,0.0,0.0,,,
+1066,14.295,"prepare, make ready","sedia  menyediakan, siap  menyiapkan",pasadia,pasadia moN%p- ro-~ ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%p- ro- ni-,,,,,tr,action,,1188,,0.0,0.0,,,
+1068,12.930,change,ubah  merubah  mengubah,balik,balik moN- ro-~ ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ro- ni-,,,,,intr,action,,,,0.0,0.0,,,
+1068a,12.950,"happen, become, be",jadi  menjadi,jari,"jari mV- [majarih] moma-~ mompaka- ""kasi jadi""",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  moma- mompaka- ,[majarih],"""kasi jadi""",,,intr,action,,,,0.0,0.0,,,
+1069,14.255,repeat,ulang  mengulangi,ulit,ulit -ao~ moN- ro-~ ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-ao moN- ro- ni-,,,,,tr,action,kata kerja,,377*,230.0,0.0,C178 G174,,
+1070,09.350,pour,tuang  menuangkan,duang,duang moN- ro-~ ni-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN- ro- ni-,,,,,tr,action,,,,0.0,0.0,,,
+1071,13.215,fill,isi  mengisi,isi,isi moN-/meN- ni--i ro--i me--ong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,moN-/meN- ni--i ro--i me--ong,,,,culture,tr,action,,1023,,0.0,0.0,,,
+1072,12.240,"open, uncover",buka  membuka ->09.161,tomba,tomba moN- [1. monombá']  -i~ ni--i~ ro--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN-   -i ni--i ro--i,[1. monombá'],,,,tr,action,kata kerja,1245,389*,0.0,92.0,,,
+1072b,12.244,open (shirt),buka  baju,umbat,umbat -ao~ moN-ao ni--ao~ ro--ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-ao moN-ao ni--ao ro--ao,,,,,tr,action,kata kerja,,,0.0,0.0,,,
+1072c,09.263,break open,bongkar  membongkar,gangar,gangar moN%0- ni-~ ro-~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,moN%0- ni- ro-,,,,,tr,action,kata kerja,,,0.0,0.0,,,
+1073,12.250,close,tutup  menutup,bombong,bombong -ao moN--ao ni--ao (pintu),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-ao moN--ao ni--ao ,,(pintu),,,tr,action,,1246,,0.0,0.0,,,
+1073a,12.252,"shut (mouth, shell)","tutup  menutup (mulut, kerang)",raup,raup -ao moma--ao ro--ao~ ni--ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,-ao moma--ao ro--ao ni--ao,,,,,tr,action,,,,0.0,0.0,,,
+1073b,12.260,"cover (cup, pot) with a lid",tutup  menutup (cangkir),tapod,"tapod RDP~ RDP2~ ""tertutup"" moN%t--i ro--i~ ni--i~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,RDP RDP2  moN%t--i ro--i ni--i,,"""tertutup""",,,tr,action,,1246a,,0.0,0.0,,,
+1074,10.950,"be stranded, wrecked","dampar  terdampar, kandas",rampe,rampe mV- ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,['],,,,intr,state,,1052,,0.0,0.0,,,
+1075,15.745,"become hard, freeze",beku  membeku (w) ->15.740,karah,karah mompo-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mompo-,,,,,intr / tr,process,,,,0.0,0.0,,,57.0
+1076,14.410,day,hari,sekat,"sekat, eleo (as in: eleo njaa ""hari apa"") p27",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,noun,,waktu,1394,354,67.0,168.0,,,26.0
+1076,14.410,day,hari,eleo,"sekat, eleo (as in: eleo njaa ""hari apa"") p27",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"(as in: eleo njaa ""hari apa"")",,time,noun,,waktu,1394,354,67.0,168.0,,,26.0
+1077,14.420,night,malam,bengiong,bengiong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,noun,,waktu,1401,355*,195.0,167.0,C50 D87 E43 F43 G49,92.0,105.0
+1078,14.670,Friday,hari jumat,jumaat,jumaat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,noun,,,1396d,,0.0,0.0,,,
+1079,14.660,Thursday,hari kamis,kamis,kamis,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,noun,,,1396c,,0.0,0.0,,,
+1080,14.620,Sunday,hari minggu,ahad,ahad,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,noun,,,1396f,,0.0,0.0,,,
+1081,14.650,Wednesday,hari rabu,arbaa,arbaa [arbá],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[arbá],,,time,noun,,,1396b,,0.0,0.0,,,
+1082,14.680,Saturday,hari sabtu,saatu,saatu ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,time,noun,,,1396e,,0.0,0.0,,,
+1083,14.640,Tuesday,hari selasa,salasa,salasa ['],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,time,noun,,,1396a,,0.0,0.0,,,
+1084,14.630,Monday,hari senin,sineen,sineen [sinén],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[sinén],,,time,noun,,,1396,,0.0,0.0,,,
+1094,14.440,morning,pagi,laponong,laponong RDP,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,RDP,,,,time,noun,,waktu,1424,356,182.0,0.0,,,
+1095,14.441,this morning,tadi pagi,retuani laponong,retuani laponong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,,1421,,0.0,0.0,,,
+1097a,14.451,noon #=midday,tengah hari (jam 12),tumotokmo sekat,tumotokmo sekat  p3,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,noun,,,,,0.0,0.0,,,
+1098,14.455,afternoon,sore,keneßiang,keneßiang [1. kenefiang],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[1. kenefiang],,,time,noun,,waktu,,358,2.0,0.0,,,
+1101,14.480,tomorrow,besok,lapong,lapong  p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,waktu,1422,361,322.0,0.0,,,
+1102,14.481,day after tomorrow,lusa,ruambengi,ruambengi / ruambengia,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,,1423,,0.0,0.0,,,
+1102,14.481,day after tomorrow,lusa,ruambengia,ruambengi / ruambengia,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,,1423,,0.0,0.0,,,
+1103,14.490,yesterday,kemarin,ribengi,"ribengi  p12, renua ""tadi malam"" p14",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,waktu,1418,359,372.0,0.0,,,
+1103,14.490,yesterday,kemarin,renua,"ribengi  p12, renua ""tadi malam"" p14",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""tadi malam""",,time,adv / qual,,waktu,1418,359,372.0,0.0,,,
+1104,14.491,day before yesterday,kemarin dulu,ri goling mabenge,ri goling mabenge p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,,1419,,0.0,0.0,,,
+1106,14.365,not yet,belum,podiang,"podiang p1, mono ""masih"" p17",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,,1429,,0.0,0.0,,,
+1106,14.365,not yet,belum,mono,"podiang p1, mono ""masih"" p17",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""masih""",,time,adv / qual,,,1429,,0.0,0.0,,,
+1115,14.372,a moment ago,tadi,retuani,retuani,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,,1416,,0.0,0.0,,,
+1125,12.460,west,barat,kosondokong,kosondokong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,noun,,posisi,1434,343*,348.0,0.0,C107 E99 F99 G106,,
+1126,12.450,east,timur,pembutuong sekat,pembutuong sekat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,noun,,posisi,1433,344*,88.0,0.0,C106 E98 F98 G105,,
+1127,12.470,north,utara,tara,tara ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,space,noun,,,1431,,0.0,0.0,,,
+1128,12.480,south,selatan,salatan,salatan ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,space,noun,,,1432,,0.0,0.0,,,
+1129,12.410,right (hand/side),kanan,koanong,koanong  p10,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,adv / qual,,posisi,1436,342,236.0,3.0,,,118.0
+1130,12.420,left (hand/side),kiri,koígi,koígi,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,adv / qual,,posisi,1435,341,161.0,2.0,,,86.0
+1131,12.353,edge,pinggir,bißi,bißi -na  p1,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na  ,,,,,noun,,posisi,,353*,0.0,0.0,C108 E100 F97 G104,,
+1132,12.110,place,tempat  ->12.160,pomayanong,pomayanong p10,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,noun,,,,,0.0,0.0,,,
+1133,12.370,"middle, center","pertengahan, pusat",tetanga,tetanga / tatanga p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,noun,,,,,0.0,0.0,,,
+1133,12.370,"middle, center","pertengahan, pusat",tatanga,tetanga / tatanga p14,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,noun,,,,,0.0,0.0,,,
+1134,12.000,"at, in",di,ri,ri,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,prepositio,,posisi,1448,340,0.0,173.0,,,5.0
+1135,12.080,"on top of, above",di atas,ri atang,ri atang  p1,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,prepositon,,posisi,1437,348,0.0,175.0,C101 E93 F92 G99,,
+1136,12.070,"under, below",di bawah,ri lalong,"ri lalong, ri anggung (rumah)  p1",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,prepositio,,posisi,1440/1444,347*,331.0,176.0,C103 E95 F94 G101,,
+1136,12.070,"under, below",di bawah,ri anggung,"ri lalong, ri anggung (rumah)  p1",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(rumah),,space,prepositio,,posisi,1440/1444,347*,331.0,176.0,C103 E95 F94 G101,,
+1137,12.011,behind,di belakang,ri banjig,ri banjig  p10,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,prepositio,,posisi,,349*,0.0,0.0,C105 E97 F96 G103,,
+1138,12.050,inside,di dalam,ri intekna,ri intekna [ri intekná'],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[ri intekná'],,,space,prepositio,,posisi,1457,352,0.0,174.0,C100 E92 F91 G98,,
+1139,12.432,nearby,di dekat ->12.430,ri osip,ri osip ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,space,prepositio,,,1452,,0.0,0.0,,,
+1140,12.040,in front,"di depan, di muka",ri aro,ri aro  ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,space,prepositio,,posisi,1412,350*,0.0,0.0,C104 E96 F95 G102,,
+1141,12.060,outside,di luar,ri seliban,ri seliban ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,space,prepositio,,posisi,1455,351,0.0,0.0,C102 E94 F93 G100,,
+1142a,12.055,in between,di antara,ri olotang,ri olotang ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,space,prepositio,,,,,0.0,0.0,,,
+1143,12.004,way over there,di sana,máua,"máua, réua [réwa'] p9",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,adv / qual,,tata bahasa,1390,326*,0.0,0.0,C99 E91 G97,,
+1143,12.004,way over there,di sana,réua,"máua, réua [réwa'] p9",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[réwa'],,,space,adv / qual,,tata bahasa,1390,326*,0.0,0.0,C99 E91 G97,,
+1144,12.002,here,di sini,rinani,rinani  p9,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,adv / qual,,tata bahasa,1388,324*,0.0,0.0,C98 E90 G96,,71.0
+1145,12.003,there,di situ,ritatu,ritatu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,adv / qual,,tata bahasa,1389,325*,0.0,0.0,C99 E91 G97,,162.0
+1146,12.090,toward the sea,"ke arah laut  ->10.476f,01.320",mearong nau diriong,mearong nau diriong ~ p10,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,intr / pre,,posisi,,345*,0.0,0.0,,,
+1147,12.091,toward the interior,ke arah (pe)dalam(an),mearong mek bulur,mearong mek bulur  p10,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,intr / pre,,posisi,,346*,0.0,0.0,,,
+1147a,12.006,hither,ke sini,mai,mai  p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,intr / adv,,posisi,,,0.0,0.0,,,
+1147b,12.007,in that direction,ke sana #fill up??#,mao,mao p13,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,intr / adv,,posisi,,,0.0,0.0,,,
+1149,12.095,from,dari,ala,ala,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,prepositio,,,1446,,0.0,0.0,,,
+1152,12.099,"around, surrounding",keliling sekeliling,palit,palit RDP moN%p-~ ni-~  p10,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,RDP moN%p- ni-  ,,,,space,prepositio,,,1454,,0.0,0.0,,,
+1155,10.570,go inside,masuk  memasuki,penjuok,penjuok M- -i ni--i~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,M- -i ni--i,,,,space,intr,action,,1458,,0.0,0.0,,,
+1156,10.477,go out/to the outside,keluar,suun,suun me- [mesún]  p10,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,me-   ,[mesún],,,space,intr,action,,1456,,0.0,0.0,,,
+1160,,my house,rumahku k.g. empunya o. ke I tunggal,salou,salou  p9,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,,1369,,0.0,0.0,,,
+1161,,our house (exclusive),rumah kami (ke I jamak (exclusive),salo sami,salo sami,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,,1372,,0.0,0.0,,,
+1162,,our house (inclusive),rumah kita  (ke I jamak (inkl.)),salota,salota,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,,1371,,0.0,0.0,,,
+1163,,your house (sing.),rumahmu (k.g. empunya o. ke II tunggal),salomu,salomu [?salo muu],Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,[?salo muu],,,person,pronoun,,,1373,,0.0,0.0,,,
+1163a,,your house (plural),rumah kamu,salo miu,salo miu,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,,1374,,0.0,0.0,,,
+1163b,,his/her house,rumahnya,salona,salona,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,,1377/78,,0.0,0.0,,,
+1163c,,their house,rumah mereka,salo samono,salo samono~,Balaesang,Rano,119.7132,-0.0433,,False,,,True,nan,,,,,person,pronoun,,,1375/76,,0.0,0.0,,,
+1164,02.910,I,"aku, saya",sau,sau,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1357,097,0.0,182.0,C22 D1 E18 F18 G21,1.0,77.0
+1165,02.942,we (excl.),kami,sami,sami ['],Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,['],,,person,pronoun,,kata ganti,1366,100*,0.0,185.0,C25 E21 G24,,
+1166,02.941,we (inclusive)/you (polite/for older people),kita,ita,ita [itá'],Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,[itá'],,,person,pronoun,,kata ganti,1365,101*,0.0,185.0,C26 D3 E22 F19 G25,3.0,182.0
+1167,02.920,"you (fam.), thou","engkau, kamu",soo,soo,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1359,098*,0.0,183.0,C23 D2 E19 G22,2.0,168.0
+1168,02.950,"you (plural), ye","kalian, kamu sekalian#",miu,miu,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1360,102*,0.0,186.0,,,198.0
+1169,02.960,they,mereka,samono,samono,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1367/13,103*,0.0,187.0,C27 G26,,163.0
+1170,02.930,"he, she","dia, ia",sia,sia  ['],Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,['],,,person,pronoun,,kata ganti,1363/13,099,0.0,184.0,C24 E20 G23,,66.0
+1171,,this,ini,nani,nani / naini~,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1383,321*,0.0,177.0,C96 D4 F89 G94,4.0,167.0
+1171,,this,ini,naini,nani / naini~,Balaesang,Rano,119.7132,-0.0433,,False,,,True,nan,,,,,,pronoun,,tata bahasa,1383,321*,0.0,177.0,C96 D4 F89 G94,4.0,167.0
+1172,,that (nearby),itu (dekatmu),tatu,tatu,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1384,322*,0.0,178.0,C97 D5 E89 F90 G95,5.0,161.0
+1173,,that distant,itu yang jauh,ua,ua,Balaesang,Rano,119.7132,-0.0433,,True,,,True,nan,,,,,,pronoun,,tata bahasa,,323*,0.0,172.0,,,
+1176,17.700,whatever you call it,anu,sianu,sianu [']/ianu  p10,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,['],,,,,,tata bahasa,,318,351.0,0.0,,,
+1176,17.700,whatever you call it,anu,ianu,sianu [']/ianu  p10,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,tata bahasa,,318,351.0,0.0,,,
+1178,17.640,what?,apa?,jaa,jaa ~/njaa [nja'a]/njapa,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,pronoun,,kata tanya,1380,482*,350.0,188.0,C172 D7 E157 F156 G168,7.0,184.0
+1178,17.640,what?,apa?,njaa,jaa ~/njaa [nja'a]/njapa,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[nja'a],,,,pronoun,,kata tanya,1380,482*,350.0,188.0,C172 D7 E157 F156 G168,7.0,184.0
+1178,17.640,what?,apa?,njapa,jaa ~/njaa [nja'a]/njapa,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,pronoun,,kata tanya,1380,482*,350.0,188.0,C172 D7 E157 F156 G168,7.0,184.0
+1179,17.680,who?,siapa?,heena,heena,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,pronoun,,kata tanya,1379,483*,355.0,189.0,C173 D6 E158 F157 G169,6.0,188.0
+1180,17.690,why?,"mengapa?, kenapa?  !NB: also do what? #",nooya,nooya,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,adv / qual,,kata tanya,1465,488*,0.0,0.0,C175 E160 F159 G172,,
+1181,17.650,when?,kapan?,mpiang,mpiang,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,time,adv / qual,,kata tanya,1427,485,352.0,170.0,,,185.0
+1182,17.660,where?,di mana?,ri paya,ri paya,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,space,adv / qual,,kata tanya,1460,484,353.0,181.0,C174 E159 F158 G170,,186.0
+1184,17.672,which house?,rumah mana,salo paya,salo paya,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,pronoun,,kz,1381,,0.0,0.0,,,
+1185,17.620,how many? how much?,berapa?,soya,soya,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,kata tanya,1338,486,143.0,0.0,C177 E162 F161 G173,,
+1186,17.610,how?,bagaimana?,terinu,terinu / teinu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,kata tanya,1461,487*,0.0,194.0,C176 E161 F160 G171,,74.0
+1186,17.610,how?,bagaimana?,teinu,terinu / teinu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,kata tanya,1461,487*,0.0,194.0,C176 E161 F160 G171,,74.0
+1186a,,"like this, like that","begini, begitu",tetuani,"tetuani, tetuatu, tetuua",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,kata tanya,,,0.0,0.0,,,
+1186a,,"like this, like that","begini, begitu",tetuatu,"tetuani, tetuatu, tetuua",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,kata tanya,,,0.0,0.0,,,
+1186a,,"like this, like that","begini, begitu",tetuua,"tetuani, tetuatu, tetuua",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,,,kata tanya,,,0.0,0.0,,,
+1188,13.010,one,satu,houdung,"houdung [hudung] (kelapa, gunung), hambaang  (orang, ikan)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[hudung],(kelapa; gunung),,,number,,nomor-nomor,1293,327,207.0,197.0,C68 D10 E60 F60 G66,11.0,109.0
+1188,13.010,one,satu,hambaang,"houdung [hudung] (kelapa, gunung), hambaang  (orang, ikan)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,(orang; ikan),,,number,,nomor-nomor,1293,327,207.0,197.0,C68 D10 E60 F60 G66,11.0,109.0
+1188a,,one (? in counting),satu,inja,inja ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,,,,,,0.0,0.0,,,
+1189,13.020,two,dua,dorua,"dorua, roung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1294,328,330.0,198.0,C69 D11 E61 F61 G67,12.0,176.0
+1189,13.020,two,dua,roung,"dorua, roung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1294,328,330.0,198.0,C69 D11 E61 F61 G67,12.0,176.0
+1190,13.030,three,tiga,totolu,"totolu, toludung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1295,329,314.0,199.0,C70 E62 F62 G68,,169.0
+1190,13.030,three,tiga,toludung,"totolu, toludung",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1295,329,314.0,199.0,C70 E62 F62 G68,,169.0
+1191,13.040,four,empat,rapat,rapat,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1296,330,121.0,200.0,C71 E63 F63 G69,,56.0
+1192,13.050,five,lima,lelima,lelima,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1297,331,114.0,0.0,C72 E64 F64 G70,,50.0
+1193,13.060,six,enam,ronong,ronong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1298,332,264.0,0.0,C73 E65 F65 G71,,
+1194,13.070,seven,tujuh,pepitu,pepitu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1299,333,253.0,0.0,C74 E66 F66 G72 Sa143,,
+1195,13.080,eight,delapan,oßalu,oßalu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1300,334,93.0,0.0,C75 E67 F67 G73,,
+1196,13.090,nine,sembilan,sesio,sesio,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1301,335,196.0,0.0,C76 E68 F68 G74,,
+1197,13.100,ten,sepuluh,hopulu,hopulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1302,336,306.0,0.0,C72 E69 F69 G75 Sa176,,
+1198,13.101,eleven,sebelas,hopulu hambaang,"hopulu hambaang/hambadang, hopulu houdung ~",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1303,,0.0,0.0,,,
+1198,13.101,eleven,sebelas,hambadang,"hopulu hambaang/hambadang, hopulu houdung ~",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1303,,0.0,0.0,,,
+1198,13.101,eleven,sebelas,hopulu houdung,"hopulu hambaang/hambadang, hopulu houdung ~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,number,,,1303,,0.0,0.0,,,
+1199,13.102,twelve,dua belas,hopulu dorua,hopulu dorua/roung~,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1304,,0.0,0.0,,,
+1199,13.102,twelve,dua belas,roung,hopulu dorua/roung~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,number,,,1304,,0.0,0.0,,,
+1200,,thirteen,tiga belas,hopulu totolu,hopulu totolu / toludung~,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1305,,0.0,0.0,,,
+1200,,thirteen,tiga belas,toludung,hopulu totolu / toludung~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,number,,,1305,,0.0,0.0,,,
+1201,13.103,Xteen,Xbelas,hopulu rapat,hopulu rapat ~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,number,,,1306,,0.0,0.0,,,
+1204,13.104,twenty,dua puluh,ruapulu,ruapulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1312,337,329.0,0.0,C78 E70 F70 G76 Sa192,,
+1207,,thirty,tiga puluh,tolupulu,tolupulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1316,,0.0,0.0,,,
+1207a,,forty,empat puluh,patapulu,patapulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1317,,0.0,0.0,,,
+1207b,,fifty,lima puluh,limapulu,limapulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1318,,0.0,0.0,,,
+1207c,,sixty,enam puluh,onopulu,onopulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1319,,0.0,0.0,,,
+1207d,,seventy,tujuh puluh,pitupulu,pitupulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1320,,0.0,0.0,,,
+1208,,eighty,delapan puluh,ßalupulu,ßalupulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1321,,0.0,0.0,,,
+1209,,ninety,sembilan puluh,siopulu,siopulu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1322,,0.0,0.0,,,
+1210,13.105,hundred,seratus,saatu,saatu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1323,338,144.0,0.0,C79 E71 F71 G77 Sa84,,
+1210a,13.105,two hundred,dua ratus,ruaatu,"ruaatu, toluatu ~, pataatu",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1323a,,0.0,0.0,,,
+1210a,13.105,two hundred,dua ratus,toluatu,"ruaatu, toluatu ~, pataatu",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,,,,,,number,,nomor-nomor,1323a,,0.0,0.0,,,
+1210a,13.105,two hundred,dua ratus,pataatu,"ruaatu, toluatu ~, pataatu",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1323a,,0.0,0.0,,,
+1211,13.106,thousand,seribu,heribu,heribu,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,nomor-nomor,1324,339,313.0,0.0,C80 E72 F72 G78,,
+1212,,#complex number#,##,toluribu pataatu ruapulu ronong,toluribu pataatu ruapulu ronong,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,number,,,1325,,0.0,0.0,,,
+1213,12.550,"big, large",besar,oge,"oge mV- mV-RDP2~ too togooge, pore mV-",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- mV-RDP2 too togooge,,,,,stative,prop / sta,kata sifat,1061,256*,19.0,153.0,C83 D12 E75 F75 G81,13.0,11.0
+1213,12.550,"big, large",besar,pore,"oge mV- mV-RDP2~ too togooge, pore mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1061,256*,19.0,153.0,C83 D12 E75 F75 G81,13.0,11.0
+1214,12.560,small (object),kecil,idek,idek mV-  to deidek  p3,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  to deidek  ,,,,,stative,prop / sta,kata sifat,1062,257,270.0,152.0,C84 D14 E76 F76 G82,15.0,140.0
+1215,16.710,good,baik,ntao,"ntao mV- mV-RDP2~ paka- ""memperbaiki"" mopaka- nipaka- p13",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- mV-RDP2 paka-  mopaka- nipaka- ,,"""memperbaiki""",,,stative,property,kata sifat,1130,258*,129.0,164.0,C91 D92 E83 F84 G89,97.0,60.0
+1215a,16.815,"fine, beautiful, splendid","bagus, enak",ntao,=16.710,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=16.710,mV- mV-RDP2 paka-  mopaka- nipaka- ,,"""memperbaiki""",,,stative,property,kata sifat,1135,,0.0,0.0,,,
+1215b,16.812,"charming, attractive",cantik,gaya,gaya mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1134,,0.0,0.0,,,
+1216,16.720,"bad, rotten, nasty","jahat, buruk",jaat,jaat mV- [1. maja'at],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[1. maja'at],,,,stative,,kata sifat,1131,259,12.0,165.0,,,7.0
+1218,15.830,wet,basah,ßaso,"ßaso mV-  paka- ""kasi basah"" p13",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  paka-  ,,"""kasi basah""",,,stative,state,kata sifat,1127,260,349.0,141.0,,,183.0
+1219,15.840,dry,kering,kaang,"kaang mV-, togu mV- poko- ""kasi kering"" p13",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1125,261*,81.0,140.0,C93 D94 E85 F87 G91,99.0,32.0
+1219,15.840,dry,kering,togu,"kaang mV-, togu mV- poko- ""kasi kering"" p13",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- poko-  ,,"""kasi kering""",,,stative,property,kata sifat,1125,261*,81.0,140.0,C93 D94 E85 F87 G91,99.0,32.0
+1220a,12.611,broad,lebar,bila,bila mV- [mebilá'],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[mebilá'],,,,stative,property,kata sifat,1113,,0.0,0.0,,,
+1221,12.620,narrow,sempit,sipit,"sipit mV-, ipit mV- (pakaian)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1115,263,190.0,158.0,,,100.0
+1221,12.620,narrow,sempit,ipit,"sipit mV-, ipit mV- (pakaian)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,,(pakaian),,,stative,property,kata sifat,1115,263,190.0,158.0,,,100.0
+1222,04.810,strong,kuat,kosi,"kosi mV-~, gasing mV-",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1117,264*,292.0,0.0,,,
+1222,04.810,strong,kuat,gasing,"kosi mV-~, gasing mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1117,264*,292.0,0.0,,,
+1223,04.820,weak,lemah (manusia sakit),lulug,lulug mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1102,265*,345.0,0.0,,,
+1223b,15.750,"rubbery, flexible",kenyal,lunte,lunte mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1103,,0.0,0.0,,,
+1224,12.440,far,jauh,aßar,aßar mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,space,stative,,kata sifat,1453,266,101.0,180.0,C88 E80 F80 G86,,41.0
+1225,12.430,near,dekat,osip,osip mV- [mosip],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[mosip],,,,stative,state,kata sifat,1452a,267,191.0,179.0,C87 E79 F79 G85,,102.0
+1226,14.130,new (objects),baru,buou,buou mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,state,kata sifat,1153,268*,194.0,163.0,C90 D91 E82 F82 G88,96.0,104.0
+1227,14.155,"long (of duration), old (objects)",lama,sae,sae mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,,kata sifat,1151,269*,204.0,0.0,,,
+1228,14.150,old,tua ->04.141,isi,isi mV- (buah),Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,,(buah),,,stative,state,kata sifat,1150,270*,205.0,162.0,,,108.0
+1228a,14.140,young,muda,lußi,lußi mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,state,kata sifat,1152,,0.0,0.0,,,
+1229,12.630,thick (object),tebal,kapal,kapal mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1068,271,308.0,157.0,,,164.0
+1230,12.650,thin (object),tipis,nimpis,nimpis mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1070,272,310.0,156.0,,,165.0
+1231,12.660,"skinny, thin",kurus,rusuk,rusuk mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1071,273,266.0,0.0,Z12.65A,,
+1232,12.640,fat (adj.),gemuk,longu,"longu mV- [1. moongu], rombu mV- (anak kecil)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[1. moongu],,,,stative,prop / sta,kata sifat,1067,274*,103.0,0.0,C113 E105 Z12.63A,,
+1232,12.640,fat (adj.),gemuk,rombu,"longu mV- [1. moongu], rombu mV- (anak kecil)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,,(anak kecil),,,stative,prop / sta,kata sifat,1067,274*,103.0,0.0,C113 E105 Z12.63A,,
+1233,15.850,hot (water),panas (air),panah,panah mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,,kata sifat,1104/5,275,141.0,138.0,C46 D88 E40 F40 G46,93.0,
+1234,15.860,cold (water),"dingin (air), sejuk",luom,luom mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,,kata sifat,1107,276,55.0,139.0,C49 D89 E42 F42 G48,94.0,22.0
+1235,15.852,(luke)warm (water),hangat (air),papaneo,papaneo [']  mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,['],,,,stative,,kata sifat,1104/5a,277*,0.0,0.0,C47 G47,,
+1236,15.790,"dull (knife), blunt","tumpul, majal (w)",kundul,kundul mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1099,278,83.0,82.0,,,33.0
+1237,15.780,sharp (knife),tajam,ontol,"ontol mV- [montól] mV-RDP2 ""tajam-tajam"" p6",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  mV-RDP2  ,[montól],"""tajam-tajam""",,,stative,property,kata sifat,1098,279,256.0,81.0,,,133.0
+1238,12.590,short (length),pendek,puduk,"puduk mV-~ RDP mV--RDP2 ""pendek-pendek""",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- RDP mV--RDP2 ,,"""pendek-pendek""",,,stative,prop / sta,kata sifat,1065,280,260.0,154.0,C86 E78 F78 G84,,134.0
+1239,12.320,"low, short (height)",rendah,empeng,"empeng mV- [2. mempeng] mV-RDP2 peke- ""kasi rendah""  ropeke- p13",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  mV-RDP2 peke-   ropeke- ,[2. mempeng],"""kasi rendah""",,,stative,property,kata sifat,1088,281*,259.0,154.0,,,
+1239a,12.310,high (height),tinggi,panggat,panggat mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1087,,0.0,0.0,,,
+1240,12.570,long (object),panjang,langgas,"langgas /langgah~ mV-, layak mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,stative,prop / sta,kata sifat,1063,282,173.0,155.0,C85 D13 E77 F77 G83,14.0,91.0
+1240,12.570,long (object),panjang,langgah,"langgas /langgah~ mV-, layak mV-",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1063,282,173.0,155.0,C85 D13 E77 F77 G83,14.0,91.0
+1240,12.570,long (object),panjang,layak,"langgas /langgah~ mV-, layak mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1063,282,173.0,155.0,C85 D13 E77 F77 G83,14.0,91.0
+1241,08.425,rotten (fruit),busuk,boo,boo mV- [mobo'o] mV-RDP2~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-  mV-RDP2,[mobo'o],,,,stative,state,kata sifat,1129,283,242.0,112.0,,,123.0
+1242,15.380,sour,"masam, asam",podi,podi mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1162,284,277.0,0.0,,,
+1243,15.370,bitter,pahit,peit,peit mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1163,285,22.0,0.0,,,
+1244,15.350,sweet,manis,osing,"osing mV- [mosing]  mV-RDP2, emis mV- ""tak terlalu pahit (mis. kacang tanah)""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-   mV-RDP2,[mosing],,,,stative,property,kata sifat,1161,286,298.0,0.0,,,
+1244,15.350,sweet,manis,emis,"osing mV- [mosing]  mV-RDP2, emis mV- ""tak terlalu pahit (mis. kacang tanah)""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,,"""tak terlalu pahit (mis. kacang tanah)""",,,stative,property,kata sifat,1161,286,298.0,0.0,,,
+1244a,15.360,salty,asin,peit,=15.370,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=15.370,mV-,,,,,stative,property,kata sifat,1166,,0.0,0.0,,,
+1244b,15.320,"spicy, hot",pedis,rarah,rarah mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1165,,0.0,0.0,,,
+1245,15.250,fragrant,"harum, wangi",ßongi,ßongi mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,,kata sifat,,287,122.0,0.0,,,
+1246,05.146,full (satiated),kenyang,bosu,bosu mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,,kata sifat,0134,293,125.0,0.0,,,
+1247,17.920,"other, different",lain (orang lain) ->12.230,to hotubai,to hotubai,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,stative,,kata sifat,,294,208.0,190.0,,,110.0
+1248,13.140,all,semua,heißi  heißißina,"heißi  heißißina/heißina [heißiná'] ""semuanya""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,stati/adv,,kata sifat,1350,295,3.0,191.0,C81 D8 E73 F73 G79,9.0,1.0
+1248,13.140,all,semua,heißina,"heißi  heißißina/heißina [heißiná'] ""semuanya""",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[heißiná'],"""semuanya""",,,stati/adv,,kata sifat,1350,295,3.0,191.0,C81 D8 E73 F73 G79,9.0,1.0
+1249,13.150,many,banyak,dea,dea ma- ka- p15,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ma- ka- ,,,,,stati/adv,,kata sifat,1339,296,177.0,0.0,C82 D9 E74 F74 G80,10.0,94.0
+1250,15.810,heavy,berat,boat,boat mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1095,297,137.0,142.0,,,70.0
+1251,15.820,light (in weight),ringan,nggaang,nggaang mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,,1096,,0.0,0.0,,,
+1252,15.740,hard (substance),keras,karah,karah mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1101,298,133.0,0.0,,,
+1253,15.880,dirty,kotor,renjak,renjak mV-  p3,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-  ,,,,,stative,,kata sifat,,299,77.0,10.0,,,29.0
+1253a,15.870,"clean, tidy",bersih,njinak,njinak mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,,kata sifat,,,0.0,0.0,,,
+1254,12.730,straight,lurus,ntonok,ntonok mV- mo--ao~ ni--ao~ ro--ao~,Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- mo--ao ni--ao ro--ao,,,,,stative,property,kata sifat,1089,300,290.0,0.0,,,155.0
+1255,12.832,round (spherical),bulat (spt bola),limbung,=12.822,Balaesang,Rano,119.7132,-0.0433,,True,,,False,=12.822,RDP mV-,,,,,stative,,kata sifat,1111,301,0.0,0.0,C92 D93 E84 F85 G90,98.0,
+1255a,12.822,"round (flat, like circle)",bundar  (spt piring),limbung,limbung RDP mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,RDP mV-,,,,,stative,,kata sifat,1110,,0.0,0.0,,,
+1255b,12.740,"crooked, bent",bengkok,keduk,keduk RDP mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,RDP mV-,,,,,stative,,kata sifat,1090,,0.0,0.0,,,
+1256,16.910,lonely,"sunyi, sepi",galintook,galintook mV- [magalintók],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[magalintók],,,,stative,,kata sifat,,302*,172.0,0.0,,,
+1256a,16.915,"longing, homesick, desire",rindu,lintora,lintora mV- RA#,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- RA#,,,,,stative,,kata sifat,,,0.0,0.0,,,
+1257,17.470,"difficult, hard, troubled","sukar, susah",paris,"paris / parih~ mV-, kako mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,stative,,kata sifat,,303*,75.0,0.0,,,
+1257,17.470,"difficult, hard, troubled","sukar, susah",parih,"paris / parih~ mV-, kako mV-",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV-,,,,,stative,,kata sifat,,303*,75.0,0.0,,,
+1257,17.470,"difficult, hard, troubled","sukar, susah",kako,"paris / parih~ mV-, kako mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,,kata sifat,,303*,75.0,0.0,,,
+1258,15.775,"fine, smooth, subtle",halus,aluh,"aluh mV-, lamang mV- (smooth as glass#)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1094,304*,273.0,0.0,,,143.0
+1258,15.775,"fine, smooth, subtle",halus,lamang,"aluh mV-, lamang mV- (smooth as glass#)",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,,(smooth as glass#),,,stative,property,kata sifat,1094,304*,273.0,0.0,,,143.0
+1258b,15.835,"slippery, slick",licin,royuk,royuk mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,,,0.0,0.0,,,
+1259,14.210,"quick, fast, at once","cepat, lekas",solok,"solok mV- (kendaraan, lari), kaliang mV- (sampai), dolia mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,,(kendaraan; lari),,,stative,prop / sta,kata sifat,1157,305,102.0,0.0,,,
+1259,14.210,"quick, fast, at once","cepat, lekas",kaliang,"solok mV- (kendaraan, lari), kaliang mV- (sampai), dolia mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,,(sampai),,,stative,prop / sta,kata sifat,1157,305,102.0,0.0,,,
+1259,14.210,"quick, fast, at once","cepat, lekas",dolia,"solok mV- (kendaraan, lari), kaliang mV- (sampai), dolia mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1157,305,102.0,0.0,,,
+1260,12.670,deep  (water),dalam (airnya),lalom,lalom -na [lalomná'] mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,-na  mV-,[lalomná'],,,,stative,,kata sifat,1083,306,71.0,0.0,,,
+1261,13.210,full (container),penuh,sue,sue mV- [mosue'],Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[mosue'],,,,stative,state,kata sifat,1143,307,126.0,0.0,C89 D90 E81 F81 G87,95.0,
+1262,13.220,empty,kosong ->08.829,pasong,pasong mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,state,,1142,,0.0,0.0,,,
+1263,16.660,"true, correct","benar, betul",tutuna  *motutu,"tutuna [tutuná'] *motutu, kana =15.710",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,[tutuná'],,,,stative,,kata sifat,1141,308*,0.0,166.0,,,117.0
+1263,16.660,"true, correct","benar, betul",kana,"tutuna [tutuná'] *motutu, kana =15.710",Balaesang,Rano,119.7132,-0.0433,,True,,,False,=15.710,,,,,,stative,,kata sifat,1141,308*,0.0,166.0,,,117.0
+1264,15.640,white,putih,manjeng,manjeng ma-  p6,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,ma-  ,,,,colour,stative,property,warna,1167,309,354.0,148.0,C64 D85 E56 F56 G62,90.0,187.0
+1265,15.650,black,hitam,buring,buring mo- RDP p4,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mo- RDP ,,,,colour,stative,property,warna,1168,310,23.0,147.0,C63 D86 E55 F55 G61,91.0,14.0
+1266,15.690,yellow,kuning,kuni,"kuni  RDP mo-RDP2 ""agak k."" mV-~",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,RDP mo-RDP2  mV-,,"""agak k.""",,colour,stative,property,warna,1171,311,371.0,150.0,C66 D84 E58 F58 G64,89.0,200.0
+1267,15.660,red,merah,ßondak,"ßondak mV-~ RDP mo-RDP2 ""merah-merah""",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- RDP mo-RDP2 ,,"""merah-merah""",,colour,stative,property,warna,1169,312,229.0,149.0,C65 D82 E57 F57 G63,87.0,116.0
+1268,15.680,green,hijau,manta,"manta mV-~ ma-RDP2 ""hijau-hijau""",Balaesang,Rano,119.7132,-0.0433,,False,,,False,nan,mV- ma-RDP2 ,,"""hijau-hijau""",,colour,stative,property,warna,1173,313*,130.0,151.0,C67 D83 E59 F59 G65,88.0,62.0
+1269,16.452,"ashamed, shy",malu #combine with##,sili,sili mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata kerja,1082,363,9.0,161.0,,,
+1270,16.420,angry,marah,nasu,"nasu mV-, bingit mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,state,kata kerja,1144,364,4.0,0.0,,,
+1270,16.420,angry,marah,bingit,"nasu mV-, bingit mV-",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,state,kata kerja,1144,364,4.0,0.0,,,
+1273,14.175,"late, slow",lambat,luale,luale mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,prop / sta,,1158,,0.0,0.0,,,
+1274,17.220,"stupid, dull",bodoh,batak,batak mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,,1159,,0.0,0.0,,,
+1275,04.920,lazy,malas,lanja,lanja mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,property,,1121,,0.0,0.0,,,
+1276,04.910,tired,"lelah, cape",kunggeng,kunggeng mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,state,,1156,,0.0,0.0,,,
+1277,01.622,dark,gelap,doloman,doloman mV-,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV-,,,,,stative,state,,1403,,0.0,0.0,,,
+1278,14.290,"ready, finished","siap, selesai ->14.270",poromo,poromo [poromó'] mV- p8,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,mV- ,[poromó'],,,,stative,,,,,0.0,0.0,,,
+1279,17.510,"and, with","dan, dengan",menu,"menu ""dengan""  p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""dengan""",,conjunctio,adv / qual,,tata bahasa,1469,320*,0.0,192.0,,,2.0
+1286,17.560,"no, not",tidak,diang,diang / ding,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,adv / qual,,tata bahasa,1473,314*,202.0,195.0,C95 D95 E88 F88 G93,8.0,107.0
+1286,17.560,"no, not",tidak,ding,diang / ding,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,adv / qual,,tata bahasa,1473,314*,202.0,195.0,C95 D95 E88 F88 G93,8.0,107.0
+1287,17.575,"none, there are not",tidak ada,ding mai,ding mai,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,adv / qual,,tata bahasa,1343,315*,198.0,0.0,,,
+1288,17.570,there is/are,ada,mai,"mai, da ""kah"" (in questions#) p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,adv / qual,,,1342,,0.0,0.0,,,
+1288,17.570,there is/are,ada,da,"mai, da ""kah"" (in questions#) p15",Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,"""kah""', '(in questions#)",,,adv / qual,,,1342,,0.0,0.0,,,
+1289,17.550,yes,ya,ie,ie,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,adv / qual,,,1472,,0.0,0.0,,,
+1302,13.330,"only, merely","hanya, cuma",boi,boi  p12,Balaesang,Rano,119.7132,-0.0433,,True,,,False,nan,,,,,,adv / qual,,,1477,,0.0,0.0,,,

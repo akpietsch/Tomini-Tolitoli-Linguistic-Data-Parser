@@ -1,0 +1,843 @@
+﻿NUMBER,IDSW,ENGLISH,INDONESIAN,FORM,ORIGINAL_FORM,LANGUAGE,LOCATION,LONGITUDE,LATITUDE,GENDER,RECORDED,MEDIALINK,REGISTER,EXCLUDE,REFERENCE,GRAMMAR_COMMENT,PRONUNCIATION_COMMENT,TRANSLATION_COMMENT,EDITING_COMMENT,CATEGORY1,CATEGORY2,CATEGORY3,CATEGORY4,HOLLE,SIL,REID,BLUST,LIST,SWA100,GUD200
+0001,04.110,body,"badan, tubuh",alae,alae  p45,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0001,001,28.0,0.0,,,
+0002,04.200,head,kepala,ßa'i,ßa'i,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0002,002,134.0,24.0,C116 D37 E108 F107 G116,38.0,67.0
+0003,04.202,skull,"tengkorak, tempurung kepala  ->08.832",ßelinga nu ßa'i,ßelinga nu ßa'i,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0005,003,0.0,0.0,,,
+0004,04.203,brain,otak,unto,unto -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,bodyparts,noun,,anggota tubuh,0036,004*,32.0,0.0,,,
+0005,04.140,"hair (head, not body)",rambut  ->04.144,ßa'i,ßa'i,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0006,005,131.0,26.0,C109 D36 E106 F105 G114,37.0,64.0
+0006,04.205,forehead,dahi,ire,ire,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0004,007,119.0,0.0,,,
+0007,04.201,temple,pelipis,tantangisa,tantangisa  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,,013,0.0,0.0,,,
+0008,04.204,face,"muka, wajah",lio,lio,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0003,006*,99.0,0.0,C133 E124 F108 G117,,
+0009,04.210,eye,mata,mata,mata,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0011,008,96.0,45.0,C118 D39 E110 F109 G118,40.0,39.0
+0010a,04.217,pupil (eye),manik mata,mata petau,mata petau p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,,,,0.0,0.0,,,
+0011,04.212,eyebrow,"kening, alis mata",tutubi nu mata,tutubi nu mata,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0015,010*,97.0,0.0,,,
+0012,04.214,eyelashes,bulu mata,ßulu nu mata,ßulu nu mata [F],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[F],,,bodyparts,noun,,anggota tubuh,0013,011,98.0,0.0,,,
+0013,16.380,tear (from crying),air mata,junya nu mata,junya nu mata  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,noun,,anggota tubuh,0016/17,012,303.0,0.0,,,
+0015,04.220,ear,telinga,talinga,talinga  p59,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0009,022,85.0,43.0,C117 D38 E109 F115 G124,39.0,35.0
+0015a,04.221,ear lobe,cuping,dompe talinga,dompe talinga,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,,,,0.0,0.0,,,
+0016,04.222,earwax,tahi telinga,tai ntuli,tai ntuli,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,,0010,,0.0,0.0,,,
+0017,04.240,mouth,mulut,ngunju,ngunju,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0022,017*,187.0,30.0,C120 D41 E112 F111 G120,42.0,98.0
+0018,04.250,lip,bibir,ßißi,ßißi   +SGA,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0025/26,018*,168.0,0.0,C121 E113 F112 G121,,
+0019,04.260,tongue,lidah,oyo,oyo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0031,019,323.0,32.0,C123 D43 E115 F114 G123,44.0,172.0
+0020,04.270,tooth,gigi,ngisi,ngisi,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0033,020,304.0,31.0,C122 D42 E114 F113 G122,43.0,173.0
+0021,04.230,nose,hidung,enge,enge,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0018,014,200.0,27.0,C119 D40 E111 F110 G119,41.0,106.0
+0023,04.208,cheek,pipi,pimpi,pimpi,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0021,015,45.0,0.0,,,
+0024,04.168,cheekbone,tulang pipi,ßu'u nu pimpi,ßu'u nu pimpi  [2. F] p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[2. F],,,,noun,,anggota tubuh,,016,0.0,0.0,,,
+0025,04.209,chin,dagu,aje,aje  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0029,021,49.0,0.0,,,
+0026,04.370,"foot, leg",kaki,paa,paa -nya  K71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  K71,,,,bodyparts,noun,,anggota tubuh,0086,038,162.0,4.0,C125 D45 E117 F121 G130,46.0,55.0
+0027,04.380,toe,jari kaki,'oya nu paa,'oya nu paa [1. koya],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[1. koya],,,bodyparts,noun,,anggota tubuh,0106,046,321.0,0.0,,,
+0028,04.373,sole of the foot,tapak kaki,ayaba paa,ayaba paa p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0087,044,275.0,0.0,,,
+0029,04.360,knee,lutut,tu'u,tu'u  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0091,041,154.0,0.0,C126 D46 E118 F122 G131 Sa92,47.0,
+0030,04.362,"popliteal space, back of the knee#",(pe)lipatan lutut,tinggodo,tinggodo  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0092,042*,0.0,0.0,,,
+0031,04.371,"joint (ankle, elbow, wrist)","sendi, pergelangan (kaki, tangan, etc)",oyu,oyu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0088,043*,5.0,0.0,,,
+0032,04.372,heel,tumit,tadu,tadu  p45,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0089,045,138.0,0.0,,,
+0033,04.330,hand,tangan,tonuju,tonuju p56 p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0097,027*,132.0,1.0,C127 D47 E119 F119 G128,48.0,65.0
+0034,04.331,palm of the hand,tapak tangan,ayaba nu tonuju,ayaba nu tonuju [ayabantonuju]  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[ayabantonuju],,,bodyparts,noun,,anggota tubuh,0102,028,210.0,0.0,,,
+0035,12.541,span (eight inches),jengkal,sanjangga  K79,sanjangga  K79,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,anggota tubuh,,029,279.0,0.0,,,
+0036,04.340,finger,jari,tonunju,tonunju,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0104,030,110.0,0.0,,,
+0037,04.342,thumb,ibu jari,kotumpu,kotumpu  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0108,031,0.0,0.0,,,
+0038,04.343,"pinky, little finger",jari kelingking,konjili,konjili  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0112,032,0.0,0.0,,,
+0039,04.344,fingernail,kuku jari,kalupa,kalupa / 'alupa~ p45,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0107,033,111.0,0.0,C124 D44 E116 F120 G129,,
+0039,04.344,fingernail,kuku jari,'alupa,kalupa / 'alupa~ p45,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0107,033,111.0,0.0,C124 D44 E116 F120 G129,,
+0040,04.320,elbow,siku,si'u,si'u  p44,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0100,026,94.0,0.0,,,
+0042,04.400,chest,dada,baraba,baraba  [1. bambara],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[1. bambara],,,bodyparts,noun,,anggota tubuh,0041/42,035,46.0,0.0,,,
+0043,04.410,breast,"susu, buah dada",susu,susu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0044,036*,34.0,18.0,C130 D50 E122 G126 Sa18,51.0,
+0045,04.411,suck at the breast,susu  menyusu,susu,susu moN--i ro--i~ pepe- -mo  p73,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN--i ro--i pepe- -mo  ,,,,body,intr,action,,0048,,0.0,0.0,,,
+0047,04.280,neck,leher,ßotoßuu,ßotoßuu [2. ßotohuu] p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[2. ßotohuu],,,bodyparts,noun,,anggota tubuh,0038,023*,192.0,25.0,C129 D49 E121 F116 G125,50.0,103.0
+0048,04.290,throat (esophagus),kerongkongan,ßuroko,ßuroko  [F]  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[F],,,bodyparts,noun,,anggota tubuh,0037,024*,315.0,0.0,,,
+0049,04.191,upper back,punggung atas,tanga  K69,tanga  K69 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0063,034*,11.0,13.0,,,6.0
+0050,04.435,belly,perut,'ompo,'ompo -nya  p44 p63,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya   ,,,,bodyparts,noun,,anggota tubuh,0054,037*,16.0,14.0,C128 D48 E120 F117 G127 Z4.46A,49.0,10.0
+0051,04.144,body hair,bulu (badan)  ->04.140,ßulu,ßulu  [1. F],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[1. F],,,bodyparts,noun,,anggota tubuh,0122,047*,0.0,0.0,C115 E107 F106 G115,,
+0052,04.300,shoulder,bahu,aßaa,aßaa  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0065,025,261.0,19.0,,,
+0054,04.351,thigh,paha,timpu,timpu  -nya p46,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya ,,,,bodyparts,noun,,anggota tubuh,0090,039,309.0,0.0,,,
+0055,04.120,skin (person),kulit,'ulisi K69,'ulisi K69 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0121,048,265.0,12.0,C117 D27 E101 F100 G107,28.0,137.0
+0056,04.160,bone,tulang,ßu'u,ßu'u   p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0115,051,31.0,15.0,C112 D30 E104 F104 G113,31.0,17.0
+0057,04.162,rib,tulang rusuk,ßu'u nu usu,ßu'u nu usu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0050,052,232.0,0.0,,,
+0058,04.440,heart,jantung ->08.845,sule  K71,sule  K71 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0052,053*,136.0,0.0,C132 D51 G111,52.0,69.0
+0059,04.150,blood,darah,raa,raa  K70  me- K74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,Kme- K74,,,,body,noun,mass,anggota tubuh,0116,054,26.0,23.0,C111 D29 E103 F103 G110,30.0,15.0
+0060,04.454,"gall, bile",empedu,poyu,poyu  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0057,057*,0.0,0.0,,,
+0061,04.461,"intestines, guts (G)","usus, isi perut (w)",tailiko,tailiko  p73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0055,059*,150.0,16.0,,,63.0
+0063,04.450,liver,hati,ate  K73,ate  K73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0056,056*,170.0,17.0,C131 D52 E123 F118 G112,53.0,90.0
+0064,04.441,lungs,paru-paru,ate bura,ate bura ~  p73,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0051,058,175.0,0.0,,,
+0064a,04.164,rib cage,rangka tulang rusuk,nganganjule,"nganganjule  ""ulu hati"" p60",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""ulu hati""",,bodyparts,noun,,anggota tubuh,,,0.0,0.0,,,
+0065,04.130,"flesh, meat",daging (mentah),isi  K68,isi  K68,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0539/01,049*,0.0,103.0,C110 D28 E102 F102 G108,29.0,95.0
+0066,04.492,penis,kemaluan laki-laki,uti,uti  p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0077,064*,213.0,0.0,,,
+0069,04.480,vagina,kemaluan perempuan,ßana,ßana  p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0078,065,333.0,0.0,,,
+0072,04.731,become pregnant,jadi hamil,nangida,nangida  ~  (?) p63,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,(?),,body,tr,,,,,0.0,0.0,,,
+0073,04.730,pregnant,"hamil, kandung mengandung ->04.435",'ompo,'ompo mV- -mo ~  p63,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mV- -mo   ,,,,body,stative,state,kata kerja,0178,474,0.0,0.0,C213 E192 F193 G209,,
+0080,04.465,anus,"dubur, lubang pantat",bolo tai  K81,bolo tai  K81,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0071,061*,7.0,0.0,,,
+0081,04.464,buttocks,"pantat, bokong",gampuru,gampuru ~  p73,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0069,060,38.0,0.0,,,
+0082,04.665,"excrement, feces",tahi,tai,tai,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,noun,mass,anggota tubuh,0073,063,95.0,0.0,,,
+0083,04.660,defecate,"berak, membuang air besar",tai,tai motu-/moto-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,motu-/moto-,,,,body,intr,action,kata kerja,0072,452,73.0,0.0,,,
+0084,04.650,urinate,kencing (k.k.),tulee,tulee / tolee mo- nitulei/nituleeni  p52,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr,action,,0082,,0.0,0.0,,,
+0084,04.650,urinate,kencing (k.k.),tolee,tulee / tolee mo- nitulei/nituleeni  p52,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- nitulei,,,,body,intr,action,,0082,,0.0,0.0,,,
+0084,04.650,urinate,kencing (k.k.),nituleeni,tulee / tolee mo- nitulei/nituleeni  p52,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr,action,,0082,,0.0,0.0,,,
+0085,04.651,urine,air kencing #collapse?,lee,lee,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0083,062,332.0,0.0,,,
+0086,04.640,fart,kentut  berkentut,ontuti,ontuti moN-  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN-  ,,,,body,intr,action,,0075,,0.0,0.0,,,
+0087a,04.335,fist,"tinju, kepalan",jaguru,=09.215,Taje,Petapa,120.1238,-0.7782,,True,,,False,=09.215,mosi- me-  ,,,,bodyparts,noun,,,,,0.0,0.0,,,
+0091,04.352,calf,betis,taßu paa,taßu paa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0093,040,0.0,0.0,,,
+0093,04.281,nape,tengkuk,tundu,tundu -nya  K69 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  K69 ,,,,bodyparts,noun,,,0040,,0.0,0.0,,,
+0095,04.462,waist,pinggang,aßa,aßa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,,,,0.0,0.0,,,
+0095a,04.312,armpit,ketiak,'e'e,'e'e   p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,,0099,,0.0,0.0,,,
+0096,04.468,tailbone (coccyx),tulang tungging/ekor,duidui,duidui ~ =04.464(?) p63,Taje,Petapa,120.1238,-0.7782,,False,,,False,=04.464,,,(?),,bodyparts,noun,,,0070,,0.0,0.0,,,
+0100,04.272,molar,geraham,baga,baga  -nya  p45,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,,,,bodyparts,noun,,,0034,,0.0,0.0,,,
+0102,04.155,"vein, tendon","urat, urat darah",uati,uati    p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodypart,noun,,anggota tubuh,0118,055*,334.0,0.0,,,
+0105,05.791,"fat, grease#",lemak,lotugi,lotugi  p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,prop / sta,anggota tubuh,1073,050*,104.0,104.0,C113 D31 E105 F101 G109,32.0,42.0
+0106,04.232,mucus,ingus ->04.845,nguusi,nguusi  -nya  p45,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,,,,body,noun,,,0020,,0.0,0.0,,,
+0109,04.148,moustache,kumis,ßulungunju,ßulungunju,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,bodyparts,noun,,,0027,,0.0,0.0,,,
+0110,04.990,"naked, bare",telanjang,lalau,lalau me- me-~ p33,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,me- me- ,,,,body,stative,,,,,0.0,0.0,,,
+0111,04.930,bald,"gundul, botak",suo,"suo ma-, sula ma-  ~",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,body,stative,state,,0007,,0.0,0.0,,,
+0111,04.930,bald,"gundul, botak",sula,"suo ma-, sula ma-  ~",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ma-  ,,,,body,stative,state,,0007,,0.0,0.0,,,
+0112,04.740,"live, be alive",hidup ->12.530,tußu,tußu me- p54  pe'e- -mo  K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-   pe'e- -mo  K77,,,,,intr,state,kata kerja,0182,410,0.0,76.0,,,89.0
+0113,04.610,sleep,tidur   ->07.212,turu,turu mo'o- nipo'o--i nipopo'o-~ *no p52 po'o--o (tempat) p56,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo'o- nipo'o--i nipopo'o- *no  po'o--o  ,,(tempat),,body,stative,event,kata kerja,0138,466*,269.0,48.0,C186 E59 E170 F171 G183,60.0,139.0
+0115,04.620,dream,(ber)mimpi,upi,upi moN- nipoN-  ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- nipoN-  ,,,,body,intr / tr,event,kata kerja,0139,467,79.0,50.0,C211 E191 F172 G186,,
+0116,04.628,nod,angguk  mengangguk,undu 'ounduundu,undu 'ounduundu mV- mV-RDP2  p59,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- mV-RDP2  ,,,,body,intr,action,,0177,,0.0,0.0,,,
+0117,04.624,"nod, be sleepy",antuk  mengantuk,mee  memeemo mata,mee  memeemo mata  p59,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr / adj,state,kata kerja,0141,464,0.0,0.0,C212 E182 F170 G185,,
+0118,04.615,shut the eyes,pejam  memejamkan mata,pisi,pisi ni- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- -mo,,,,bodyaction,intr,event / ac,,0230,,0.0,0.0,,,
+0118a,04.617,"wink (of an eye), flicker",kedip  berkedip-kedip,mpika nimpikampika'o,mpika nimpikampika'o sa- p59 K81,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,sa-  K81,,,,bodyaction,intr,event,,,,0.0,0.0,,,
+0119,04.612,snore,dengkur  berdengkur,momanggori,momanggori  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr,,,,,0.0,0.0,,,
+0120,04.630,wake up,"bangun, sadar  ->09.440",pemata,pemata M- -mo p63,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- -mo ,,,,body,intr,event,kata kerja,0142,468*,0.0,0.0,C188 E172 F173 G187,,
+0121,04.631,"awaken s.o., get up",bangun  membangunkan  ->10.145,banguna'o,banguna'o ro- mo-  =09.440,Taje,Petapa,120.1238,-0.7782,,True,,,False,=09.440,ro- mo-  ,,,,,tr,action,kata kerja,1223,469*,0.0,0.0,C189 E173 G188,,
+0122,05.110,eat,makan,'uma,"'uma mo- popo- -mo p53 K77, nu'a ni- ro- p46 momba-  p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- popo- -mo  K77,,,,body,tr / intr,action,kata kerja,0128,390,89.0,37.0,C182 D54 E166 F165 G178,55.0,37.0
+0122,05.110,eat,makan,nu'a,"'uma mo- popo- -mo p53 K77, nu'a ni- ro- p46 momba-  p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- ro-  momba-  ,,,,body,tr / intr,action,kata kerja,0128,390,89.0,37.0,C182 D54 E166 F165 G178,55.0,37.0
+0123,05.180,chew (not swallow),kunyah  mengunyah,tangia,tangia maN%t- ni-  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,maN%t- ni-  ,,,,body,tr,action,kata kerja,,393,0.0,38.0,,,
+0124,05.181,chew betelnut,makan pinang,panga,"panga -no moN- poN--no, posugi M-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-no moN- poN--no,,,,,tr,action,kata kerja,,394*,18.0,0.0,Z8.62B,,
+0124,05.181,chew betelnut,makan pinang,posugi,"panga -no moN- poN--no, posugi M-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M-,,,,,tr,action,kata kerja,,394*,18.0,0.0,Z8.62B,,
+0125,05.183,swallow,telan  menelan,onyo,onyo moN- ro- ni- -mo  p54 p63,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN- ro- ni- -mo   ,,,,body,intr / tr,action,kata kerja,0137,395,296.0,0.0,,,
+0127,05.160,suck (not nurse),isap  mengisap,tomisi,tomisi moN- ni-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN- ni-,,,,,tr,action,kata kerja,1235,396*,293.0,42.0,,,156.0
+0127b,01.870,matches,"korek api, matches",colo  K69,colo  K69 ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,tr,action,kata kerja,,,0.0,0.0,,,
+0129,05.130,drink,minum,inu,inu meN- ni- p54  ropa- pepeN- -mo K77 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,meN- ni-   ropa- pepeN- -mo K77 ,,,,body,tr / intr,action,kata kerja,0130,391,80.0,40.0,C180 D53 E164 F163 G176,54.0,31.0
+0130,04.980,drunk,mabuk,nilele,nilele -nya  p46,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,,,,body,stative,state,,0131,,0.0,0.0,,,
+0131,05.145,satisfied,puas,ajemo,"ajemo  ""tidak mau lagi""",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""tidak mau lagi""",,body,stative,state,,0133,,0.0,0.0,,,
+0132,05.151,thirsty,haus,no'oga ßotoßuu,"no'oga ßotoßuu  p46  ->04.280,15.840",Taje,Petapa,120.1238,-0.7782,,True,,,False,->04.280,,,,,body,stative,state,kata sifat,0132,291,311.0,0.0,C179 E163 F162 G175,,
+0132,05.151,thirsty,haus,15.840,"no'oga ßotoßuu  p46  ->04.280,15.840",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,stative,state,kata sifat,0132,291,311.0,0.0,C179 E163 F162 G175,,
+0133,05.142,hungry,lapar,oro,oro mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,body,stative,state,kata sifat,0129,292,145.0,0.0,C181 E165 F164 G177,,
+0135,04.550,"sweat, perspire",keringat berkeringat,soyo'oti,"soyo'oti mV-  p74, soronda mV-  p58",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  ,,,,body,noun,mass,anggota tubuh,0124,068,297.0,0.0,,,
+0135,04.550,"sweat, perspire",keringat berkeringat,soronda,"soyo'oti mV-  p74, soronda mV-  p58",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  ,,,,body,noun,mass,anggota tubuh,0124,068,297.0,0.0,,,
+0136,04.510,breathe,nafas  bernafas,ambo,ambo  me-  K74 / 78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-  K74 ,,,,body,intr,,kata kerja,0127,448,0.0,28.0,,,18.0
+0136,04.510,breathe,nafas  bernafas,78,ambo  me-  K74 / 78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr,,kata kerja,0127,448,0.0,28.0,,,18.0
+0137,04.530,cough,batuk,mengge,mengge me- p63,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- ,,,,body,intr,action,kata kerja,0170,449,61.0,0.0,C201 E188 F183 G197,,
+0141,04.515,sigh,"keluh  berkeluh kesah, mengeluh",mantangalu,mantangalu  p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr,action,,0166,,0.0,0.0,,,
+0144,04.520,yawn,kuap  menguap,moya,moya me-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-,,,,body,intr,action,kata kerja,0176,465,0.0,47.0,,,
+0145,04.680,shiver,gigil  menggigil,mementa,mementa ~  =15.860  p75,Taje,Petapa,120.1238,-0.7782,,False,,,False,=15.860,,,,,body,intr,action,,1108,,0.0,0.0,,,
+0145b,04.685,tremble,gemetar bergetar,lete  molete sule,lete  molete sule  ~  p69,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,body,intr,action,,,,0.0,0.0,,,
+0146,16.370,cry,tangis  menangis,tumangisi,tumangisi mo-  p54,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-  ,,,,body,intr,action,kata kerja,0163,380,65.0,34.0,C205 E190 F189 G203,,
+0147,16.250,laugh,tawa  tertawa,ngisi,ngisi me- mosimo-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- mosimo-,,,,body,intr,action,kata kerja,0161,381,158.0,33.0,C204 E180 F188 G202,,84.0
+0147a,16.251,laugh at  #alte 1020#,tawa  menertawakan,ngisi,ngisi nipe--a'o mepe--a'o mompe--a'o~ p54,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,nipe--a'o mepe--a'o mompe--a'o ,,,,,tr,action,,0162,,0.0,0.0,,,
+0148,16.255,smile,senyum  tersenyum,pomongi,pomongi M- p56,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- ,,,,body,intr,action,,0165,,0.0,0.0,,,
+0149,04.560,spit,"ludah, ber- / meludah",penyui,"penyui meN- ni-, ilu  p63",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,meN- ni-,,,,body,intr,action,kata kerja,0167,450,281.0,36.0,C203 E189 F184 G198,,147.0
+0149,04.560,spit,"ludah, ber- / meludah",ilu,"penyui meN- ni-, ilu  p63",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr,action,kata kerja,0167,450,281.0,36.0,C203 E189 F184 G198,,147.0
+0150,04.570,vomit (not: spit out),muntah,pelua,pelua meN- -a'o [pelua'o],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,meN- -a'o ,[pelua'o],,,body,intr,action,kata kerja,0168,451,335.0,35.0,C202 E179 F185 G199,,177.0
+0151,04.690,bathe,mandi #collapse?#,ndisi,ndisi me- ni- ro- ni--a'o nipepe-  p57,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- ni- ro- ni--a'o nipepe-  ,,,,body,intr,action,kata kerja,0154,424,15.0,0.0,C206 E197 F190 G204,,
+0153,10.370,fly,terbang,lumea,lumea me- -mo p54 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- -mo  ,,,,,intr,action,kata kerja,0788,431,118.0,101.0,C194 D62 E185 F177 G192 Wu054,64.0,
+0154,10.472,climb (mountain),daki  mendaki (gunung),penda'e,penda'e / pendake M- ni--i ~  -mo  p62,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,tr,action,kata kerja,0737,428,51.0,172.0,,,
+0154,10.472,climb (mountain),daki  mendaki (gunung),pendake,penda'e / pendake M- ni--i ~  -mo  p62,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,M- ni--i   -mo  ,,,,,tr,action,kata kerja,0737,428,51.0,172.0,,,
+0154a,10.474,get onto a vehicle/furniture,naik kendaraan/kursi,penjaße,penjaße M- pe-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- pe-,,,,,tr,action,kata kerja,,,0.0,0.0,,,
+0155,10.473,climb (tree),panjat  memanjat (pohon),pene,pene ro- meN-  *i,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- meN-  *i,,,,motion,tr,action,kata kerja,0736,427,51.0,172.0,,,
+0156,10.320,flow,alir  mengalir,ili,ili mo-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-,,,,,intr,,kata kerja,,458,0.0,123.0,,,52.0
+0157,10.340,float,apung  terapung (w),menanggo,menanggo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,intr,process,,,,0.0,0.0,,,51.0
+0158,10.470,go,pergi ->12.007 #check->,ma'o,"ma'o, mbure  p65",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,intr,action,,1279f,,0.0,0.0,,,
+0158,10.470,go,pergi ->12.007 #check->,mbure,"ma'o, mbure  p65",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,intr,action,,1279f,,0.0,0.0,,,
+0159,10.450,walk,jalan  berjalan,lampa,lampa me-  p55,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-  ,,,,body,intr,action,kata kerja,0145,460,337.0,5.0,C195 D63 E176 F178 G193,65.0,178.0
+0160,10.460,run,lari  berlari,pelinjo,"pelinjo meM-  K77, palai M- -mo p54 p76",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,meM-  K77,,,,,intr,action,kata kerja,,459,244.0,0.0,,,
+0160,10.460,run,lari  berlari,palai,"pelinjo meM-  K77, palai M- -mo p54 p76",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- -mo  ,,,,,intr,action,kata kerja,,459,244.0,0.0,,,
+0163,10.430,jump,lompat  melompat (jauh),tempa,"tempa me- -mo p60, kalaya me- -mo ""lompat dari atas ke bawah"" p62",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- -mo ,,,,motion,intr,action,,1249,,0.0,0.0,,,
+0163,10.430,jump,lompat  melompat (jauh),kalaya,"tempa me- -mo p60, kalaya me- -mo ""lompat dari atas ke bawah"" p62",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- -mo  ,,"""lompat dari atas ke bawah""",,motion,intr,action,,1249,,0.0,0.0,,,
+0164,10.350,swim (crawl),renang  berenang  (gaya bebas),nango,nango mo- -mo  p61,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- -mo  ,,,,body,intr,action,kata kerja,0153,426*,301.0,9.0,C193 D61 E175 F176 G191,63.0,159.0
+0165,10.230,"fall, drop",jatuh menjatuhkan,naßu,naßu mV- mo--sa'o  ni--sa'o metingga-  p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- mo--sa'o  ni--sa'o metingga-  ,,,,,intr,event,kata kerja,,401/402*,100.0,95.0,C208/9 E199/200 F191 G206/7,,40.0
+0165k,10.237,fall: various sounds,jatuh: macam macam bunyinya,sudu,"sudu mete- -mo ""tersungkur"" K80",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mete- -mo  K80,,"""tersungkur""",,,intr,event,kata kerja,,,0.0,0.0,,,
+0167,10.620,"bring, carry (in the hand)",bawa  membawa ->11.140,ßaßa,ßaßa ni- moN- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- moN- -mo,,,,,tr,action,,1216,,0.0,0.0,,,
+0169,10.610,carry on shoulder/back,pikul  memikul,simbu,simbu ro- ni-~ moN-~ p72,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN- ,,,,,tr,action,,1220,,0.0,0.0,,,
+0169a,10.611,carry on shoulder with a stick,pikul  memikul (dgn pikulan),tanggua,tanggua ro-~ maN- paN-  p54,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- maN- paN-  ,,,,,tr,action,,1220a,,0.0,0.0,,,
+0169b,10.612,carry sitting on the shoulder,panggul memanggul  (duduk di bahu),ponda,ponda mo- ni-~  p72,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ni-  ,,,,,tr,action,,1220b,,0.0,0.0,,,
+0170,10.614,carry on the head,junjung  menjunjung,suu,suu ro- ni- moN- -mo p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- ni- moN- -mo ,,,,,tr,action,,1212,,0.0,0.0,,,
+0171,10.615,carry under the arm,kepit  mengepit,upiti,upiti ro-~ ni- moN-,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN-,,,,,tr,action,,1215,,0.0,0.0,,,
+0172,10.613,carry (with two or more),gotong  menggotong,koßa,koßa ro- ni-~ mo-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- mo-,,,,,tr,action,,1219,,0.0,0.0,,,
+0173,10.606,"carry in a sarong, sarong used as a sling  #includes alte 890#","gendong dalam sarung,  sarung dukung",,=10.608  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,=10.608,,,,,dressing,noun,,,0587/1218,,0.0,0.0,,,
+0174,10.616,carry in front of oneself,gendong  menggendong di muka,ambi,ambi ro- ni- moN-~ -mo,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN- -mo,,,,motion,tr,action,,1221,,0.0,0.0,,,
+0174a,10.617,"carry (baby) on both arms, on one's chest",gendong dgn dua tangan di depan dada,tande,"tande ni-  ""duduk di paha""  p72",Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,ni-    ,,"""duduk di paha""",,motion,tr,action,,1221a,,0.0,0.0,,,
+0175,10.608,carry on the back (with a strap),ambin  mengambin,'olo,'olo ro- moN- ni- K77 p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- moN- ni- K77 ,,,,motion,tr,action,,1217,,0.0,0.0,,,
+0177,10.618,carry sth. hanging from the hand,jinjing  menjinjing,toya,toya ro- ni-~ mo- -mo p72,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- mo- -mo ,,,,motion,tr,action,,1213,,0.0,0.0,,,
+0178,11.210,give,beri  memberi,ßina'o,ßina'o mo- momba- ni-  p50,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- momba- ni-  ,,,,,tr,action,kata kerja,1176,446,128.0,0.0,C214 D68 E201 F194 G210,70.0,59.0
+0179,11.130,take,ambil  mengambil,ala,"ala ro-~ ni- maN-~ -a'o~ p56, ganggo ni-~ moN-~ p54",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- maN- -a'o ,,,,motion,tr,action,,1179,,0.0,0.0,,,
+0179,11.130,take,ambil  mengambil,ganggo,"ala ro-~ ni- maN-~ -a'o~ p56, ganggo ni-~ moN-~ p54",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- moN- ,,,,motion,tr,action,,1179,,0.0,0.0,,,
+0180,10.630,send,kirim  mengirim,pa'atu,pa'atu moN%p-  K77 pompa'atui p61,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN%p-  K77 pompa'atui ,,,,,tr,action,,1282,,0.0,0.0,,,
+0181,10.435,kick (ball),tendang  menendang (bola),sepa,sepa ro- moN-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- moN-,,,,,tr,action,kata kerja,,437,152.0,0.0,,,
+0182,10.670,push,dorong  mendorong,tumbara'o,tumbara'o ni- mo-  K75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- mo-  K75,,,,,tr,action,kata kerja,,414,222.0,0.0,,,114.0
+0183,09.330,pull,tarik  menarik (sesuatu),diti,diti mosi- ro-~ ni- -mo K79 p62,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mosi- ro- ni- -mo K79 ,,,,,tr,action,kata kerja,,415,221.0,0.0,,,113.0
+0184,10.250,throw,lempar melempar (batu),barenggo,barenggo  -mo K76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-mo K76,,,,,tr,action,kata kerja,1275,435,316.0,94.0,,,170.0
+0184b,10.252,catch,tangkap menangkap,so'o,so'o moN- -mo ro- ni-~ p55 p60,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- -mo ro- ni-  ,,,,,tr,action,,,,0.0,0.0,,,
+0185,10.255,throw away,buang  membuang,tajina'o,"tajina'o mo-~ ro- ni-~, rampa'o mo- ro- ni-~  p64",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ro- ni-,,,,,tr,action,kata kerja,1274,400,317.0,0.0,,,
+0185,10.255,throw away,buang  membuang,rampa'o,"tajina'o mo-~ ro- ni-~, rampa'o mo- ro- ni-~  p64",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ro- ni-  ,,,,,tr,action,kata kerja,1274,400,317.0,0.0,,,
+0187,10.135,turn (right/left),belok  berbelok,pegoliri,pegoliri M- -a'o p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- -a'o ,,,,,intr / tr,,kata kerja,,417,0.0,8.0,,,
+0188,10.130,turn around,"putar, berputar",toroba'o,toroba'o ni- moN%t- -mo K75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- moN%t- -mo K75,,,,,intr,action,kata kerja,,418*,327.0,0.0,,,175.0
+0188a,10.125,"reverse,  return,  turn",balik,baliala,baliala p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,tr,,,,,0.0,0.0,,,
+0192,10.480,"come, arrive","datang, tiba",jao,"jao ma- -mo  niajaoinya  ""ditangi"" p46",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma- -mo  niajaoinya   ,,"""ditangi""",,,intr,action,kata kerja,1283,470,0.0,7.0,C196 D64 E186 F179 G194,66.0,23.0
+0193a,10.555,"pass_by, via, beyond",lewat melewati,liu,liu ma- -mo p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma- -mo ,,,,motion,intr/tr,action,,,,0.0,0.0,,,
+0194,10.490,depart,angkat  berangkat,dangga'o,"dangga'o mo- ni- -mo ""diangkat"" p58 K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni- -mo   K79,,"""diangkat""",,,intr,action,,1286,,0.0,0.0,,,
+0196,10.482,return home,pulang ->14.255,tenjile,tenjile me- pepe- -mo p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- pepe- -mo ,,,,motion,intr,action,kata kerja,,471,231.0,0.0,,,
+0197,10.475,"go down, descend",turun  menurun,nyau,nyau me- K69 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- K69 ,,,,,intr,action,,0950,,0.0,0.0,,,
+0200a,10.520,follow,ikut  mengikuti,tuuta'o,tuuta'o ni- moN-  p55,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- moN-  ,,,,,intr,action,,,,0.0,0.0,,,
+0201,12.130,sit,duduk  ->07.432,odu,"odu moN- poN-~ K79 nipoN--i nipopoN- ""dikasi duduk"" p58",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- poN- K79 nipoN--i nipopoN-  ,,"""dikasi duduk""",,motion,intr,state,kata kerja,0149,462*,263.0,51.0,C198 D66 E196 F181 G195,68.0,136.0
+0203,12.133,sit with legs crossed,sila  bersila,pomiku,pomiku M- po- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- po- -mo,,,,body,intr,state,,0150,,0.0,0.0,,,
+0203d,12.136,sit with legs stretched out,duduk berselonjor,ojo,"ojo  moN-  niojo paanya ""dikasi lurus kakinya""",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN-  niojo paanya ,,"""dikasi lurus kakinya""",,body,intr,state,,,,0.0,0.0,,,
+0204,12.139,squat,jongkok  berjongkok,pangitundu,pangitundu M- ropo-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,M- ropo-,,,,body,intr,state,,0152,,0.0,0.0,,,
+0205,12.140,lie down,baring  berbaring,kagole,kagole me- popo- ropopo-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,me- popo- ropopo-,,,,body,intr,state,kata kerja,0148,463*,0.0,0.0,C197,67.0,88.0
+0205b,10.152,roll around,terguling-guling,'oduliduli,'oduliduli,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,body,intr,state,kata kerja,,,0.0,0.0,,,
+0206,12.141,lie prone,tiarap,pangilaubi,pangilaubi M-  ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,M-  ,,,,body,intr,state,,0147,,0.0,0.0,,,
+0207,12.142,lie supine,telentang,pangusanda,pangusanda M-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M-,,,,body,intr,state,,0146,,0.0,0.0,,,
+0208,12.150,stand,diri  berdiri,'oro,'oro me- pepe- ni-~ nipepe- p58,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,me- pepe- ni- nipepe- ,,,,body,intr,state,kata kerja,0144,461*,284.0,52.0,C199 D67 E187 F180 G196,69.0,151.0
+0209,12.160,"remain, live, stay",tinggal ->12.110,pemere,pemere M-  -o p44,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M-  -o ,,,,motion,intr,state,,,472,169.0,0.0,,,
+0210,07.1??,??#,tinggal: related items ??#,boli,"boli ro- ""ditinggalkan""  p56",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro-   ,,"""ditinggalkan""",,motion,intr,state,kata kerja,,,0.0,0.0,,,
+0211,17.170,know,"tahu, kenal",otoi,otoi ni- moN-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- moN-,,,,,tr,state,kata kerja,1193/5,369*,155.0,20.0,C187 D58 E171 F169 G182,59.0,82.0
+0213,17.240,learn,belajar,paguru,paguru me'i-  p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me'i-  ,,,,,intr / tr,process,kata kerja,,367,160.0,0.0,,,
+0214,17.250,teach,ajar  mengajar,totoa'o,"totoa'o me- ni-~ mompa- ~  p60 ""tunjuk"", paguru me-  p64",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,me- ni- mompa-    ,,"""tunjuk""",,,tr,action,,,,0.0,0.0,,,
+0214,17.250,teach,ajar  mengajar,paguru,"totoa'o me- ni-~ mompa- ~  p60 ""tunjuk"", paguru me-  p64",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-  ,,,,,tr,action,,,,0.0,0.0,,,
+0215,17.310,remember,"ingat  mengingat, kenang  mengenang",tora,tora mo- ni- p68,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni- ,,,,,tr,action,,1196,,0.0,0.0,,,
+0216,17.320,forget,lupa,elingani,elingani ni- ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- ,,,,,tr,state,kata kerja,1197,371,120.0,0.0,,,
+0217,17.130,think,pikir  berpikir,pekirisi,pekirisi ni- ro- moN%p-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- ro- moN%p-,,,,,tr,action,kata kerja,1194,368,0.0,21.0,,,166.0
+0222,17.480,"try, attempt",coba  mencoba,coba,coba ~   p75,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,intr / tr,action,,,,0.0,0.0,,,
+0223,17.485,be able to,"dapat, sanggup",pakule,pakule ni- moN%p-~  p55,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- moN%p-  ,,,,,tr,state,,1208,,0.0,0.0,,,
+0225,18.320,answer,jawab  menjawab,sono,sono me- moN-  *ni-  K73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- moN-  *ni-  K73,,,,,tr,action,kata kerja,1268,378,6.0,0.0,,,
+0226,18.310,ask,tanya  bertanya,petanyai,petanyai K77  ni- K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,Kni- K78,,,,,tr,action,,1267,,0.0,0.0,,,
+0228,18.410,call,panggil  memanggil,leßai,leßai nipe- ni- mo-~ p44 p60,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,nipe- ni- mo-  ,,,,,tr,action,,1206,,0.0,0.0,,,
+0229,18.415,beckon with the hand,panggil  memanggil (dgn tangan),kaßesi,kaßesi  ni- ni--a'o me-  p56,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- ni--a'o me-  ,,,,,tr,,kata kerja,,374,40.0,0.0,,,
+0230,18.220,"say, speak, utter",kata  berkata,jarita,jarita mo- p46,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ,,,,,intr / tr,action,kata kerja,1205,376*,247.0,64.0,C216 D69 E202 F186 G200,71.0,127.0
+0233,18.130,shout,teriak  berteriak,leleßai,leleßai me- -mo  ->18.410  K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,->18.410,me- -mo    K78,,,,body,intr,action,,0160,,0.0,0.0,,,
+0238,18.221,story,cerita,kareba,"kareba, jarita p64, tesa mo- p70",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,kebiasaan,0356,476,289.0,0.0,,,
+0238,18.221,story,cerita,jarita,"kareba, jarita p64, tesa mo- p70",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,kebiasaan,0356,476,289.0,0.0,,,
+0238,18.221,story,cerita,tesa,"kareba, jarita p64, tesa mo- p70",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ,,,,culture,noun,,kebiasaan,0356,476,289.0,0.0,,,
+0241,18.240,language,bahasa,basa,basa  ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,noun,,kebiasaan,,478,367.0,0.0,,,
+0242,18.260,word,kata =18.220#move,jarita,jarita,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,kebiasaan,,477,367.0,0.0,,,
+0251,18.120,sing,"nyanyi  menyanyi, bernyanyi (w)",panyani,panyani moN- -a'o~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- -a'o,,,,,intr / tr,action,kata kerja,1203,379,0.0,0.0,C200 E178 F187 G201,,135.0
+0252,18.510,write,tulis  menulis,tulisi,tulisi mo- -a'o~ ni-~ -mo  K77,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- -a'o ni- -mo  K77,,,,,tr/intr,action,,,,0.0,0.0,,,
+0254,18.225,"report, inform",beritahu  memberitahu,putae,putae moN-~ -a'o [2. putaya'o] ni-~ p64,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- -a'o  ni- ,[2. putaya'o],,,say,tr,action,kata kerja,,375,305.0,0.0,,,
+0255,16.670,"lie, tell lies","bohong  berbohong, dusta  berdusta",daßa,daßa mo- ni--i -i p61,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni--i -i ,,,,,intr,action,kata kerja,1272,372,165.0,0.0,Wu 089,,
+0256,16.620,"like, want, be_willing","suka, mau, hendak, ingin",pokono,"pokono ni- moN%p-/N- -nya  p50 ->1045, moojo p61",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- moN%p-/N- -nya   ->1045,,,,,tr,action,,1243,,0.0,0.0,,,
+0256,16.620,"like, want, be_willing","suka, mau, hendak, ingin",moojo,"pokono ni- moN%p-/N- -nya  p50 ->1045, moojo p61",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,tr,action,,1243,,0.0,0.0,,,
+0257,16.530,"fear, be afraid of",takut (kepada),daito,daito 'V- mV- nipo- mba--ni -mo p62 K80,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,'V- mV- nipo- mba--ni -mo  K80,,,,,tr,state,kata kerja,,365*,106.0,22.0,,,44.0
+0257a,16.150,be suprised,"kaget, terkejut",jiji,jiji mete- mV- -mo K80,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mete- mV- -mo K80,,,,,stative,stat,,,,0.0,0.0,,,
+0260,16.270,love,"cinta  mencintai, kasih  mengasihi",tenge,tenge ni- mo--a ro-~ p69,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- mo--a ro- ,,,,,tr,action,,1238,,0.0,0.0,,,
+0262,16.350,pity,kasihan,potoße,potoße mV- monoN%p- ni-~  K79,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mV- monoN%p- ni-  K79,,,,,noun,,,,,0.0,0.0,,,
+0271,15.712,"pinch, squeeze","jepit  menjepit, tekan  menekan",'enti,"'enti ni-~ me'entini p75, upiti mo-  p58",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- me'entini ,,,,,tr,action,,1259,,0.0,0.0,,,
+0271,15.712,"pinch, squeeze","jepit  menjepit, tekan  menekan",upiti,"'enti ni-~ me'entini p75, upiti mo-  p58",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-  ,,,,,tr,action,,1259,,0.0,0.0,,,
+0272,15.220,"smell, sniff",cium  mencium,mbongii,mbongii mo- ni- [2. nimongii],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni- ,[2. nimongii],,,,tr,action,kata kerja,1229,384*,271.0,29.0,,,141.0
+0273,15.260,"stink, smell",bau  berbau busuk,njoa,njoa me-  K74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-  K74,,,,,stative,event,,0076,,0.0,0.0,Wu 140,,
+0275,15.410,hear,dengar  mendengar,epe,"epe moN-/meN- ni- ro- -mo p60 p61, perongoi M- M--a'o ni-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN-/meN- ni- ro- -mo  ,,,,,tr,action,kata kerja,1227,382,135.0,44.0,C185 D57 E169 F168 G181,58.0,68.0
+0275,15.410,hear,dengar  mendengar,perongoi,"epe moN-/meN- ni- ro- -mo p60 p61, perongoi M- M--a'o ni-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- M--a'o ni-,,,,,tr,action,kata kerja,1227,382,135.0,44.0,C185 D57 E169 F168 G181,58.0,68.0
+0276,15.510,see,lihat  melihat,'ita,'ita ni-  ni--i meN--i p47 p53  *me- *mo- *itasi p55,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni-  ni--i meN--i    *me- *mo- *itasi ,,,,,tr,action,kata kerja,1228,383*,251.0,46.0,C184 D56 E168 F167 G180,57.0,130.0
+0278,11.310,"look for, seek",cari  mencari,lolo,lolo me- ni- -mo  K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- ni- -mo  K77,,,,,tr,action,,1174,,0.0,0.0,,,
+0281,04.840,"painful, sore",sakit,pesi,pesi mV- RDP2 pepesimo p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- RDP2 pepesimo ,,,,disease,stative,,kata sifat,201,290*,209.0,160.0,,,
+0282,04.841,"ill, sick","sakit (berat, demam)",ijari,ijari mV- [meíjari] mompe- p62,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  mompe- ,[meíjari],,,disease,stative,,kata sifat,0199/20,,0.0,0.0,,,
+0284,04.853,swell (like an abcess),"gembung  bergembung, bengkak  membengkak",mangga,mangga me- p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- ,,,,,intr,process,kata kerja,,457,0.0,87.0,,,158.0
+0286,04.854,boil,bisul,bisu,bisu  p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,disease,noun,,anggota tubuh,0203,067,29.0,0.0,,,
+0289,04.970,blind,buta,buro,buro ma-  K82 ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ma-  K82 ,,,,disease,stative,state,kata sifat,0229,288,25.0,0.0,C137 E128 F128 G137,,
+0290,04.950,deaf,tuli,bongo,bongo ma-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,disease,stative,state,kata sifat,0228,289,69.0,0.0,C136 E127 F127 G136,,
+0297,04.856,"itch, be itchy",gatal,'ato,'ato ma'a-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ma'a-,,,,body,intr,,kata kerja,,453*,151.0,0.0,C210 E181 F192 G208,,
+0300,15.385,rheumatism,"sengal, encok",ngilu,ngilu ~ (Tabu p.c.#),Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,(Tabu p.c.#),,disease,noun,,,0220,,0.0,0.0,,,
+0301,04.855,scar,bekas luka,ßaleanya neßela,ßaleanya neßela [F] p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[F],,,disease,noun,,anggota tubuh,0198,066,248.0,0.0,,,
+0302,04.850,wound,luka,ßela,ßela mV-  K70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  K70,,,,disease,noun,,,0196,,0.0,0.0,,,
+0311,04.880,medicine,obat,po'uli,po'uli,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,disease,noun,,buatan manusia,0233,253,179.0,0.0,,,
+0315,04.750,"die, dead",mati,ate,ate mV-  p56,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  ,,,,death,intr,state,kata kerja,0185,411,68.0,75.0,C190 D60 E174 F175 G190,61.0,27.0
+0317,04.760,kill,bunuh  membunuh (orang),patei,patei me- ni- moN%p- *maN  p56 p76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- ni- moN%p- *maN   ,,,,death,tr,action,kata kerja,0192,434*,153.0,74.0,C192 D96 E195 F174 G189,62.0,81.0
+0323,04.780,"bury, inter",kubur  menguburkan,dayo,"dayo, tano ni- -mo p64",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,death,tr,,kata kerja,0190,413,36.0,0.0,,,
+0323,04.780,"bury, inter",kubur  menguburkan,tano,"dayo, tano ni- -mo p64",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- -mo ,,,,death,tr,,kata kerja,0190,413,36.0,0.0,,,
+0325,02.360,mother,ibu,siina,siina  p50,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0256,075,185.0,59.0,C144 E135 F134 G143,,96.0
+0325a,02.362,mother (form of address),ibu (panggilan),ina,ina ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0256a,,0.0,0.0,,,
+0326,02.350,father,"bapak, ayah",siama,siama,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0255,074,105.0,60.0,C143 E134 F133 G142,,43.0
+0326a,02.352,father (form of address),bapak  (panggilan),papa,papa ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0255a,,0.0,0.0,,,
+0328,02.455,sibling,saudara (kandung),sampesußu,"sampesußu mo- -mo  ""bersahabat""  K78",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- -mo    K78,,"""bersahabat""",,,noun,,hubungan kemasyarakatan,0268/26,084,262.0,0.0,,,
+0331,02.457,older sibling,kakak,sia'a,sia'a,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0270,085*,0.0,0.0,C151 E138 F137 G147,,
+0333,02.456,younger sibling,adik,toai,toai  -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,kinship,noun,,hubungan kemasyarakatan,0272/27,087*,0.0,0.0,C153 E139 F138 G148,,
+0336,02.270,child,anak,ngana,ngana,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0257/25,076,48.0,56.0,,,20.0
+0339,02.273,last born child,anak bungsu,ngana 'otou,ngana 'otou,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0258,078*,0.0,0.0,C147 G145,,
+0340,02.272,first born child,anak sulung,ngana ulumbua,ngana ulumbua  p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0257,077*,0.0,0.0,C146,,
+0343,02.470,grandmother,nenek (perempuan),siopu,siopu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0264,080,0.0,0.0,C149 E137 F136 G151,,
+0346a,02.560,ancestors,nenek moyang,siopunggaulu [siopunggolu,siopunggaulu [siopunggolu/siopunggáulu]  p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0267,082*,0.0,0.0,C150 G152,,
+0346a,02.560,ancestors,nenek moyang,siopunggáulu],siopunggaulu [siopunggolu/siopunggáulu]  p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0267,082*,0.0,0.0,C150 G152,,
+0347,02.480,grandchild,cucu,mo'upu,mo'upu p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0274,079,0.0,0.0,C154 E140 F139 G146,,
+0352,02.520,aunt,bibi,pinotina,pinotina,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,,0281/02,091*,0.0,0.0,C156 E142 F141 G150,,
+0352a,02.521,aunt (form of address),bibi  (panggilan),tete,tete  p59,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0281/28,,0.0,0.0,,,
+0361,02.510,uncle,paman,mangge,mangge   -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,kinship,noun,,,0275/02,089*,0.0,0.0,C155 E141 F140 G149,,
+0361a,02.511,uncle (form of address),paman (panggilan),mangge,mangge  p59,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0275/28,,0.0,0.0,,,
+0381,02.310,spouse,isteri / suami,ranga,ranga  -nya p49,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya ,,,,kinship,noun,,hubungan kemasyarakatan,0317/18,072*,147.0,57.0,C141 D16 E132 F131 G140,,76.0
+0412,02.430,offspring,keturunan,muli,muli -nya   p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya   ,,,,,,,hubungan kemasyarakatan,,083*,206.0,0.0,,,
+0413,02.760,widow/er,janda (mati),timbala,timbala   p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,hubungan kemasyarakatan,,094*,357.0,0.0,,,
+0414,02.762,divorcee,janda (cerai),timbala,=02.760,Taje,Petapa,120.1238,-0.7782,,True,,,False,=02.760,,,,,kinship,noun,,,,,0.0,0.0,,,
+0420,02.345,bride price,mas kawin,sunda,sunda,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,kebiasaan,0411,481*,0.0,0.0,C160 E146 F145 G156,,
+0421,02.341,divorce,"cerai, talak  ->12.230",gaati,gaati mo-  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-  ,,,,kinship,noun,,,0410,,0.0,0.0,,,
+0422,02.380,married person,orang yang sudah kawin,too norangamo,too norangamo ~ p49,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,kinship,noun,,,,,0.0,0.0,,,
+0424,02.330,"marry, marriage","kawin, perkawinan",ranga,ranga mo- popo-~ nipopo- mompopo-  p49,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- popo- nipopo- mompopo-  ,,,,culture,tr,action,,0408,,0.0,0.0,,,
+0429,02.100,person,orang,too,too,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0238,069*,214.0,53.0,C138 D17 E129 F126 G135,18.0,111.0
+0432,02.253,"boy, lad (call form)",anak laki-laki  (panggilan) ->04.492,adu,adu p59 ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,humans,noun,,,0250,,0.0,0.0,,,
+0433,02.263,girl  (call form),anak perempuan  (panggilan) ->04.480,enge,enge  p59  ~ =04.230,Taje,Petapa,120.1238,-0.7782,,False,,,False,=04.230,,,,,humans,noun,,,0260a,,0.0,0.0,,,
+0435,02.280,"baby, infant",bayi,ngana do'i,ngana do'i  ->12.560  p47,Taje,Petapa,120.1238,-0.7782,,True,,,False,->12.560,,,,,humans,noun,,,0259/26,,0.0,0.0,,,
+0436,02.251,"youth (male), young man (adolescent)",pemuda (laki-laki),kabilasa,kabilasa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,humans,noun,,,0247,,0.0,0.0,,,
+0437,02.261,"virgin, young girl",gadis,randaa,randaa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,humans,noun,,,0251,,0.0,0.0,,,
+0440,02.210,"man, male",laki-laki,langgai,langgai,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,humans,property,,hubungan kemasyarakatan,0241,070,176.0,54.0,C139 E130 F129 G138,17.0,93.0
+0442,02.220,woman,perempuan,mengeßine,mengeßine p44,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,humans,property,,hubungan kemasyarakatan,0242,071,364.0,55.0,C140 D15 E131 F130 G139,16.0,195.0
+0444,18.280,name,nama,sangori,sangori  -nya  ~  p59,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,-nya    ,,,,humans,noun,,kebiasaan,0239,475,189.0,63.0,C145 D100 E136 F125 G134,100.0,99.0
+0446,19.420,slave,"hamba, budak",babu,babu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0394,093,268.0,0.0,C159 E145 F144 G155,,
+0448,19.560,guest,tamu,torata,torata  -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,humans,noun,,hubungan kemasyarakatan,0323,095*,0.0,0.0,C158 E144 F143 G154,,
+0450,19.510,"companion, friend","kawan, teman",ßega  K71,"ßega  K71 ""sahabat"", tagu  p60",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""sahabat""",,humans,noun,,hubungan kemasyarakatan,0320,096*,59.0,0.0,C157 E143 F142 G153,,
+0450,19.510,"companion, friend","kawan, teman",tagu,"ßega  K71 ""sahabat"", tagu  p60",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0320,096*,59.0,0.0,C157 E143 F142 G153,,
+0451a,19.512,buddy (term of address among equals),kawan (panggilan),ega,"ega (l-l, per ??)",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,(l-l; per ??),,humans,noun,,,,,0.0,0.0,,,
+0455,01.212,"earth, soil",tanah,tana,tana,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0970,197*,86.0,119.0,C36 D77 E31 F33 G35,79.0,36.0
+0457,01.310,water,air,ogo K71,ogo K71 ->09.365,Taje,Petapa,120.1238,-0.7782,,True,,,False,->09.365,,,,,cosmos,noun,,alam dunia,0930,201,341.0,122.0,C31 D73 E26 F23 G30,75.0,181.0
+0458,01.320,"sea, ocean",laut,tasi,tasi p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0931,193,250.0,124.0,C40 E34 F28 G38,,129.0
+0459,01.350,wave,ombak,balumba,balumba,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,,0935,,0.0,0.0,,,
+0466,01.270,"shore, beach",pantai,posoleo,posoleo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0938,194,258.0,0.0,,,
+0473,01.330,lake,danau,rano,rano  p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0933,208*,157.0,126.0,C39 F27 G39,,83.0
+0474,01.360,"river, stream",sungai,binangga,binangga,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0963,207*,288.0,0.0,,,119.0
+0475,01.370,spring,mata air,mata nu ogo,mata nu ogo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,alam dunia,0967,203*,0.0,0.0,C32 E27 F24 G31,,
+0476,01.390,waterfall,air terjun,ogo netingganaßu,ogo netingganaßu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,alam dunia,,202,344.0,0.0,,,
+0477b,01.415,former location of garden in forest,bekas kebun di hutan,bonde,bonde p50,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,+alam dunia,0955a,,0.0,0.0,,,
+0478,01.412,jungle,rimba raya,rarongomo,rarongomo  ->12.670  p50,Taje,Petapa,120.1238,-0.7782,,True,,,False,->12.670,,,,,cosmos,noun,,,0956,,0.0,0.0,,,
+0480,01.220,mountain,gunung,buuti,buuti  p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0947,204,186.0,0.0,C42 D99 E36 F30 G41,86.0,97.0
+0482,01.230,plain,dataran,lempe,lempe mo-  p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-  ,,,,cosmos,noun,,,0951,,0.0,0.0,,,
+0483,01.240,valley,lembah,salu,salu  p64,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,,0952,,0.0,0.0,,,
+0484,01.224,summit,puncak,orunya,orunya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,alam dunia,,205,295.0,0.0,,,
+0486a,012.850,hole,lubang ->01.280,bolo,bolo p59,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,,,,0.0,0.0,,,
+0487,10.712,"trail, track",jalanan,jala,=10.710,Taje,Petapa,120.1238,-0.7782,,True,,,False,=10.710,,,,,cosmos,noun,action<,buatan manusia,,255*,324.0,6.0,C163 D98 E148 F147 G159,85.0,120.0
+0488,10.710,road,jalan,jala,jala,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,,0959,,0.0,0.0,,,
+0491,01.445,lime,kapur,tatago,tatago,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0728,214,167.0,0.0,,,
+0491a,09.640,gold,emas,bulaßa  K76,"bulaßa  K76 p60, ase  ""besi""",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,,,0.0,0.0,,,
+0491a,09.640,gold,emas,ase,"bulaßa  K76 p60, ase  ""besi""",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""besi""",,cosmos,noun,,alam dunia,,,0.0,0.0,,,
+0492,01.213,dust,debu  ->01.840,soßu,soßu  p65,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,alam dunia,,212*,84.0,11.0,,,34.0
+0493,01.214,mud,"lumpur, pecek",gege,gege mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,cosmos,noun,,alam dunia,0960,196,188.0,0.0,,,
+0494,01.215,sand,pasir,bone,bone  p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0971,195,246.0,121.0,C35 D76 E30 F32 G34,78.0,126.0
+0495,01.440,stone,batu,ßatu,ßatu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0969,213,288.0,120.0,C34 D75 E29 F31 G33,77.0,154.0
+0496,01.510,sky,langit ->01.560,langiti,langiti  p49  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0905,184*,267.0,128.0,,,138.0
+0497,01.520,sun,matahari ->14.410,eleo,eleo  p5,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0906,181,0.0,0.0,C28 D70 E23 F20 G27,72.0,157.0
+0498,01.530,moon,bulan,ßula,ßula,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0908,182*,181.0,129.0,C29 D71 E24 F21 G28 Sa107,73.0,
+0499,01.540,star,bintang,betue  K76,betue  K76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0912,183,285.0,130.0,C30 D72 E25 F22 G29,74.0,152.0
+0500,01.730,cloud,awan,ramumu,ramumu  p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0921,185*,52.0,131.0,C37 D78 E32 F35 G36,80.0,21.0
+0501,01.732,raincloud,awan hitam,ruung,ruung  +SGA,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,alam dunia,,186,226.0,0.0,,,
+0502,01.750,rain,hujan,uja,uja p50  mo- p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ,,,,cosmos,noun,,alam dunia,0919,190,224.0,133.0,C33 D74 E28 F25 G32,76.0,115.0
+0503,01.590,rainbow,pelangi,polagia,polagia,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0923,191,225.0,0.0,,,
+0504,01.550,lightning,kilat,ilati,ilati / ilat,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,event,alam dunia,0926,189,166.0,135.0,,,
+0504,01.550,lightning,kilat,ilat,ilati / ilat,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,event,alam dunia,0926,189,166.0,135.0,,,
+0505,01.560,thunder,"guntur, guruh  ->01.510",guntu,guntu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0924,188,318.0,134.0,,,
+0507,01.585,flood,banjir,alußaa,alußaa (banjir kecil)  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,(banjir kecil),,cosmos,noun,,,0968,,0.0,0.0,,,
+0508,01.450,earthquake,gempa bumi,lindugi,lindugi,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,event,alam dunia,0927,198,87.0,0.0,,,
+0511,01.720,wind,angin,burunya,burunya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0928,192*,359.0,136.0,C38 E33 F36 G37,,191.0
+0512,01.740,"fog, mist#",kabut,maßurauti,maßurauti,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,cosmos,noun,,alam dunia,0922,187,0.0,132.0,,,54.0
+0513,01.810,fire,api,api,api,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,event,alam dunia,0475,209,112.0,143.0,C43 D80 E37 F37 G42,82.0,48.0
+0514,01.830,smoke (from fire),asap,unu,unu p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,alam dunia,0482,210,272.0,145.0,C44 D79 E38 F38 G44,81.0,142.0
+0515,01.840,ashes,abu ->01.213,aßu  K68,aßu  K68,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,alam dunia,0483,211*,10.0,146.0,C45 D81 E39 F39 G45,83.0,4.0
+0518,01.630,"shadow, shade",bayang-bayang,ßayo meßayoßayo,ßayo meßayoßayo~ -mo,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,-mo,,,,,noun,,alam dunia,,215*,255.0,0.0,,,
+0520,03.550,chicken,ayam,manu,manu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0826,110,47.0,0.0,,,
+0525,05.970,egg (chicken),telur (ayam),tolu,tolu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,binatang,0790,112,91.0,98.0,C54 D32 E46 F46 G52,33.0,38.0
+0528,03.581,bird,burung,tenji,tenji,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0844,108,20.0,97.0,C52 D19 E45 F45 G51,20.0,12.0
+0531,03.586,crow,burung gagak,alonggaa,alonggaa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0825,109,64.0,0.0,,,
+0536,04.392,wing,sayap,api,api [h] -nya  p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,[h],,,animals,noun,,binatang,0786,111,361.0,100.0,,,192.0
+0538,04.393,feather,bulu (ayam/burung),ßulu,ßulu -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,animals,noun,,binatang,0787,113,107.0,99.0,C53 D35,36.0,45.0
+0540,03.592,bat (small),keluang,ráupa,ráupa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0847,118*,0.0,0.0,,,
+0541,03.591,bat (big),kelelawar,mampo,mampo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0846,117*,0.0,0.0,C56 E48 F48 G54,,
+0542,03.650,fish,ikan,bau,bau  p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,binatang,0541,132,113.0,111.0,C51 D18 E44 F44 G50,19.0,49.0
+0543,03.666,eel,ikan belut,masapi,masapi,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0865,135*,90.0,0.0,,,
+0545,03.654,fish gills,insang,ngarati,ngarati -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,animals,noun,,binatang,,134,0.0,0.0,,,
+0547,03.653,fish scales,sisik,kara,"kara -nya, 'ulisi nu bau ~",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,animals,noun,,binatang,,133,0.0,0.0,,,
+0547,03.653,fish scales,sisik,'ulisi nu bau,"kara -nya, 'ulisi nu bau ~",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,animals,noun,,binatang,,133,0.0,0.0,,,
+0550,03.630,"mouse, rat",tikus,eda,eda,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0851,141*,227.0,102.0,C59 E51 F51 G57,,
+0551,03.350,pig,babi,ßaßi,"ßaßi, sairone  ~ p75",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0794,142,216.0,0.0,,,
+0551,03.350,pig,babi,sairone,"ßaßi, sairone  ~ p75",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,animals,noun,,binatang,0794,142,216.0,0.0,,,
+0552,03.352,pig (wild),babi hutan,ßaßi rarongomo,ßaßi rarongomo  ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,animals,noun,,,0796,,0.0,0.0,,,
+0554,03.610,dog,anjing,asu  K72,asu  K72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0811,143,78.0,96.0,C55 D20 E47 F47 G53,21.0,30.0
+0555,03.612,bark,salak  menyalak,tanggoa,tanggoa me- -mo  K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- -mo  K78,,,,animals,intr,action,,0812,,0.0,0.0,Wu 008,,
+0556,03.760,monkey,"monyet, kera",odo,odo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0854,140*,180.0,0.0,,,
+0558,03.205,water buffalo,kerbau,bengga,"bengga, japi ""sapi"" p54",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,binatang,0800-802,104,43.0,0.0,,,
+0558,03.205,water buffalo,kerbau,japi,"bengga, japi ""sapi"" p54",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""sapi""",,,,,binatang,0800-802,104,43.0,0.0,,,
+0559,03.206,anoa depressicornis,anoa,anua,anua,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,binatang,,105,0.0,0.0,,,
+0562,03.750,deer,"rusa, kijang",rusa,rusa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0809/84,139,72.0,0.0,,,
+0563,04.180,tail,ekor,i'u,i'u -nya  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,,,,animals,noun,,binatang,0778,107,302.0,105.0,C62 D34 E54 F54 G60,35.0,160.0
+0564,04.170,horn,tanduk,tandu,tandu -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,animals,noun,,binatang,0810,106,0.0,0.0,C61 D33 E53 F53 G59,34.0,
+0568,04.345,"claw, scratch",cakar mencakar ->04.858 ->10.852,kare,"kare ni-RDP2 (kucing) maN%g- (ayam)  p64, 'aruti maN- ro-~ (kucing)",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni-RDP2  maN%g-   ,,"(kucing)', '(ayam)",,animals,noun,,,0781,,0.0,0.0,,45.0,
+0568,04.345,"claw, scratch",cakar mencakar ->04.858 ->10.852,'aruti,"kare ni-RDP2 (kucing) maN%g- (ayam)  p64, 'aruti maN- ro-~ (kucing)",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,maN- ro- ,,(kucing),,animals,noun,,,0781,,0.0,0.0,,45.0,
+0569,03.620,cat,kucing,pidi (ßidi K76 is wrong; p.c. 11.3.,"pidi (ßidi K76 is wrong, p.c. 11.3. / p64#)  +SGA",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,,0813,,0.0,0.0,,,
+0569,03.620,cat,kucing,#),"pidi (ßidi K76 is wrong, p.c. 11.3. / p64#)  +SGA",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,,0813,,0.0,0.0,,,
+0574,03.816,termite,anai-anai,siane,siane,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0885,123,307.0,0.0,,,
+0574a,03.817,ant (black),semut (hitam),see,see,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0884,,0.0,0.0,,,
+0576,03.811,luminous millipede,kelema(n)yar,ninggo,ninggo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,binatang,,125*,0.0,0.0,,,
+0577,03.812,centipede,lipan,alipa,alipa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0888,124*,0.0,0.0,,,
+0579,03.885,caterpillar,ulat,ule do'i  K71,ule do'i  K71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0879,119*,0.0,0.0,,,
+0581,03.815,scorpion,kalajengking,sipitole,sipitole,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,binatang,,127*,0.0,0.0,,,
+0583,03.950,frog,katak,tumpa,tumpa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0896,136,123.0,0.0,,,
+0585,03.840,earthworm,cacing tanah,ulendoro,ulendoro,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,binatang,0891,130,369.0,107.0,,,
+0587,03.981,"turtle, tortoise#  (testudinidae)",kura-kura,ulasa,ulasa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0901,137*,328.0,0.0,,,
+0589,03.970,crocodile,buaya,buaya,buaya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0900,138,63.0,0.0,,,
+0590,03.850,snake,ular,ule saa,ule saa K71  -> 03.885,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,K-> 03.885,,,,animals,noun,,binatang,0886,131*,274.0,106.0,C60 E52 F52 G58,,144.0
+0593,03.806,louse (chicken),kutu ayam #change to MISC.#,'utu nu manu,'utu nu manu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,binatang,,114,164.0,0.0,,,
+0594,03.801,louse (head),kutu (kepala),'utu  K70,'utu  K70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0866,115,163.0,108.0,C57 D21 E49 F49 G50,22.0,92.0
+0595,03.802,louse (clothes),tuma (pakaian),tuma,tuma,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0868,116*,0.0,0.0,Z3.81R louse-body,,
+0596,03.803,nit (louse egg),telur kutu,luesa,luesa [1. ulesa],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[1. ulesa],,,animals,noun,,,0869,,0.0,0.0,,,
+0597,03.804,delouse,kutu: menghilangkan kutu,geati,"geati mo- ni- mosi-, sala'ati ro- =06.910",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni- mosi-,,,,animals,tr,action,kata kerja,0867,455,74.0,0.0,,,
+0597,03.804,delouse,kutu: menghilangkan kutu,sala'ati,"geati mo- ni- mosi-, sala'ati ro- =06.910",Taje,Petapa,120.1238,-0.7782,,True,,,False,=06.910,ro- ,,,,animals,tr,action,kata kerja,0867,455,74.0,0.0,,,
+0598,03.818,spider,labah-labah,panggalaßa,panggalaßa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0871,129,280.0,110.0,,,
+0600,03.830,fly,lalat,lale  K76,lale  K76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0872,122,117.0,0.0,,,
+0601,03.910,firefly,kunang-kunang,alipopo,alipopo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0880,126*,0.0,0.0,,,
+0602,03.920,butterfly,kupu-kupu,'alibamba,'alibamba / kalibamba,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0878,120,37.0,0.0,,,
+0602,03.920,butterfly,kupu-kupu,kalibamba,'alibamba / kalibamba,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0878,120,37.0,0.0,,,
+0605,03.832,mosquito,nyamuk,sinjio,sinjio,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,animals,noun,,binatang,0877,121,184.0,109.0,C58 E50 F50 G56,,
+0606,03.890,cicada,"tonggeret, uir-uir",siora,siora  (malam),Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,(malam),,,noun,,binatang,,128*,0.0,0.0,,,
+0606a,03.892,cricket,"jangkrik, riang-riang",lelerai,lelerai (siang)  p61  p66,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,(siang),,,noun,,binatang,,,0.0,0.0,,,
+0609,03.110,"animal, beast",binatang,binata,binata,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,animals,noun,,,0774,,0.0,0.0,,,3.0
+0611,01.430,wood,kayu,'ayu,'ayu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0735,149*,365.0,79.0,,,
+0613,08.540,root,akar,dali  K,dali  K73  +SGA,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plant,noun,,tumbuh-tumbuhan,0742-44,147,240.0,115.0,C3 D25 E3 F4 G4,26.0,121.0
+0613a,08.542,taproot,akar tunggang,kalempato,kalempato -nya  ~ p75,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,-nya   ,,,,plant,noun,,tumbuh-tumbuhan,0742,,0.0,0.0,,,
+0613b,08.543,aerial root,akar jangkar,kalembaßo,kalembaßo -nya   p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya   ,,,,plant,noun,,tumbuh-tumbuhan,0744a,,0.0,0.0,,,
+0613c,08.730,trunk,batang kayu,puu nu ayu,puu nu ayu  p62,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plant,noun,,tumbuh-tumbuhan,,,0.0,0.0,,,
+0614,08.550,branch,"cabang, dahan",panga,panga -nya  +SGA,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,,,,plants,noun,,tumbuh-tumbuhan,0739,146*,0.0,113.0,,,
+0616,08.560,leaf,daun,roo  K70,roo  K70 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0746,145,159.0,114.0,C2 D24 E2 F3 G3,25.0,85.0
+0617,08.750,bark (tree),kulit kayu,'ulisi nu 'ayu,'ulisi nu 'ayu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0748,148,14.0,0.0,C4 D26,27.0,8.0
+0621,05.710,"fruit, to bear fruit",buah  berbuah,ßua   K,ßua (as a classifier: bua)  K69 p60 ->08.316,Taje,Petapa,120.1238,-0.7782,,True,,,False,->08.316,,,(as a classifier: bua),,plants,noun,,tumbuh-tumbuhan,0759,150*,124.0,117.0,C17 E13 F13 G12,,58.0
+0627,08.572,flower,bunga (hiasan halaman),bunga,bunga,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0758a,151*,116.0,116.0,C16 E12 F13 G12,,53.0
+0628,08.580,"thorn, spine",duri,rui,rui,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0749,152,312.0,0.0,C6 E5 F5 G6,,
+0629,08.311,seed,"biji, benih",ßua,ßua -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,farming,noun,,tumbuh-tumbuhan,0664,173*,0.0,0.0,C5 D23 G5,24.0,131.0
+0632,08.821,coconut (young),kelapa muda,ulingga toainya,ulingga toainya  =02.456,Taje,Petapa,120.1238,-0.7782,,True,,,False,=02.456,,,,,,noun,,tumbuh-tumbuhan,,155*,53.0,0.0,C8 E7 F6 G7,,
+0633,08.820,"coconut (ripe fruit, tree)","kelapa (tua, buah, pohon)",ulingga,ulingga / lingga  p61,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,0691/92,154,54.0,0.0,C8 E7 F6 G7,,
+0633,08.820,"coconut (ripe fruit, tree)","kelapa (tua, buah, pohon)",lingga,ulingga / lingga  p61,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,0691/92,154,54.0,0.0,C8 E7 F6 G7,,
+0636,08.832,coconut shell,tempurung (kelapa),ßelinga  K81,ßelinga  K81,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0492,156*,0.0,0.0,C7 E6 F7 G8,,
+0637,08.833,coconut fiber,sabut kelapa,benuti,benuti  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,0693,,0.0,0.0,,,
+0638a,08.941,bamboo: large species,bambu (tebal),petana,"petana #""aug""#",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,"'#""aug""#', '""aug""'",plants,noun,,tumbuh-tumbuhan,0732a,,0.0,0.0,,,
+0638b,08.942,"bamboo: large, strong species","bambu (keras, tebal)",bautari,bautari  p57 p66,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0732b,,0.0,0.0,,,
+0638c,08.943,"bamboo: small, thin species","bambu (kecil dan tipis, buat suling)",gasa,gasa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0732c,,0.0,0.0,,,
+0640,08.955,sago palm,rumbia,tabaro,=08.950,Taje,Petapa,120.1238,-0.7782,,True,,,False,=08.950,,,,,,noun,,tumbuh-tumbuhan,0703,158*,0.0,0.0,C10 F8 G9,,
+0641,08.950,sago,sagu,tabaro,tabaro,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,0704,,0.0,0.0,,,
+0641a,08.951,sago pith,ampas sagu,tamu nu tabaro,tamu nu tabaro,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,,,0.0,0.0,,,
+0641b,08.956,bark of sago tree,kulit batang sagu,tambe'ari,tambe'ari -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,plants,noun,,,0703a,,0.0,0.0,,,
+0642,08.811,nipa palm,nipah,nipa,nipa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0702,159*,197.0,62.0,,,
+0643,08.817,midrib of palm frond,gaba-gaba,umbari,umbari   p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,0460,,0.0,0.0,,,
+0644,08.856,"rattan, cane#",rotan,bulago  K76,bulago  K76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0731,160,228.0,0.0,C14 E10 F11 G14,,
+0645,08.947,sugarcane,tebu,toßu,toßu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0682,161,294.0,0.0,,,
+0646,08.910,sweet potato,ubi jalar,tomolo'u,tomolo'u,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0687,167,299.0,0.0,,,
+0647,08.920,cassava,ubi kayu,kasubii,kasubii / 'asubii,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0688,166*,0.0,0.0,,,
+0647,08.920,cassava,ubi kayu,'asubii,kasubii / 'asubii,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0688,166*,0.0,0.0,,,
+0649,08.510,short grass,rumput,oßo  K68,oßo  K68,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0770/1,170*,0.0,118.0,,,61.0
+0651,08.512,sword grass,alang-alang,gio,gio ~  p51,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,,171*,0.0,0.0,C18 E14 F14 G17,,
+0654,08.865,durio zibethinus,durian,ruria,ruria  p53,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,0711,,0.0,0.0,,,
+0658,08.470,"corn, maize#",jagung,jole,jole  p52,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0674,180,0.0,0.0,,,
+0659,08.965,ginger,jahe,ula,ula,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0730,165*,127.0,0.0,,,
+0663,05.660,bean,kacang,tambue,tambue  p67,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,0678,,0.0,0.0,,,
+0664,05.775,peanut,kacang tanah,kaca,kaca,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0683,162,212.0,0.0,,,
+0666,08.852,kapok (eriodendron anfructuosum),kapok,gapasi,"gapasi ~, kakaßu  p67",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0706,163,60.0,0.0,,,
+0666,08.852,kapok (eriodendron anfructuosum),kapok,kakaßu,"gapasi ~, kakaßu  p67",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0706,163,60.0,0.0,,,
+0669,08.867,lansium domesticum,langsat,lonja,lonja   p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,0713,,0.0,0.0,,,
+0671,08.870,mango,mangga    ->05.462,táipa,táipa  p63,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,,0708,,0.0,0.0,,,
+0675,08.813,pandanus,pandan,panda,panda,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0707,172*,0.0,0.0,C11 G10,,
+0676,08.676,"areca nut (betelnut), areca catechu#",pinang,pangano,pangano   ->05.181,Taje,Petapa,120.1238,-0.7782,,True,,,False,->05.181,,,,,plants,noun,,tumbuh-tumbuhan,0752,169,8.0,0.0,Z8.62A,,
+0677,08.840,banana,pisang,punti,punti  p50,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0716-18,153,13.0,0.0,C12 E8 F9 G11,,
+0680,08.675,betel,sirih,dolo,dolo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,plants,noun,,tumbuh-tumbuhan,0753,168*,17.0,0.0,C13 E9 F10 G13 Z8.62C,,
+0684,05.672,eggplant,terung,palola,palola,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,,164,92.0,0.0,Z8.61R,,
+0685,08.600,tree,pohon,puu  sompuu,"puu  sompuu~ ""sepohon"" p62",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,"""sepohon""",,plants,noun,,tumbuh-tumbuhan,0734,144*,325.0,0.0,C1 D22 E1 E2 F2 G2 Sa23,23.0,174.0
+0691,07.120,house,rumah,giana,giana  p44,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0437,216*,142.0,61.0,,,
+0692,07.130,"hut, shelter",pondok,giana do'i,giana do'i  ~ p71,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,house,noun,,,0438,,0.0,0.0,,,
+0693,07.560,house post,tiang rumah,erii,erii  p55,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0461,223,0.0,0.0,,,
+0694,08.160,"fence, hedge",pagar,láusi,láusi/laúsi [3. láosi]  p53 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0659,225,108.0,0.0,,,
+0694,08.160,"fence, hedge",pagar,laúsi,láusi/laúsi [3. láosi]  p53 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[3. láosi],,,house,noun,,buatan manusia,0659,225,108.0,0.0,,,
+0696,07.372,"staircase, steps",tangga,eja,eja  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,,0453,,0.0,0.0,,,
+0698,07.510,roof,atap,ato,ato  p67,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0439,220*,239.0,62.0,,,
+0702,07.530,ridge of roof,bubungan,ßumbunga,ßumbunga  p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,,0440,,0.0,0.0,,,
+0703,07.540,rafter,kasau,'aso,'aso,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0446,221*,0.0,0.0,,,
+0704,07.270,wall (of house),dinding,ßombo,ßombo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0458/9,218,338.0,0.0,,,
+0707,07.250,window,jendela  =/-> 15.524,jandela,jandela,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,,0451,,0.0,0.0,,,
+0708,07.220,door,pintu,ßomboulo,ßomboulo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0448,219*,0.0,0.0,,,
+0709,07.260,floor,lantai,salo  =1.240,salo  =1.240,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0456/7,217,115.0,0.0,,,
+0713,07.212,sleeping place,kamar tidur  =04.610,po'oturuo,po'oturuo  p56,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,,0465,,0.0,0.0,,,
+0714,07.127,space under house,kolong ->12.070,angguno,angguno,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,house,noun,,buatan manusia,0487,224,278.0,0.0,,,
+0718,07.425,"cradle, swing",dondang(an),balesa,balesa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,,,,0.0,0.0,Z9.90R hammock = ayunan??,,
+0720,07.126,storage shelf above hearth,"para, para-para ->07.125",landue,landue,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0473,222*,0.0,0.0,,,
+0721,09.770,mat (plaited),tikar,ompasi,ompasi p52,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0468,247,178.0,0.0,,,
+0722,07.421,pillow,bantal,tambangu,"tambangu -nya p45, kandupi",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya ,,,,household,noun,,buatan manusia,0469,249,217.0,0.0,,,
+0722,07.421,pillow,bantal,kandupi,"tambangu -nya p45, kandupi",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0469,249,217.0,0.0,,,
+0723,07.423,blanket,selimut,salibumbu,salibumbu me-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-,,,,household,noun,,buatan manusia,,248,24.0,0.0,,,
+0726,05.373,ladle made of coconut shell,gayung,poigu,poigu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,buatan manusia,,234*,156.0,0.0,,,
+0730,05.260,cooking pot,"periuk, belanga",'uro,'uro ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,household,noun,,buatan manusia,0521,231,58.0,0.0,,,
+0735,05.310,dish,piring,suraya,suraya p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,,0497,,0.0,0.0,,,
+0739,05.347,bamboo water container (long),"tempat air bambu, perian (panjang)",petana,petana,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0512,233,342.0,0.0,,,
+0740,05.348,"water jar, earthen water barrel",tempayan,gumba,gumba,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0524,232,343.0,0.0,,,
+0742,07.312,three-stone fireplace,tungku,siga,siga,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,,230,0.0,0.0,,,
+0745,10.380,blow (on fire),"tiup  meniup, tertiup (w)",subai,subai mo- ni-~ -mo  p62,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ni- -mo  ,,,,,tr,,kata kerja,0480,397,27.0,137.0,,,16.0
+0746,01.890,charcoal,arang,ßuri,ßuri,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,buatan manusia,0984,229*,44.0,0.0,,,
+0747,01.864,"put on (light), ignite",nyalakan  menyalakan (sinar),pe'elega,"pe'elega moN%p-~ ro- p72, pedampi ro- moN%p-~ p72",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN%p- ro- ,,,,household,tr,action,,0485,,0.0,0.0,,,
+0747,01.864,"put on (light), ignite",nyalakan  menyalakan (sinar),pedampi,"pe'elega moN%p-~ ro- p72, pedampi ro- moN%p-~ p72",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- moN%p- ,,,,household,tr,action,,0485,,0.0,0.0,,,
+0747a,07.450,lamp,lampu,po'indo,po'indo  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,,,0.0,0.0,,,
+0748a,05.125,"provisions, cold food","perbekalan, makanan yg dingin",moßalu,"moßalu ""bekal"", anio mondou  ~ =14.670",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""bekal""",,food,noun,,,0534a,,0.0,0.0,Z5.12A provisions perbekalan,,
+0748a,05.125,"provisions, cold food","perbekalan, makanan yg dingin",anio mondou,"moßalu ""bekal"", anio mondou  ~ =14.670",Taje,Petapa,120.1238,-0.7782,,False,,,False,=14.670,,,,,food,noun,,,0534a,,0.0,0.0,Z5.12A provisions perbekalan,,
+0749,05.420,breakfast,sarapan pagi,'uma somunondo,'uma somunondo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,kebiasaan,,480,33.0,0.0,,,
+0750,05.810,salt,garam,bule  K74,bule  K74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,alam dunia,0563,199,245.0,125.0,C170 E156 F154 G166,,125.0
+0751,05.850,sugar,gula,gola,gola  +SGA,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,alam dunia,0701,200,0.0,0.0,C171 E156 F155 G167,,
+0752,05.717,coconut pulp,ampas (kelapa),turasi nu ulingga,turasi nu ulingga  p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,,0564,,0.0,0.0,Ka 201,,
+0753,05.555,rice porridge,bubur nasi,kayojoro,kayojoro  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,,0556,,0.0,0.0,,,
+0755,05.515,sago baked,sagu bakar,nidango,nidango  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,,0559,,0.0,0.0,,,
+0756,05.552,sago flour,tepung sagu,labu,labu  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,,0557,,0.0,0.0,,,
+0763,05.840,honey,madu,manisa,manisa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,,0876,,0.0,0.0,,,
+0764,05.790,oil,minyak,latabi  K76,latabi  K76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,,0766,,0.0,0.0,,,
+0765,05.650,vegetables,sayuran,uta,uta  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,,0537,,0.0,0.0,,,
+0767,05.920,palm wine,"tuak, saguer",tule,tule,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,buatan manusia,,252*,360.0,0.0,,,
+0770a,05.491,mix,campur  mencampur,galoti,galoti ro- mo- ni-~ -a'o~   p57,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- mo- ni- -a'o   ,,,,food,tr,action,,,,0.0,0.0,,,
+0771,05.562,pound (rice),tumbuk  menumbuk   ->09.110,pombayu,pombayu ro- ni-~ moN%p-,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN%p-,,,,food,tr,action,,0552,,220.0,93.0,C169 E154 F153 G165,,
+0772,05.560,grind,giling  menggiling,gili,gili ni- [nijili] mo- -a'o~ po--o~ (tempat),Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni-  mo- -a'o po--o ,[nijili],(tempat),,food,tr,action,,0555,,0.0,0.0,,,
+0773,07.750,fetch water,"ambil  mengambil air, timba",tambu ogo,tambu ogo  maN- ro-  (dari sumur),Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,maN- ro-  ,,(dari sumur),,food,tr,action,,0513,,0.0,0.0,,,
+0774,05.210,cook,masak  memasak,poapi,poapi M- ni- ro-~ M--a'o ni--a'o~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,M- ni- ro- M--a'o ni--a'o,,,,food,intr / tr,proc / act,kata kerja,,387*,57.0,39.0,Ka202 Sa28,,
+0775,05.221,boil(ing) (of water),didih  mendidih,peßura,peßura M- nipe- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- nipe- -mo,,,,,intr,event,kata kerja,,388*,30.0,0.0,,,
+0776,05.240,bake,bakar membakar,tunu,tunu ro- mo-~ ni-~  K77,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- mo- ni-  K77,,,,food,tr,action,,0531,,0.0,0.0,,,
+0777,05.233,roast (in ashes),bembam,roißu ri aßu noonda,"roißu ri aßu noonda  ~ ""ditimbun di abu panas""",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,"""ditimbun di abu panas""",,food,tr,action,,0529,,0.0,0.0,,,
+0779,05.216,cook in bamboo container (sticky rice),lemang  melemang (nasi pulut),siußi,siußi ni- ro-~ mo-,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- ro- mo-,,,,food,tr,action,,0525,,0.0,0.0,,,
+0780,05.121,"done, cooked",masak,ngongo,ngongo mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,household,stative,state,,0532,,0.0,0.0,,,
+0781,05.232,"grill, roast",panggang,parara,parara ro-~ ni- ni- -a'o moN%p-~ poN%p-,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- ni- -a'o moN%p- poN%p-,,,,food,tr,action,,0530,,0.0,0.0,,,
+0782,05.220,"boil, cook (in pot/water)",rebus  merebus,ja'a,ja'a ro-~ ni- moN-,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN-,,,,food,tr,action,,0526,,0.0,0.0,,,
+0782a,05.230,fry,goreng  menggoreng,salagi,salagi ro-~ ni- mo-,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- mo-,,,,food,tr,action,,0528,,0.0,0.0,,,
+0783,09.237,"sharpen, grind",asah  mengasah,asa,asa maN- ni-  p56,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,maN- ni-  ,,,,farming,tr,action,,0989,,0.0,0.0,,,
+0784,09.238,grindstone,batu asah,pangasao,pangasao,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,,0990,,0.0,0.0,,,
+0787,20.520,"fish hook, to fish with a line","mata kail, pancing",pe'a,pe'a moN- ni-~  K77,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- ni-  K77,,,,farming,noun,,,,,0.0,0.0,,,
+0790,20.560,bait,umpan,upa,upa  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,,,,0.0,0.0,,,
+0791,10.815,stern,buritan,pujit,pujit,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,,1047,,0.0,0.0,,,
+0792,10.832,outrigger,"cadik, katir",pila,pila -nya  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,,,,farming,noun,,,1044,,0.0,0.0,,,
+0793,10.851,canoe paddle,dayung,bosoli,bosoli,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,buatan manusia,,227,42.0,0.0,,,
+0794,10.852,paddle,kayuh  mengayuh  ->08.220,monggaugi,monggaugi  p61,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,intr,action,,1042,,0.0,0.0,,,
+0795,10.860,"rudder, helm",kemudi -> 10.815,guli,guli -nya  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya  ,,,,farming,noun,,,1038,,0.0,0.0,,,
+0796,10.880,"sail, to sail","layar, berlayar",somba,somba -nya mo--um-  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya mo--um-  ,,,,farming,intr / nou,action,,1036/37,,0.0,0.0,,,
+0802,10.830,"canoe, boat",perahu,payanga  K76,payanga  K76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,buatan manusia,1033,226*,41.0,0.0,C164 E149 F148 G160,,
+0803,10.840,raft,rakit,aki,aki,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,buatan manusia,1050,228,223.0,0.0,,,
+0805,10.870,mast,tiang perahu,pangidoa   K75,pangidoa   K75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,,1035,,0.0,0.0,,,
+0806,08.130,"garden, dry rice/corn field","kebun, ladang",naßa,naßa mo- [2. momaßa] p50 p51 p59 K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-     K77,[2. momaßa],,,farming,noun,,,0653/655,254*,300.0,0.0,Z8.12 swidden (field) dry,,
+0808,08.325,pick,petik  memetik,pupu,pupu  ro--si mo--si moN%p--si p55 pK77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro--si mo--si moN%p--si  pK77,,,,farming,tr,action,,0673,,0.0,0.0,,,
+0809a,08.210,plough (wet rice field),bajak membajak (sawah),pajeko,pajeko   p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,tr/intr,action,,0642,,0.0,0.0,,,
+0809b,08.155,clear jungle/brushwood,"merintis hutan, bersihkan rumput",'aßani,'aßani  mo- ni- ro-~ -mo  [F] p50 p59,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ni- ro- -mo    ,[F],,,farming,tr/intr,action,,,,0.0,0.0,,,
+0810,01.851,burn (field),bakar  membakar (kebun) ->08.150,papii,papii moN- ni-  ->05.210,Taje,Petapa,120.1238,-0.7782,,True,,,False,->05.210,moN- ni-  ,,,,,tr,action,kata kerja,1276,405*,35.0,144.0,C48 D97 E41 F41 G43,,19.0
+0811,01.852,burn (intr.),sedang terbakar (intr.),papii,papii mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,intr,event,,1277,,0.0,0.0,,,
+0812,08.531,plant,tanam  menanam,tuda,tuda mo- ni-   p52  *moN,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni-     *moN,,,,farming,tr,action,kata kerja,0665,406*,219.0,84.0,,,
+0813,12.530,grow,tumbuh    ->08.530#->?#,tußu,tußu me- pepe-~   =04.740,Taje,Petapa,120.1238,-0.7782,,False,,,False,=04.740,me- pepe-   ,,,,,intr,process,kata kerja,1078,407,0.0,86.0,,,
+0814,08.415,harvest,tuai  menuai,sangki,sangki mo- ni-  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni-  ,,,,farming,intr / tr,action,,0670,,0.0,0.0,,,
+0815,08.281,make a hole (with dibble in ground),membuat lubang dgn tugal,posua,posua M- ro- p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- ro- ,,,,farming,tr,action,,0646/66,,0.0,0.0,,,
+0816,08.280,dibble,tugal,sua,sua,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,,0645,,0.0,0.0,,,
+0816a,19.250,"cane, walking stick",tongkat,to'o,to'o  p55,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,instrument,noun,,buatan manusia?,,,0.0,0.0,,,
+0818,08.310,sow (scattering the seeds),tabur  menabur benih,sabu,"sabu mo- ro-  ~ p71, tapina'o  ~  p71",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ro-   ,,,,farming,intr / tr,action,,0663,,0.0,0.0,,,
+0818,08.310,sow (scattering the seeds),tabur  menabur benih,tapina'o,"sabu mo- ro-  ~ p71, tapina'o  ~  p71",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,farming,intr / tr,action,,0663,,0.0,0.0,,,
+0819,08.340,thresh with the feet,injak padi,runja'i,runja'i mo-~ ni-  K76,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ni-  K76,,,,farming,tr,action,,0666,,0.0,0.0,,,
+0820,08.370,winnow,tampi  menampi,sidi,sidi ro- mo- ni-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- mo- ni-,,,,farming,tr,action,kata kerja,,408,362.0,0.0,,,
+0822,08.315,seedling (rice),"bibit (padi), benih",saßua,saßua  p67,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,0667,174*,0.0,0.0,C5 D23,,
+0823,08.316,seedling (hard plants) ??,bibit tanaman keras,soßua,soßua / sobua  p66  K75,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,farming,noun,,,,,0.0,0.0,,,
+0823,08.316,seedling (hard plants) ??,bibit tanaman keras,sobua    K75,soßua / sobua  p66  K75,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,farming,noun,,,,,0.0,0.0,,,
+0825,08.121,"rice field (wet, sawah)",sawah,lida,lida  p72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,farming,noun,,,0654,,0.0,0.0,,,
+0830,08.480,rice plant,padi,pae,pae  p57,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,tumbuh-tumbuhan,0546,175,233.0,0.0,C19 E15 F15 G18 Ka 200,,
+0833,08.483,"rice (cut, unhulled)",gabah,umbari,umbari,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,,176,0.0,0.0,,,
+0834,08.484,"rice hull, husk of rice",sekam (gabah),'ulisi nu umbari,'ulisi nu umbari ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,noun,,tumbuh-tumbuhan,,177*,148.0,0.0,Z,,
+0835,08.481,hulled rice,beras,ose  K69,ose  K69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,tumbuh-tumbuhan,0544,178,234.0,0.0,C20 E16 F16 G19,,
+0836,08.482,cooked rice,nasi,anio,anio,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,food,noun,,tumbuh-tumbuhan,0545,179,235.0,0.0,C21 E17 F17 G20,,
+0837,05.580,"mortar, rice pounder#",lesung,nonju,nonju ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,household,noun,,buatan manusia,0550,235,183.0,0.0,C167 E152 F151 G163,,
+0839,05.590,"pounder, pestle (rice)","alu, penumbuk",layu,layu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0551,236,215.0,0.0,C168 E153 F152 G164,,
+0841,08.372,"winnow, sieve for rice","nyiru, tapisan   ->05.470",panombong,panombong  ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,household,noun,,,0553,,0.0,0.0,,,
+0842,09.230,knife,pisau,ladi,ladi,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0505,237*,0.0,0.0,C165 E150 F149 G161,,
+0844,09.232,"machete, chopper#",parang,piso,piso,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0506,238,0.0,0.0,C166 E151 F150 G162 Z5.38A,,
+0845,09.233,sheath for machete,sarung parang,ta'upi nu piso,ta'upi nu piso,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,,239,257.0,0.0,,,
+0848,09.221,cut down,tebang  menebang,toßo,toßo ro- mo- p60 p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- mo-  ,,,,farming,tr,action,,0738,,0.0,0.0,,,
+0849,09.222,"chip, slash, hew","tetak  menetak, bacok  membacok",tibasi  K72,tibasi  K72 ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,farming,tr,action,,0610,,0.0,0.0,,,
+0850,09.220,"cut (wood, across grain)",potong  memotong (kayu),'oloi,'oloi ro- moN- ni- -mo p55 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- moN- ni- -mo  ,,,,,tr,action,kata kerja,1247,385*,66.0,78.0,,,25.0
+0850a,09.260,break (stick)  #alte 1048#,patah  mematahkan (tongkat),sambalemo    K72,"sambalemo  ""sepotong""  K72",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""sepotong""",,,tr,action,,1253,,0.0,0.0,,,
+0851,09.270,split (wood),belah  membelah (kayu),poso,poso ro- moN- ni-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- moN- ni-,,,,,tr,action,kata kerja,,386*,0.0,80.0,,,148.0
+0852a,20.642,trap: bamboo spikes,perangkap: ranjau bambu,basalo,basalo  (?) p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,(?),,farming,noun,,,0858,,0.0,0.0,,,
+0854,20.610,hunt (for game),buru  berburu  ->03.610,asu,asu mo-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-,,,,farming,tr,action,kata kerja,0855,430,146.0,69.0,,,75.0
+0857,20.240,bow and arrow,panah memanah,pana,pana ro-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro-,,,,culture,noun,,,0613,432*,0.0,0.0,,,
+0859,20.290,blow gun,sumpitan,sumpiti,sumpiti  p69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,,0612,,0.0,0.0,,,
+0859a,20.291,blow gun: blowing end,sumpitan: pangkalnya,palida,palida,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,,0612a,,0.0,0.0,,,
+0859b,20.294,dart for blow gun,sumpitan: anaknya / pelornya (tajam),mata nu sumpiti,mata nu sumpiti,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,,0612b,,0.0,0.0,,,
+0859d,20.296,drill (for base of dart),sumpitan: bor,bolo,bolo p69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,,0612d,,0.0,0.0,,,
+0859e,20.292,forked end of blow gun ?#,sumpitan: ujungnya yg percabang,posumpa,posumpa -nya p69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya ,,,,culture,noun,,,0612e,,0.0,0.0,,,
+0859f,20.295,blow gun: quiver,sumpitan: tempat anaknya,bunto,bunto -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,culture,noun,,,0612f,,0.0,0.0,,,
+0862,20.230,sling,ali-ali,alematanya,alematanya  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,,0624,,0.0,0.0,,,
+0865,06.350,sew,jahit  menjahit,jau,jau moN-~ moN--ni [1. monja'uni] ni--ni,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- moN--ni  ni--ni,[1. monja'uni],,,household,tr,action,kata kerja,1006,440,254.0,67.0,,,132.0
+0866,06.360,needle,jarum,jaru,"jaru ~, tusu me- -mo p60 K77 p68",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,household,noun,,buatan manusia,1005,244,193.0,68.0,,,
+0866,06.360,needle,jarum,tusu,"jaru ~, tusu me- -mo p60 K77 p68",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- -mo  K77 ,,,,household,noun,,buatan manusia,1005,244,193.0,68.0,,,
+0868,06.330,weave cloth,tenun  menenun,tanu,tanu maN%t- ro-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,maN%t- ro-,,,,dressing,tr,action,kata kerja,0593,441,346.0,0.0,,,
+0869,06.332,weave a mat,"anyam  menganyam, jalin  menjalin (tikar)",anya,anya maN- ro-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,maN- ro-,,,,dressing,tr,action,kata kerja,0600,442,347.0,0.0,,,
+0880,09.190,rope,tali (besar),gula,gula p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,0602,242*,241.0,65.0,C162 E147 F146 G158,,122.0
+0881,09.197,string,"benang, tali (kecil) ->06.370",bana,bana,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,household,noun,,buatan manusia,,243,291.0,0.0,,,
+0883,06.650,bag,tas,ßungusi,"ßungusi  ""bungkus"" p52",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""bungkus""",,household,noun,,,0605/6,,0.0,0.0,,,
+0886,06.125,loincloth,"cawat, kain punggung",peßo,peßo mo-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo-,,,,dressing,noun,,buatan manusia,0588,250*,171.0,0.0,,,
+0887,06.215,bark cloth,jeluang,katundu,katundu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,dressing,noun,mass,buatan manusia,0598,251*,0.0,0.0,C161 G157,,
+0888,06.480,trousers,celana,salana,salana,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,dressing,noun,,buatan manusia,0567,246,326.0,0.0,,,
+0889,06.462,sarong,sarung,náusi,náusi,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,dressing,noun,,buatan manusia,0565,245,0.0,0.0,,,
+0895,06.730,ring (for finger),cincin,sinji,sinji,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,dressing,noun,,buatan manusia,0575,241,237.0,0.0,,,
+0907,06.910,comb,sisir,sala'ati,sala'ati mo-~ ro- *ni  p57 p66,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ro- *ni   ,,,,dressing,noun,,buatan manusia,0573,240,56.0,0.0,,,
+0910,06.970,filing of the teeth,mengikir gigi,gegeri,gegeri / gegesi   ro-  =09.315 p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,action,,0406,,0.0,0.0,,,
+0910,06.970,filing of the teeth,mengikir gigi,gegesi,gegeri / gegesi   ro-  =09.315 p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,=09.315,ro-   ,,,,culture,noun,action,,0406,,0.0,0.0,,,
+0911,11.810,buy,beli  membeli ->11.870,oli,oli moN- p63,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN- ,,,,culture,tr,action,kata kerja,1010,443,39.0,91.0,,,
+0912,11.820,sell,jual  menjual ->11.845,pobalu,pobalu M- ro-~ ni-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,M- ro- ni-,,,,culture,tr,action,kata kerja,1016,444,252.0,0.0,,,
+0913,11.650,pay,bayar  membayar,bayari,bayari moN- ni-~ ro-  p68,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- ni- ro-  ,,,,culture,tr,action,kata kerja,1015,445,211.0,0.0,,,
+0926,11.610,"borrow, lend",pinjam  meminjamkan,peinda,peinda ro- ni-~ moN%p-~  p75,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN%p-  ,,,,culture,tr,action,,1018,,0.0,0.0,,,
+0929,11.915,exchange,tukar  menukar,sula,sula ro- mo--si ni--si ro--si   p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- mo--si ni--si ro--si   ,,,,culture,tr,action,,1019,,0.0,0.0,,,
+0932q,,length: 1 foot,satu kaki,sampaa  K75,sampaa  K75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,culture,noun,,,1026,,0.0,0.0,,,
+0932r,,length: 1 step,satu langkah,salempa,salempa -mo  K79,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-mo  K79,,,,culture,noun,,,1026,,0.0,0.0,,,
+0932s,,volume: thumb and index finger ?,ukuran dan berat (panjang),sempeka    K79,"sempeka  ""selembar""  K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""selembar""",,culture,noun,,,1026,,0.0,0.0,,,
+0933e,,mass: cubic measure of 3.1 kg   ?,satu gantang,senji'u    K<si'u ??,"senji'u  ""sehasta""  K79  <si'u ??",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""sehasta""",,culture,noun,,,1027,,0.0,0.0,,,
+0933h,,mass: a pipe/tube full (sago skin) ?,satu pipa kulit sagu (25kg?),sandapa,"sandapa ""sedepa"", sambaa ""seorang"" !! -mo  K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""sedepa""",,culture,noun,,,1027,,0.0,0.0,,,
+0933h,,mass: a pipe/tube full (sago skin) ?,satu pipa kulit sagu (25kg?),sambaa  !!,"sandapa ""sedepa"", sambaa ""seorang"" !! -mo  K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-mo  K79,,"""seorang""",,culture,noun,,,1027,,0.0,0.0,,,
+0933i,,mass: a shell full (coconut),satu tempurung,"sompude  K79 sombungusi ""sebungkus","sompude ""sepotong"" K79 sombungusi ""sebungkus",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""sepotong""",,culture,noun,,,1027,,0.0,0.0,,,
+0942a,19.320,"king, ruler",raja,olongia,olongia,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,c / polis,noun,,,0378,,0.0,0.0,,,
+0962,16.260,play,main  bermain,baba,baba mo-  K72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-  K72,,,,culture,intr / tr,action,kata kerja,0432,403,218.0,0.0,,,112.0
+0962a,16.261,##,##,pongeya'o,"pongeya'o ni- ""dimainkan (make a fool of)"" p60",Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,ni-  ,,"""dimainkan (make a fool of)""",,culture,intr / tr,action,kata kerja,0432a,,0.0,0.0,,,
+0964,16.269,kick/hit a person on the calves (game),baku benteh,ßinti,ßinti mosi-  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mosi-  ,,,,culture,tr,action,,0436,,0.0,0.0,,,
+0965,16.265,"top, to spin a top",gasing  bermain gasing,ßala,ßala mosi-  p75,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mosi-  ,,,,culture,tr,action,,0434,,0.0,0.0,,,
+0973,18.750,gong,gong,B,B,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,c / music,noun,,,0424,,0.0,0.0,,,
+1003,09.120,work,bekerja,goyo,goyo moN- poN- ni--a'o -mo  K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN- poN- ni--a'o -mo  K77,,,,,tr,action,kata kerja,1210,404,368.0,83.0,Sa214,,
+1004,09.110,"make, do",buat  membuat,gutu,gutu moN- momaN- ni-~ -a'o~ ro-  p52 p69,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- momaN- ni- -a'o ro-   ,,,,,tr,action,,1187,,0.0,0.0,,,
+1005,09.440,build (house),bangun  membangun ->04.630,banguna'o,=04.631,Taje,Petapa,120.1238,-0.7782,,True,,,False,=04.631,ro- mo-  ,,,,,tr,action,,0490,,0.0,0.0,,,
+1006,09.365,wash fingers (before eating),cuci  mencuci tangan (di piring),meogo,meogo -mo  ->01.310  p68,Taje,Petapa,120.1238,-0.7782,,True,,,False,->01.310,-mo    ,,,,,intr / tr,,kata kerja,1191a,423,340.0,0.0,,,
+1007,09.363,"wash up (dishes, spoons etc.)",cuci  mencuci (peralatan makanan),tambasi,tambasi momba- K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,momba- K77,,,,household,tr,action,,1189,,0.0,0.0,,,
+1008,09.360,wash clothes,cuci  mencuci pakaian,tatapi,tatapi -a'o maN- ni-  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-a'o maN- ni-  ,,,,,tr,action,kata kerja,1190,421,339.0,0.0,,,180.0
+1009a,15.845,dry in the sun (on the floor),jemur  menjemur (di lantai spt padi),poai,poai moN%p-~ ni- pompoayo (tempat) ro-  p68,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN%p- ni- pompoayo  ro-  ,,(tempat),,,intr,process,kata kerja,1126,422,82.0,0.0,C94 E86 F86 G92,,
+1010,09.370,sweep,sapu  menyapu,saeße,saeße ro- moN%j-  p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- moN%j-  ,,,,,tr,action,,,,0.0,0.0,,,
+1011,09.312,wipe,kelap  mengelap,parisi,"parisi moN%p- ni- K75, =09.315",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN%p- ni- K75,,,,,intr / tr,action,kata kerja,,420,363.0,0.0,,,193.0
+1011,09.312,wipe,kelap  mengelap,,"parisi moN%p- ni- K75, =09.315",Taje,Petapa,120.1238,-0.7782,,True,,,False,=09.315,,,,,,intr / tr,action,kata kerja,,420,363.0,0.0,,,193.0
+1012,09.791,fan,kipas  mengipas,'oyaßi,'oyaßi moN- ni-~  p69,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- ni-  ,,,,,intr / tr,action,,,,0.0,0.0,,,
+1013,12.270,hide,sembunyi  bersembunyi,tambuni,tambuni me-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me-,,,,,intr / ref,action,kata kerja,1266,429*,140.0,171.0,,,
+1014,12.271,hide (something),sembunyi  menyembunyikan (sesuatu),soyoa'o,"soyoa'o ni- moN-, tambunia'o",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- moN-,,,,,tr,action,,1265,,0.0,0.0,,,
+1014,12.271,hide (something),sembunyi  menyembunyikan (sesuatu),tambunia'o,"soyoa'o ni- moN-, tambunia'o",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,tr,action,,1265,,0.0,0.0,,,
+1015,11.320,find,temu  menemukan  ->10.480,jao,jao ni- -mo  p69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- -mo  ,,,,,tr,action,,1175,,0.0,0.0,,,
+1016/198,11.330,"lost, lose something, disappear",hilang  ke--an meng--kan meng-,lipo,lipo me- -mo p69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- -mo ,,,,,tr,,kata kerja,,447,174.0,0.0,,,
+1018,12.180,wait,tunggu  menunggu,petaa,petaa ro-~ -si moN%p-~ ro--si~ p70,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- -si moN%p- ro--si ,,,,,intr,state,kata kerja,1226,473,336.0,0.0,,,
+1019,21.510,steal,curi  mencuri,pangangga,pangangga M-~ ni-  p69,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,M- ni-  ,,,,,tr,action,kata kerja,1273,439,286.0,73.0,,,
+1021,16.622,choose,pilih  memilih,pelei,pelei ro- ni-~ moN%p-~  p70,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN%p-  ,,,,,tr,,kata kerja,,373,50.0,85.0,,,
+1023,19.650,meet,"jumpa berjumpa, temu bertemu ->10.480",jao,"jao mosi-  p46, mpotomu nosi-  p70",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mosi-  ,,,,,tr / rec,action,,1287/88,,0.0,0.0,,,
+1023,19.650,meet,"jumpa berjumpa, temu bertemu ->10.480",mpotomu,"jao mosi-  p46, mpotomu nosi-  p70",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,nosi-  ,,,,,tr / rec,action,,1287/88,,0.0,0.0,,,
+1024a,19.565,"visit, call_on",kunjung mengunjungi,tunggai,tunggai ni-  p54,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni-  ,,,,,intr / tr,action,,,,0.0,0.0,,,
+1026,19.450,"send (out), order, command","suruh  menyuruh, perintah  ->02.335",pejai,pejai moN%p- ni- -a'o~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN%p- ni- -a'o,,,,,tr,action,,1281,,0.0,0.0,,,
+1030,19.580,"help, aid","tolong  menolong, bantu  membantu",tulungi,tulungi  mba- ni-  K82,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mba- ni-  K82,,,,,tr,,,,,0.0,0.0,,,
+1031,08.220,dig (hole),gali  menggali ->10.852,gau,gau moN- ni- -mo  K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN- ni- -mo  K78,,,,,intr / tr,action,kata kerja,1278,412,76.0,90.0,,,28.0
+1032,09.341,hang up,gantung  menggantungkan,loe,loe mo-~ ni-,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ni-,,,,,tr,action,,,,0.0,0.0,,,
+1032b,12.120,"put, place",taruh menaruh,di'o,di'o ni- moN- -a'o~ ni--i poN--o (tempat) p53,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- moN- -a'o ni--i poN--o  ,,(tempat),,,tr,action,,,,0.0,0.0,,,
+1033,05.467,slice (mango),sayat  menyayat (mangga) ->08.870,táipi,táipi moN- ni-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN- ni-,,,,,tr,action,,,,0.0,0.0,,,
+1033a,05.465,skin (an animal),kulit  menguliti binatang,sisi,sisi ro- moN- -a'o,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ro- moN- -a'o,,,,,tr,action,,0762a,,0.0,0.0,,,
+1033b,05.462,peel (fruit),kupas  mengupas (buah-buahan)   ->04.120,'ulisi,'ulisi mo- ni- -a'o~  p69,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mo- ni- -a'o  ,,,,,tr,action,,0762,,0.0,0.0,,,
+1034,09.565,stick to,lekat  melekat berlekat,na'ati,na'ati me- pa- nipa--a'o  p69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- pa- nipa--a'o  ,,,,,tr,action,kata kerja,,419*,287.0,0.0,,,
+1038,13.107,count,hitung  menghitung,bila,bila mo- ni- -mo  K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo- ni- -mo  K78,,,,,tr,action,kata kerja,,366,62.0,196.0,,,24.0
+1039,11.630,"debt, owe",hutang  berhutang,inda,inda [h] mo-  p50,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-  ,[h],,,culture,noun / tr,state,kebiasaan,1013,479,70.0,0.0,,,
+1041,14.250,begin (intr/tr),mulai,pamula,pamula moN%p- ni-  -mo  K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN%p- ni-  -mo  K77,,,,,intr / tr,proc /act,,1260/61,,0.0,0.0,,,
+1043,14.280,stop,henti  berhenti,petaa,petaa M- p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,M- ,,,,,intr / tr,proc / act,,1263,,0.0,0.0,,,
+1044,14.270,finish (tr/intr),selesai menyelesaikan  ->14.290,po'otou,po'otou moN%p- ni-~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN%p- ni-,,,,,intr / tr,action,,1262/63,,0.0,0.0,,,
+1045,15.710,"touch, strike",kena  mengenai,kono,kono ma-  pa'a- -mo  K76f ->16.660,Taje,Petapa,120.1238,-0.7782,,True,,,False,->16.660,ma-  pa'a- -mo  K,,,,,tr,action,,1251,,0.0,0.0,,,
+1046,09.210,"beat, hit",pukul  memukul,bobagi,bobagi ni-  moN- -a'o poN-  p46,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni-  moN- -a'o poN-  ,,,,,tr,action,kata kerja,1291,436,0.0,72.0,,,72.0
+1046c,09.215,"box, punch",tinju meninju  -> 20.110,jaguru,jaguru mosi- me-  p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mosi- me-  ,,,,,tr,action,kata kerja,1291c,,0.0,0.0,,,
+1050,11.270,destroy,rusak  merusakkan,pa'ujati,pa'ujati moN%p- ni-~  p71 ->16.720,Taje,Petapa,120.1238,-0.7782,,False,,,False,->16.720,moN%p- ni-   ,,,,,tr,action,,,,0.0,0.0,,,
+1051,09.280,tear,"sobek  menyobek, robek  sobek  menyobek",teisi,teisi me- ni- sen- -mo K79,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,me- ni- sen- -mo K79,,,,,tr,action,,,,0.0,0.0,,,
+1052,20.110,fight,kelahi  berkelahi ->09.215,baga,baga mosi-  K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mosi-  K78,,,,,intr,,kata kerja,,438,109.0,0.0,,,47.0
+1053,09.223,stab,tikam  menikam,saku,"saku ni- moN- -mo p60, toje ni- -mo p60, jalo ni-  -mo p60 K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- moN- -mo ,,,,,tr,action,kata kerja,,433,283.0,71.0,,,150.0
+1053,09.223,stab,tikam  menikam,toje,"saku ni- moN- -mo p60, toje ni- -mo p60, jalo ni-  -mo p60 K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- -mo ,,,,,tr,action,kata kerja,,433,283.0,71.0,,,150.0
+1053,09.223,stab,tikam  menikam,jalo,"saku ni- moN- -mo p60, toje ni- -mo p60, jalo ni-  -mo p60 K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni-  -mo  K79,,,,,tr,action,kata kerja,,433,283.0,71.0,,,150.0
+1054,09.343,squeeze (in hand),peras  memeras,poosi,poosi moN- ni-~ -a'o~  -mo p51 p60,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- ni- -a'o  -mo  ,,,,,tr,action,kata kerja,,399*,282.0,88.0,,,149.0
+1056,09.265,break (rope),putus  memutuskan (tali),uduti,uduti -mo moN-~ ni- -a'o~  p71,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,-mo moN- ni- -a'o  ,,,,,tr,action,,1254,,0.0,0.0,,,
+1057,09.160,"tie (tether animal), bind","ikat  mengikat, tambat  menambatkan",ße'esi,ße'esi ni-~ moN- mo-~ mete-~  -mo p60 p61,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- moN- mo- mete-  -mo  ,,,,,tr,action,kata kerja,1264,416*,319.0,66.0,Z: tie=bind up,,171.0
+1058,09.161,untie,"urai  menguraikan, buka ->12.240",ßu'asi,ßu'asi ni-~ mo- ro- p71,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ni- mo- ro- ,,,,,tr,action,,,,0.0,0.0,,,
+1059,04.580,bite,gigit  menggigit,'i'i,"'i'i ni- [ni'iinya] mete- me- ""bagigit""# p51 p60",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni-  mete- me- #  ,[ni'iinya],"""bagigit""",,,tr,action,kata kerja,0135,392,21.0,41.0,C183 D55 E167 F166 G179,56.0,13.0
+1059a,04.585,gnaw,"gigit menggigit-gigit, mengerip",tangia,tangia maN%t- ni-~  p72,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,maN%t- ni-  ,,,,,tr,action,kata kerja,,,0.0,0.0,,,
+1061,09.315,rub (massage),gosok  menggosok (badan),gegesi,gegesi moN-/mo- ni-  p51 p60 p61,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN-/mo- ni-    ,,,,,tr,action,kata kerja,,456,243.0,0.0,,,124.0
+1062,11.140,"hold, grip, seize",pegang  memegang ->10.620,bentiri mentiri,bentiri mentiri ni- -mo  K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- -mo  K78,,,,,tr,action,kata kerja,1185,398,139.0,89.0,,,73.0
+1063,10.645,lead by the hand,tuntun  menuntun,umbu,umbu ro- ni- moN-~ -mo (orang buta) p71,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro- ni- moN- -mo  ,,(orang buta),,,tr,action,,1186,,0.0,0.0,,,
+1065,12.230,separate,"pisah  memisahkan  ->02.341, 17.920",segii,"segii ""sebelah"" p58",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""sebelah""",,,tr,action,,,,0.0,0.0,,,
+1068,12.930,change,ubah  merubah  mengubah,balia'o,balia'o mo-  p62,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-  ,,,,,intr,action,,,,0.0,0.0,,,
+1069,14.255,repeat,ulang  mengulangi,'usili,"'usili, baliggango moN-~ ni-~",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,tr,action,kata kerja,,377*,230.0,0.0,C178 G174,,
+1069,14.255,repeat,ulang  mengulangi,baliggango,"'usili, baliggango moN-~ ni-~",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,moN- ni-,,,,,tr,action,kata kerja,,377*,230.0,0.0,C178 G174,,
+1071,13.215,fill,isi  mengisi,isi,isi ro--a'o -ni~ ro--ni mba--ni isisia'o p63,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ro--a'o -ni ro--ni mba--ni isisia'o ,,,,culture,tr,action,,1023,,0.0,0.0,,,
+1072,12.240,"open, uncover",buka  membuka ->09.161,'unggara'o,"'unggara'o ni- moN- ma- ""terbuka"" p55",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- moN- ma-  ,,"""terbuka""",,,tr,action,kata kerja,1245,389*,0.0,92.0,,,
+1073,12.250,close,tutup  menutup,tutubi,"tutubi  ni- mete- ""tertutup""  -mo",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ni- mete-   -mo,,"""tertutup""",,,tr,action,,1246,,0.0,0.0,,,
+1073b,12.260,"cover (cup, pot) with a lid",tutup  menutup (cangkir),sauni,sauni moN- ni-  p68,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,moN- ni-  ,,,,,tr,action,,1246a,,0.0,0.0,,,
+1075,15.745,"become hard, freeze",beku  membeku (w) ->15.740,na'ada,na'ada =15.740,Taje,Petapa,120.1238,-0.7782,,True,,,False,=15.740,,,,,,intr / tr,process,,,,0.0,0.0,,,57.0
+1076,14.410,day,hari,rega,rega  p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,noun,,waktu,1394,354,67.0,168.0,,,26.0
+1077,14.420,night,malam,ndou,ndou -nya mo- -mo p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya mo- -mo ,,,,time,noun,,waktu,1401,355*,195.0,167.0,C50 D87 E43 F43 G49,92.0,105.0
+1085a,14.731,year (native cycles),tahun menurut masyarakat setempat,sampae,sampae,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,time,noun,,waktu,1406a,,0.0,0.0,,,
+1094,14.440,morning,pagi,somunondo,somunondo -mo  p65 p67,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-mo   ,,,,time,noun,,waktu,1424,356,182.0,0.0,,,
+1096a,14.433,the sun has risen,matahari sudah terbit (jam 6),sobunondo K79,"sobunondo K79, 'o'ondu'ondu p65  ""pagi-pagi""",Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,time,noun,,,,,0.0,0.0,,,
+1096a,14.433,the sun has risen,matahari sudah terbit (jam 6),'o'ondu'ondu,"sobunondo K79, 'o'ondu'ondu p65  ""pagi-pagi""",Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,"""pagi-pagi""",,time,noun,,,,,0.0,0.0,,,
+1097,14.450,midday,siang,leo,leo -nya me-~ -mo  p70,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,-nya me- -mo  ,,,,time,noun,,waktu,1397,357*,199.0,0.0,,,
+1098,14.455,afternoon,sore,so'onoßia,so'onoßia / sonoßia  [F],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,noun,,waktu,,358,2.0,0.0,,,
+1098,14.455,afternoon,sore,sonoßia,so'onoßia / sonoßia  [F],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[F],,,time,noun,,waktu,,358,2.0,0.0,,,
+1100,14.470,today,hari ini,rega nee,rega nee p51,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,adv / qual,,waktu,1420,360,320.0,0.0,,,
+1101,14.480,tomorrow,besok,maingolu,maingolu  p54,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,adv / qual,,waktu,1422,361,322.0,0.0,,,
+1103,14.490,yesterday,kemarin,rißengi,rißengi  p54,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,adv / qual,,waktu,1418,359,372.0,0.0,,,
+1104,14.491,day before yesterday,kemarin dulu,ipua,ipua  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,adv / qual,,,1419,,0.0,0.0,,,
+1105,14.360,"now, already (perfective)",sudah =14.290?#,notoumo,notoumo p70,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,time,adv / qual,,tata bahasa,1428,319*,203.0,0.0,,,
+1115,14.372,a moment ago,tadi,pangane,pangane  p53,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,adv / qual,,,1416,,0.0,0.0,,,
+1125,12.460,west,barat,bara,bara  p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,noun,,posisi,1434,343*,348.0,0.0,C107 E99 F99 G106,,
+1126,12.450,east,timur,timboro,timboro,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,noun,,posisi,1433,344*,88.0,0.0,C106 E98 F98 G105,,
+1127,12.470,north,utara,utara,utara ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,space,noun,,,1431,,0.0,0.0,,,
+1128,12.480,south,selatan,salatan,salatan ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,space,noun,,,1432,,0.0,0.0,,,
+1129,12.410,right (hand/side),kanan,nggana,nggana,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,adv / qual,,posisi,1436,342,236.0,3.0,,,118.0
+1130,12.420,left (hand/side),kiri,njidi,njidi,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,adv / qual,,posisi,1435,341,161.0,2.0,,,86.0
+1131,12.353,edge,pinggir,gigisinya,gigisinya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,noun,,posisi,,353*,0.0,0.0,C108 E100 F97 G104,,
+1132,12.110,place,tempat  ->12.160,pemereo,pemereo  p56,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,noun,,,,,0.0,0.0,,,
+1133,12.370,"middle, center","pertengahan, pusat",tatanga    santongo   K79,"tatanga p70   santongo ""setengah""  K79",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""setengah""",,space,noun,,,,,0.0,0.0,,,
+1134,12.000,"at, in",di,ri   K70,ri  p44 K70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,prepositio,,posisi,1448,340,0.0,173.0,,,5.0
+1135,12.080,"on top of, above",di atas,ri ßaßo,ri ßaßo -nya [F],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya ,[F],,,space,prepositon,,posisi,1437,348,0.0,175.0,C101 E93 F92 G99,,
+1136,12.070,"under, below",di bawah,ri anggu,ri anggu -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,space,prepositio,,posisi,1440/1444,347*,331.0,176.0,C103 E95 F94 G101,,
+1137,12.011,behind,di belakang,ri tanga,ri tanga,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,prepositio,,posisi,,349*,0.0,0.0,C105 E97 F96 G103,,
+1138,12.050,inside,di dalam,ri raro,ri raro -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,space,prepositio,,posisi,1457,352,0.0,174.0,C100 E92 F91 G98,,
+1139,12.432,nearby,di dekat ->12.430,'osu,=12.430,Taje,Petapa,120.1238,-0.7782,,True,,,False,=12.430,mV-,,,,space,prepositio,,,1452,,0.0,0.0,,,
+1140,12.040,in front,"di depan, di muka",ri ngayo,ri ngayo  p45 p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,prepositio,,posisi,1412,350*,0.0,0.0,C104 E96 F95 G102,,
+1141,12.060,outside,di luar,sambaliku,sambaliku -nya  ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,-nya  ,,,,space,prepositio,,posisi,1455,351,0.0,0.0,C102 E94 F93 G100,,
+1142a,12.055,in between,di antara,ri antara,ri antara / tatanga -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,prepositio,,,,,0.0,0.0,,,
+1142a,12.055,in between,di antara,tatanga,ri antara / tatanga -nya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-nya,,,,space,prepositio,,,,,0.0,0.0,,,
+1143,12.004,way over there,di sana,riamai,riamai  p52 p65,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,adv / qual,,tata bahasa,1390,326*,0.0,0.0,C99 E91 G97,,
+1144,12.002,here,di sini,ri'ini,"ri'ini / riini -mo p52 p60, rinee  p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,adv / qual,,tata bahasa,1388,324*,0.0,0.0,C98 E90 G96,,71.0
+1144,12.002,here,di sini,riini,"ri'ini / riini -mo p52 p60, rinee  p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-mo  ,,,,space,adv / qual,,tata bahasa,1388,324*,0.0,0.0,C98 E90 G96,,71.0
+1144,12.002,here,di sini,rinee,"ri'ini / riini -mo p52 p60, rinee  p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,adv / qual,,tata bahasa,1388,324*,0.0,0.0,C98 E90 G96,,71.0
+1145,12.003,there,di situ,ritu'ee ritutu'ee,ritu'ee ritutu'ee,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,adv / qual,,tata bahasa,1389,325*,0.0,0.0,C99 E91 G97,,162.0
+1146,12.090,toward the sea,"ke arah laut  ->10.476f,01.320",minjau,minjau / menyau~ ri tasi  p70,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,intr / pre,,posisi,,345*,0.0,0.0,,,
+1146,12.090,toward the sea,"ke arah laut  ->10.476f,01.320",menyau ri tasi,minjau / menyau~ ri tasi  p70,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,intr / pre,,posisi,,345*,0.0,0.0,,,
+1147,12.091,toward the interior,ke arah (pe)dalam(an),mbure ri buuti,mbure ri buuti,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,intr / pre,,posisi,,346*,0.0,0.0,,,
+1147a,12.006,hither,ke sini,tamai,"tamai  p44, aimo ""mari"" p61",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,intr / adv,,posisi,,,0.0,0.0,,,
+1147a,12.006,hither,ke sini,aimo,"tamai  p44, aimo ""mari"" p61",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,"""mari""",,,intr / adv,,posisi,,,0.0,0.0,,,
+1149,12.095,from,dari,la'o,la'o,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,prepositio,,,1446,,0.0,0.0,,,
+1155,10.570,go inside,masuk  memasuki,sua,sua meN- -mo  ni--ki  p69,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,meN- -mo  ni--ki  ,,,,space,intr,action,,1458,,0.0,0.0,,,
+1160,,my house,rumahku k.g. empunya o. ke I tunggal,tadu'u,tadu'u  p45,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,,1369,,0.0,0.0,,,
+1161,,our house (exclusive),rumah kami (ke I jamak (exclusive),tadu mami,tadu mami,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,,1372,,0.0,0.0,,,
+1162,,our house (inclusive),rumah kita  (ke I jamak (inkl.)),taduta,taduta,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,,1371,,0.0,0.0,,,
+1163,,your house (sing.),rumahmu (k.g. empunya o. ke II tunggal),tadumu,tadumu,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,,1373,,0.0,0.0,,,
+1163a,,your house (plural),rumah kamu,tadu miu,tadu miu,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,,1374,,0.0,0.0,,,
+1163b,,his/her house,rumahnya,tadunya,tadunya,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,,1377/78,,0.0,0.0,,,
+1163c,,their house,rumah mereka,tadu jimo,tadu jimo,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,,1375/76,,0.0,0.0,,,
+1164,02.910,I,"aku, saya",a'u,"a'u / au  [h] p44  a'umo  ""untuk saya"" p61",Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1357,097,0.0,182.0,C22 D1 E18 F18 G21,1.0,77.0
+1164,02.910,I,"aku, saya",au     a'umo,"a'u / au  [h] p44  a'umo  ""untuk saya"" p61",Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,[h],"""untuk saya""",,person,pronoun,,kata ganti,1357,097,0.0,182.0,C22 D1 E18 F18 G21,1.0,77.0
+1165,02.942,we (excl.),kami,'ami,'ami,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1366,100*,0.0,185.0,C25 E21 G24,,
+1166,02.941,we (inclusive)/you (polite/for older people),kita,'ita,'ita  p53,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1365,101*,0.0,185.0,C26 D3 E22 F19 G25,3.0,182.0
+1167,02.920,"you (fam.), thou","engkau, kamu",si'oo,si'oo,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1359,098*,0.0,183.0,C23 D2 E19 G22,2.0,168.0
+1168,02.950,"you (plural), ye","kalian, kamu sekalian#",miu,miu / 'emiu K74  p60,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1360,102*,0.0,186.0,,,198.0
+1168,02.950,"you (plural), ye","kalian, kamu sekalian#",'emiu K,miu / 'emiu K74  p60,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1360,102*,0.0,186.0,,,198.0
+1169,02.960,they,mereka,jimo,jimo,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1367/13,103*,0.0,187.0,C27 G26,,163.0
+1170,02.930,"he, she","dia, ia",ia,ia,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1363/13,099,0.0,184.0,C24 E20 G23,,66.0
+1171,,this,ini,nee,nee / nenee  p52,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1383,321*,0.0,177.0,C96 D4 F89 G94,4.0,167.0
+1171,,this,ini,nenee,nee / nenee  p52,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1383,321*,0.0,177.0,C96 D4 F89 G94,4.0,167.0
+1172,,that (nearby),itu (dekatmu),tu'ee,tu'ee,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1384,322*,0.0,178.0,C97 D5 E89 F90 G95,5.0,161.0
+1173,,that distant,itu yang jauh,mai,mai  p52,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,,pronoun,,tata bahasa,,323*,0.0,172.0,,,
+1176,17.700,whatever you call it,anu,sisanu,sisanu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,tata bahasa,,318,351.0,0.0,,,
+1177,,"which, who, that (relative pronoun)",yang,sanu,"sanu  p52, to  p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,pronoun,,,1391,,0.0,0.0,,,
+1177,,"which, who, that (relative pronoun)",yang,to,"sanu  p52, to  p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,pronoun,,,1391,,0.0,0.0,,,
+1178,17.640,what?,apa?,sapa,sapa  p53,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,pronoun,,kata tanya,1380,482*,350.0,188.0,C172 D7 E157 F156 G168,7.0,184.0
+1179,17.680,who?,siapa?,sisee K?,sisee K?,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,pronoun,,kata tanya,1379,483*,355.0,189.0,C173 D6 E158 F157 G169,6.0,188.0
+1180,17.690,why?,"mengapa?, kenapa?  !NB: also do what? #",no'uya,no'uya  p53,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,kata tanya,1465,488*,0.0,0.0,C175 E160 F159 G172,,
+1181,17.650,when?,kapan?,ma'impia,ma'impia  p54 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,time,adv / qual,,kata tanya,1427,485,352.0,170.0,,,185.0
+1182,17.660,where?,di mana?,ri'inu,"ri'inu -mo  p53 p60, sima'inu p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-mo   ,,,,space,adv / qual,,kata tanya,1460,484,353.0,181.0,C174 E159 F158 G170,,186.0
+1182,17.660,where?,di mana?,sima'inu,"ri'inu -mo  p53 p60, sima'inu p53",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,space,adv / qual,,kata tanya,1460,484,353.0,181.0,C174 E159 F158 G170,,186.0
+1185,17.620,how many? how much?,berapa?,so'uya,so'uya  -mo p63 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,-mo  ,,,,,,,kata tanya,1338,486,143.0,0.0,C177 E162 F161 G173,,
+1186,17.610,how?,bagaimana?,sema'inu,sema'inu  p53,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,,,kata tanya,1461,487*,0.0,194.0,C176 E161 F160 G171,,74.0
+1188,13.010,one,satu,sobua   Kmompasabua   K77,"sobua  p60 K68  mompasabua [2. mompasaßua] ""mempersatukan"" K77",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[2. mompasaßua],"""mempersatukan""",,,number,,nomor-nomor,1293,327,207.0,197.0,C68 D10 E60 F60 G66,11.0,109.0
+1189,13.020,two,dua,rorua,rorua p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1294,328,330.0,198.0,C69 D11 E61 F61 G67,12.0,176.0
+1190,13.030,three,tiga,totolu,totolu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1295,329,314.0,199.0,C70 E62 F62 G68,,169.0
+1191,13.040,four,empat,apati  pabua,apati  pabua,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1296,330,121.0,200.0,C71 E63 F63 G69,,56.0
+1192,13.050,five,lima,lelima,lelima / elima~,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1297,331,114.0,0.0,C72 E64 F64 G70,,50.0
+1192,13.050,five,lima,elima,lelima / elima~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,number,,nomor-nomor,1297,331,114.0,0.0,C72 E64 F64 G70,,50.0
+1193,13.060,six,enam,oono,oono,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1298,332,264.0,0.0,C73 E65 F65 G71,,
+1194,13.070,seven,tujuh,pepitu,pepitu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1299,333,253.0,0.0,C74 E66 F66 G72 Sa143,,
+1195,13.080,eight,delapan,oßalu,oßalu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1300,334,93.0,0.0,C75 E67 F67 G73,,
+1196,13.090,nine,sembilan,sesio,sesio,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1301,335,196.0,0.0,C76 E68 F68 G74,,
+1197,13.100,ten,sepuluh,sompulu,sompulu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1302,336,306.0,0.0,C72 E69 F69 G75 Sa176,,
+1198,13.101,eleven,sebelas,sompulu sobua,sompulu sobua,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1303,,0.0,0.0,,,
+1199,13.102,twelve,dua belas,sompulu rua,sompulu (ro)rua,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,(ro),,,number,,,1304,,0.0,0.0,,,
+1200,,thirteen,tiga belas,sompulu totolu,sompulu totolu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1305,,0.0,0.0,,,
+1204,13.104,twenty,dua puluh,roumpulu,roumpulu  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1312,337,329.0,0.0,C78 E70 F70 G76 Sa192,,
+1207,,thirty,tiga puluh,tolumpulu,tolumpulu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1316,,0.0,0.0,,,
+1207a,,forty,empat puluh,apampulu,apampulu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1317,,0.0,0.0,,,
+1207b,,fifty,lima puluh,limampulu,limampulu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1318,,0.0,0.0,,,
+1207c,,sixty,enam puluh,onompulu,onompulu [h],Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,[h],,,,number,,,1319,,0.0,0.0,,,
+1207d,,seventy,tujuh puluh,pitumpulu,pitumpulu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1320,,0.0,0.0,,,
+1208,,eighty,delapan puluh,ßalumpulu,ßalumpulu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1321,,0.0,0.0,,,
+1209,,ninety,sembilan puluh,siompulu,siompulu,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,,1322,,0.0,0.0,,,
+1210,13.105,hundred,seratus,sagatus,sagatus,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1323,338,144.0,0.0,C79 E71 F71 G77 Sa84,,
+1211,13.106,thousand,seribu,sonjobu   K79,sonjobu   K79,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,number,,nomor-nomor,1324,339,313.0,0.0,C80 E72 F72 G78,,
+1212,,#complex number#,##,lima gatus pitumpulu apati,lima gatus pitumpulu apati ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,number,,,1325,,0.0,0.0,,,
+1213,12.550,"big, large",besar,oge,oge mV-  po'o- po'ogea'o~ -mo K77 p44 p47,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mV-  po'o- po'ogea'o -mo K,,,,,stative,prop / sta,kata sifat,1061,256*,19.0,153.0,C83 D12 E75 F75 G81,13.0,11.0
+1214,12.560,small (object),kecil,do'i,do'i mV- po'o-  K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- po'o-  K77,,,,,stative,prop / sta,kata sifat,1062,257,270.0,152.0,C84 D14 E76 F76 G82,15.0,140.0
+1215,16.710,good,baik,mbosi,mbosi mV- po'o- mopo'o- nipo'o- p47 p48 p53 p71,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- po'o- mopo'o- nipo'o-    ,,,,,stative,property,kata sifat,1130,258*,129.0,164.0,C91 D92 E83 F84 G89,97.0,60.0
+1215a,16.815,"fine, beautiful, splendid","bagus, enak",nyama,nyama mV- -mo  p47,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo  ,,,,,stative,property,kata sifat,1135,,0.0,0.0,,,
+1216,16.720,"bad, rotten, nasty","jahat, buruk",jaati,jaati mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,,kata sifat,1131,259,12.0,165.0,,,7.0
+1218,15.830,wet,basah,gege,gege mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,state,kata sifat,1127,260,349.0,141.0,,,183.0
+1219,15.840,dry,kering,'oga,'oga mV-  p46,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  ,,,,,stative,property,kata sifat,1125,261*,81.0,140.0,C93 D94 E85 F87 G91,99.0,32.0
+1220,12.610,"wide, extensive",luas,luo,"luo ma- -mo p60, loga ma- -mo  K76",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma- -mo ,,,,,stative,property,kata sifat,1116,262*,356.0,159.0,,,189.0
+1220,12.610,"wide, extensive",luas,loga,"luo ma- -mo p60, loga ma- -mo  K76",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma- -mo  K76,,,,,stative,property,kata sifat,1116,262*,356.0,159.0,,,189.0
+1221,12.620,narrow,sempit,pii,pii mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,property,kata sifat,1115,263,190.0,158.0,,,100.0
+1222,04.810,strong,kuat,tedesi,tedesi mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,prop / sta,kata sifat,1117,264*,292.0,0.0,,,
+1223,04.820,weak,lemah (manusia sakit),lente,lente ma- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma- -mo,,,,,stative,property,kata sifat,1102,265*,345.0,0.0,,,
+1224,12.440,far,jauh,'aßari,'aßari mV- -mo  p75 p68,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo   ,,,,space,stative,,kata sifat,1453,266,101.0,180.0,C88 E80 F80 G86,,41.0
+1225,12.430,near,dekat,'osu,'osu mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,state,kata sifat,1452a,267,191.0,179.0,C87 E79 F79 G85,,102.0
+1226,14.130,new (objects),baru,ßou,"ßou mV-, salisalipo K76",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,state,kata sifat,1153,268*,194.0,163.0,C90 D91 E82 F82 G88,96.0,104.0
+1226,14.130,new (objects),baru,salisalipo K76,"ßou mV-, salisalipo K76",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,stative,state,kata sifat,1153,268*,194.0,163.0,C90 D91 E82 F82 G88,96.0,104.0
+1227,14.155,"long (of duration), old (objects)",lama,ende,ende mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,,kata sifat,1151,269*,204.0,0.0,,,
+1228,14.150,old,tua ->04.141,gura,gura mV- -mo  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo  ,,,,,stative,state,kata sifat,1150,270*,205.0,162.0,,,108.0
+1229,12.630,thick (object),tebal,'umba,'umba mo-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mo-,,,,,stative,property,kata sifat,1068,271,308.0,157.0,,,164.0
+1230,12.650,thin (object),tipis,nimpis,nimpis / nimpisi mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,stative,prop / sta,kata sifat,1070,272,310.0,156.0,,,165.0
+1230,12.650,thin (object),tipis,nimpisi,nimpis / nimpisi mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,prop / sta,kata sifat,1070,272,310.0,156.0,,,165.0
+1231,12.660,"skinny, thin",kurus,rusu,rusu mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,prop / sta,kata sifat,1071,273,266.0,0.0,Z12.65A,,
+1232,12.640,fat (adj.),gemuk,boya,boya ma- -mo p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma- -mo ,,,,,stative,prop / sta,kata sifat,1067,274*,103.0,0.0,C113 E105 Z12.63A,,
+1233,15.850,hot (water),panas (air),onda,onda mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,,kata sifat,1104/5,275,141.0,138.0,C46 D88 E40 F40 G46,93.0,
+1234,15.860,cold (water),"dingin (air), sejuk",menta,menta mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,,kata sifat,1107,276,55.0,139.0,C49 D89 E42 F42 G48,94.0,22.0
+1235,15.852,(luke)warm (water),hangat (air),longo,longo mona-~  p70,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,mona-  ,,,,,stative,,kata sifat,1104/5a,277*,0.0,0.0,C47 G47,,
+1236,15.790,"dull (knife), blunt","tumpul, majal (w)",bonggulu,bonggulu ma-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,,stative,property,kata sifat,1099,278,83.0,82.0,,,33.0
+1237,15.780,sharp (knife),tajam,'ontu,'ontu mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1098,279,256.0,81.0,,,133.0
+1238,12.590,short (length),pendek,rido,rido mV-  mV-RDP2 K81,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  mV-RDP2 K81,,,,,stative,prop / sta,kata sifat,1065,280,260.0,154.0,C86 E78 F78 G84,,134.0
+1239a,12.310,high (height),tinggi,langgati,langgati  mV- pa'a-  K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- pa'a-  K77,,,,,stative,property,kata sifat,1087,,0.0,0.0,,,
+1240,12.570,long (object),panjang,lenggati,lenggati mV- pe'e- -mo K77,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- pe'e- -mo K77,,,,,stative,prop / sta,kata sifat,1063,282,173.0,155.0,C85 D13 E77 F77 G83,14.0,91.0
+1241,08.425,rotten (fruit),busuk,ßoka,ßoka mV-  -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  -mo,,,,,stative,state,kata sifat,1129,283,242.0,112.0,,,123.0
+1242,15.380,sour,"masam, asam",podi,podi mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1162,284,277.0,0.0,,,
+1243,15.370,bitter,pahit,peiti,peiti mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1163,285,22.0,0.0,,,
+1244,15.350,sweet,manis,emisi,emisi mV- -mo p46,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo ,,,,,stative,property,kata sifat,1161,286,298.0,0.0,,,
+1244a,15.360,salty,asin,osi,osi mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1166,,0.0,0.0,,,
+1244b,15.320,"spicy, hot",pedis,lala,lala mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1165,,0.0,0.0,,,
+1245,15.250,fragrant,"harum, wangi",mbongi,mbongi mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,,kata sifat,,287,122.0,0.0,,,
+1246,05.146,full (satiated),kenyang,ßosu,ßosu mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,,kata sifat,0134,293,125.0,0.0,,,
+1247,17.920,"other, different",lain (orang lain) ->12.230,ntaninya  to=,ntaninya  to=,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,stative,,kata sifat,,294,208.0,190.0,,,110.0
+1248,13.140,all,semua,jojoo joojoo jojojojoo,jojoo joojoo jojojojoo p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,stati/adv,,kata sifat,1350,295,3.0,191.0,C81 D8 E73 F73 G79,9.0,1.0
+1249,13.150,many,banyak,bari,bari mV- pa'a- K77  p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- pa'a- K,,,,,stati/adv,,kata sifat,1339,296,177.0,0.0,C82 D9 E74 F74 G80,10.0,94.0
+1250,15.810,heavy,berat,ßoati,ßoati mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1095,297,137.0,142.0,,,70.0
+1251,15.820,light (in weight),ringan,nggaa,nggaa mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,,1096,,0.0,0.0,,,
+1252,15.740,hard (substance),keras,'ada,"'ada mV- -mo, ngarasi mV-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,property,kata sifat,1101,298,133.0,0.0,,,
+1252,15.740,hard (substance),keras,ngarasi,"'ada mV- -mo, ngarasi mV-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,1101,298,133.0,0.0,,,
+1253,15.880,dirty,kotor,golu,golu ma-  p52,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-  ,,,,,stative,,kata sifat,,299,77.0,10.0,,,29.0
+1253a,15.870,"clean, tidy",bersih,gali,gali mV- p55,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- ,,,,,stative,,kata sifat,,,0.0,0.0,,,
+1254,12.730,straight,lurus,ndolo,ndolo mV- po'o- mompo'o- nipo'o-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- po'o- mompo'o- nipo'o-,,,,,stative,property,kata sifat,1089,300,290.0,0.0,,,155.0
+1255,12.832,round (spherical),bulat (spt bola),liongu,liongu ma-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,,stative,,kata sifat,1111,301,0.0,0.0,C92 D93 E84 F85 G90,98.0,
+1255b,12.740,"crooked, bent",bengkok,denggo,denggo ma-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,,stative,,kata sifat,1090,,0.0,0.0,,,
+1256,16.910,lonely,"sunyi, sepi",lionosi,lionosi mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,,kata sifat,,302*,172.0,0.0,,,
+1256a,16.915,"longing, homesick, desire",rindu,lentora,"lentora ma-, dáili mV-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,,stative,,kata sifat,,,0.0,0.0,,,
+1256a,16.915,"longing, homesick, desire",rindu,dáili,"lentora ma-, dáili mV-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,,kata sifat,,,0.0,0.0,,,
+1257,17.470,"difficult, hard, troubled","sukar, susah",susa,susa ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,,,,,,stative,,kata sifat,,303*,75.0,0.0,,,
+1258,15.775,"fine, smooth, subtle",halus,lusu,lusu ma- ~,Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ma- ,,,,,stative,property,kata sifat,1094,304*,273.0,0.0,,,143.0
+1258b,15.835,"slippery, slick",licin,leseti,leseti mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,kata sifat,,,0.0,0.0,,,
+1259,14.210,"quick, fast, at once","cepat, lekas",'agori,"'agori pa- mV-, 'onji mV- mV-RDP2 po-RDP- p75",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,pa- mV-,,,,,stative,prop / sta,kata sifat,1157,305,102.0,0.0,,,
+1259,14.210,"quick, fast, at once","cepat, lekas",'onji,"'agori pa- mV-, 'onji mV- mV-RDP2 po-RDP- p75",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- mV-RDP2 po-RDP- ,,,,,stative,prop / sta,kata sifat,1157,305,102.0,0.0,,,
+1260,12.670,deep  (water),dalam (airnya),raronya,raronya,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,stative,,kata sifat,1083,306,71.0,0.0,,,
+1261,13.210,full (container),penuh,ponu,ponu mV- -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo,,,,,stative,state,kata sifat,1143,307,126.0,0.0,C89 D90 E81 F81 G87,95.0,
+1263,16.660,"true, correct","benar, betul",'ana,"'ana mV-  p55, kono ->1045",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  ,,,,,stative,,kata sifat,1141,308*,0.0,166.0,,,117.0
+1263,16.660,"true, correct","benar, betul",kono,"'ana mV-  p55, kono ->1045",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,->1045,,,,,stative,,kata sifat,1141,308*,0.0,166.0,,,117.0
+1264,15.640,white,putih,measi,measi mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,colour,stative,property,warna,1167,309,354.0,148.0,C64 D85 E56 F56 G62,90.0,187.0
+1265,15.650,black,hitam,ßuri,ßuri mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,colour,stative,property,warna,1168,310,23.0,147.0,C63 D86 E55 F55 G61,91.0,14.0
+1266,15.690,yellow,kuning,ndiri,"ndiri mV- -mo K79, 'uni ma-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV- -mo K79,,,,colour,stative,property,warna,1171,311,371.0,150.0,C66 D84 E58 F58 G64,89.0,200.0
+1266,15.690,yellow,kuning,'uni,"ndiri mV- -mo K79, 'uni ma-",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,colour,stative,property,warna,1171,311,371.0,150.0,C66 D84 E58 F58 G64,89.0,200.0
+1267,15.660,red,merah,raya,raya mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,colour,stative,property,warna,1169,312,229.0,149.0,C65 D82 E57 F57 G63,87.0,116.0
+1268,15.680,green,hijau,kodara,kodara ma-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,colour,stative,property,warna,1173,313*,130.0,151.0,C67 D83 E59 F59 G65,88.0,62.0
+1269,16.452,"ashamed, shy",malu #combine with##,sili,sili mV-  mesili mata,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  mesili mata,,,,,stative,prop / sta,kata kerja,1082,363,9.0,161.0,,,
+1270,16.420,angry,marah,'ußari,'ußari mV-  K78,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  K78,,,,,stative,state,kata kerja,1144,364,4.0,0.0,,,
+1273,14.175,"late, slow",lambat,lembe,lembe ma-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,,stative,prop / sta,,1158,,0.0,0.0,,,
+1274,17.220,"stupid, dull",bodoh,doyo,doyo ma-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-,,,,,stative,property,,1159,,0.0,0.0,,,
+1275,04.920,lazy,malas,mau,mau mV-,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-,,,,,stative,property,,1121,,0.0,0.0,,,
+1276,04.910,tired,"lelah, cape",lenge,"lenge ma-  p75, lenye ma-  ~  p75",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,ma-  ,,,,,stative,state,,1156,,0.0,0.0,,,
+1276,04.910,tired,"lelah, cape",lenye,"lenge ma-  p75, lenye ma-  ~  p75",Taje,Petapa,120.1238,-0.7782,,False,,,False,nan,ma-    ,,,,,stative,state,,1156,,0.0,0.0,,,
+1277,01.622,dark,gelap,ndou,ndou mV-  -mo,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,mV-  -mo,,,,,stative,state,,1403,,0.0,0.0,,,
+1279,17.510,"and, with","dan, dengan",ante,ante / nte  p70 p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,conjunctio,adv / qual,,tata bahasa,1469,320*,0.0,192.0,,,2.0
+1279,17.510,"and, with","dan, dengan",nte,ante / nte  p70 p74,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,conjunctio,adv / qual,,tata bahasa,1469,320*,0.0,192.0,,,2.0
+1280,17.530,if,"kalau, jika",ane  K76,ane  K76,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,conjunctio,adv / qual,,tata bahasa,1483,317*,149.0,193.0,,,79.0
+1281,17.520,because,"karena, sebab",saba  K72,saba  K72,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,conjunctio,adv / qual,,,1485,,0.0,0.0,,,9.0
+1285,17.562,"no, not",bukan,aje,aje  p70,Taje,Petapa,120.1238,-0.7782,,True,,,True,nan,,,,,,adv / qual,,tata bahasa,1474,316*,201.0,195.0,,,
+1286,17.560,"no, not",tidak,aje  K73,aje  K73,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,tata bahasa,1473,314*,202.0,195.0,C95 D95 E88 F88 G93,8.0,107.0
+1287,17.575,"none, there are not",tidak ada,aje ri'aa,"aje ri'aa  p44 p54,  aje nari'aa",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,tata bahasa,1343,315*,198.0,0.0,,,
+1287,17.575,"none, there are not",tidak ada,aje nari'aa,"aje ri'aa  p44 p54,  aje nari'aa",Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,tata bahasa,1343,315*,198.0,0.0,,,
+1288,17.570,there is/are,ada,nari'aa,nari'aa,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,,1342,,0.0,0.0,,,
+1289,17.550,yes,ya,ho'o,ho'o  p55 p60,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,,1472,,0.0,0.0,,,
+1297,13.170,"few, a little",sedikit ->12.560,sodo'i,sodo'i,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,,1340,,0.0,0.0,,,46.0
+1299,17.850,maybe,barangkali,ßela,ßela,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,,1467,,0.0,0.0,,,
+1302,13.330,"only, merely","hanya, cuma",boi,boi p53,Taje,Petapa,120.1238,-0.7782,,True,,,False,nan,,,,,,adv / qual,,,1477,,0.0,0.0,,,
+0018,04.250,lip,bibir,ßißi,ßißi   +SGA,Taje,Singura (part of Sienjo),120.0307,-0.3502,,True,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0025/26,018*,168.0,0.0,C121 E113 F112 G121,,
+0501,01.732,raincloud,awan hitam,ruung,ruung  +SGA,Taje,Singura (part of Sienjo),120.0307,-0.3502,,True,,,False,nan,,,,,,noun,,alam dunia,,186,226.0,0.0,,,
+0569,03.620,cat,kucing,#),"pidi (ßidi K76 is wrong, p.c. 11.3. / p64#)  +SGA",Taje,Singura (part of Sienjo),120.0307,-0.3502,,True,,,False,nan,,,,,animals,noun,,,0813,,0.0,0.0,,,
+0613,08.540,root,akar,dali  K,dali  K73  +SGA,Taje,Singura (part of Sienjo),120.0307,-0.3502,,True,,,False,nan,,,,,plant,noun,,tumbuh-tumbuhan,0742-44,147,240.0,115.0,C3 D25 E3 F4 G4,26.0,121.0
+0614,08.550,branch,"cabang, dahan",panga,panga -nya  +SGA,Taje,Singura (part of Sienjo),120.0307,-0.3502,,True,,,False,nan,-nya  ,,,,plants,noun,,tumbuh-tumbuhan,0739,146*,0.0,113.0,,,
+0751,05.850,sugar,gula,gola,gola  +SGA,Taje,Singura (part of Sienjo),120.0307,-0.3502,,True,,,False,nan,,,,,food,noun,,alam dunia,0701,200,0.0,0.0,C171 E156 F155 G167,,

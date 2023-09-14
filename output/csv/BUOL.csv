@@ -1,0 +1,116 @@
+﻿NUMBER,IDSW,ENGLISH,INDONESIAN,FORM,ORIGINAL_FORM,LANGUAGE,LOCATION,LONGITUDE,LATITUDE,GENDER,RECORDED,MEDIALINK,REGISTER,EXCLUDE,REFERENCE,GRAMMAR_COMMENT,PRONUNCIATION_COMMENT,TRANSLATION_COMMENT,EDITING_COMMENT,CATEGORY1,CATEGORY2,CATEGORY3,CATEGORY4,HOLLE,SIL,REID,BLUST,LIST,SWA100,GUD200
+0066,04.492,penis,kemaluan laki-laki,uti,uti~  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,False,,,False,nan,,,,,bodyparts,noun,,anggota tubuh,0077,064*,213.0,0.0,,,
+0067,04.490,testicle,buah pelir,Butu,Butu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,bodyparts,noun,,,0079,,0.0,0.0,,,
+0325,02.360,mother,ibu,tiíno,tiíno  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0256,075,185.0,59.0,C144 E135 F134 G143,,96.0
+0325a,02.362,mother (form of address),ibu (panggilan),ina,ina  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0256a,,0.0,0.0,,,
+0326,02.350,father,"bapak, ayah",tiamo,tiamo +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0255,074,105.0,60.0,C143 E134 F133 G142,,43.0
+0326a,02.352,father (form of address),bapak  (panggilan),papa',papa',Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0255a,,0.0,0.0,,,
+0327,02.370,parents,orang tua,saa 'ito,"saa 'ito, tiloduduYaka <doka ""besar"" +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0255/25,,0.0,0.0,,,
+0327,02.370,parents,orang tua,tiloduduYaka <doka,"saa 'ito, tiloduduYaka <doka ""besar"" +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""besar""",,kinship,noun,,,0255/25,,0.0,0.0,,,
+0328,02.455,sibling,saudara (kandung),utat ??utad,utat ??utad  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,noun,,hubungan kemasyarakatan,0268/26,084,262.0,0.0,,,
+0329,02.440,brother,saudara laki-laki,utat maane,utat maane +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,kinship,noun,,,0268,,0.0,0.0,Sa 20,,
+0330,02.450,sister,saudara perempuan,utat buai,utat buai [b= implosive] +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,[b= implosive],,,kinship,noun,,,0269,,0.0,0.0,Sa 149,,
+0331,02.457,older sibling,kakak,uta moguguyang,uta moguguyang  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0270,085*,0.0,0.0,C151 E138 F137 G147,,
+0333,02.456,younger sibling,adik,tauwarli,tauwarli / arli-arli  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0272/27,087*,0.0,0.0,C153 E139 F138 G148,,
+0333,02.456,younger sibling,adik,,tauwarli / arli-arli  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,arli-arli  ,,,,kinship,noun,,hubungan kemasyarakatan,0272/27,087*,0.0,0.0,C153 E139 F138 G148,,
+0336,02.270,child,anak,anak,anak  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0257/25,076,48.0,56.0,,,20.0
+0339,02.273,last born child,anak bungsu,tauwarli,tauwarli / arliarlilong  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0258,078*,0.0,0.0,C147 G145,,
+0339,02.273,last born child,anak bungsu,arliarlilong,tauwarli / arliarlilong  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0258,078*,0.0,0.0,C147 G145,,
+0340,02.272,first born child,anak sulung,anak moguguyang,anak moguguyang /mogigiyaneYaut  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0257,077*,0.0,0.0,C146,,
+0340,02.272,first born child,anak sulung,mogigiyaneYaut,anak moguguyang /mogigiyaneYaut  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0257,077*,0.0,0.0,C146,,
+0341,02.282,little child,kanak-kanak,tiloditi,tiloditi  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0259/26,,0.0,0.0,,,
+0343,02.470,grandmother,nenek (perempuan),boía,boía [b =implosive]  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,[b =implosive],,,kinship,noun,,hubungan kemasyarakatan,0264,080,0.0,0.0,C149 E137 F136 G151,,
+0344,02.460,grandfather,kakek,kakai,kakai  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0263,081,0.0,0.0,C148 E137,,
+0344a,02.462,grandfather (form of address),kakek (panggilan),uma,uma  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0263a,,0.0,0.0,,,
+0346,02.563,great-great-grandparents,buyut #combine with next#,kakai ítoyo,kakai ítoyo  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0265,,0.0,0.0,,,
+0346a,02.560,ancestors,nenek moyang,taa nomurli <Burli,"taa nomurli <Burli ""lepas"" +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""lepas""",,kinship,noun,,hubungan kemasyarakatan,0267,082*,0.0,0.0,C150 G152,,
+0347,02.480,grandchild,cucu,ombu,ombu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0274,079,0.0,0.0,C154 E140 F139 G146,,
+0348,02.482,great-grandchild,cicit,ombu tokutokukup,"ombu tokutokukup  ""peluk""  +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""peluk""",,kinship,noun,,,0274a,,0.0,0.0,,,
+0349,02.483,great-great-grandchild,"cece, piut",ombu atuku,"ombu atuku  ""lutut""  +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""lutut""",,kinship,noun,,,0274b,,0.0,0.0,,,
+0349a,02.484,great-great-great-grandchild (etc.),anak dari cece (layar keempat),ombu aBúngguYo,"ombu aBúngguYo ""mata kaki""  +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""mata kaki""",,kinship,noun,,,0274c,,0.0,0.0,,,
+0354,02.524,aunt M/FZo,bibi M / FZo,nadoka ??,nadoka +'??  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,+',,,kinship,noun,,,0283,,0.0,0.0,,,
+0355,02.525,aunt M/FZy,bibi M / FZy,nadidi,nadidi  [d= implosive],Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,[d= implosive],,,kinship,noun,,,0284,,0.0,0.0,,,
+0363,02.514,uncle M/FBo,paman M / FBo,madoka,madoka  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0277,,0.0,0.0,,,
+0364,02.515,uncle M/FBy,paman M / FBy,madidi,madidi  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0278,,0.0,0.0,,,
+0368,02.530,nephew/niece,kemanakan,pokuanakon,pokuanakon,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0287/02,,0.0,0.0,,,
+0378,02.550,cousin,saudara sepupu (satu kali),pokuutaton,pokuutaton  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0295/02,,0.0,0.0,,,
+0381,02.310,spouse,isteri / suami,tumunum,tumunum  +8,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,hubungan kemasyarakatan,0317/18,072*,147.0,57.0,C141 D16 E132 F131 G140,,76.0
+0383,02.600,parents-in-law,mertua,monugong  <dugong,"monugong  <dugong ""tambah""",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""tambah""",,kinship,noun,,,0297,,0.0,0.0,,,
+0389,02.630,son or daughter-in-law,menantu,= 383,= 383,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0301,,0.0,0.0,,,
+0396,02.652,spouse's sibling's spouse,biras,lagu ?llagu motolilagu,lagu ?llagu motolilagu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0306/14,,0.0,0.0,Z: In-law ('cousin'outside),,
+0400,02.650,brother/sister-in-law,ipar,ipag,ipag,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0310/14,,0.0,0.0,"Z2.65A bayaw=broth, siipar=sis",,
+0405,02.710,step-parents/children,tiri,uatok,uatok [watok]  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,[watok],,,kinship,noun,,,0304,,0.0,0.0,,,
+0410,02.755,adopted child,anak pungut,taa biniag,"taa biniag / nibiag  ""pelihara""  +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,0305,,0.0,0.0,,,
+0410,02.755,adopted child,anak pungut,nibiag,"taa biniag / nibiag  ""pelihara""  +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""pelihara""",,kinship,noun,,,0305,,0.0,0.0,,,
+0411,02.750,orphan,anak yatim,anak unon,anak unon  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,,,0.0,0.0,,,
+0412,02.430,offspring,keturunan,buían,buían / taa nobuían  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,,,hubungan kemasyarakatan,,083*,206.0,0.0,,,
+0412,02.430,offspring,keturunan,taa nobuían,buían / taa nobuían  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,,,hubungan kemasyarakatan,,083*,206.0,0.0,,,
+0413,02.760,widow/er,janda (mati),boYu,boYu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,,,hubungan kemasyarakatan,,094*,357.0,0.0,,,
+0414,02.762,divorcee,janda (cerai),bóondayo,bóondayo   +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,,,0.0,0.0,,,
+0415,02.810,"relative, kin",sanak,pokuutaton =3,pokuutaton =378  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,,,0.0,0.0,,,
+0420,02.345,bride price,mas kawin,totombu,totombu,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,culture,noun,,kebiasaan,0411,481*,0.0,0.0,C160 E146 F145 G156,,
+0421,02.341,divorce,"cerai, talak  ->12.230",buundo',buundo' no--an  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,no--an  ,,,,kinship,noun,,,0410,,0.0,0.0,,,
+0422,02.380,married person,orang yang sudah kawin,taa konikaion,taa konikaion / maa nikonikaion  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,,,0.0,0.0,,,
+0422,02.380,married person,orang yang sudah kawin,maa nikonikaion,taa konikaion / maa nikonikaion  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,kinship,noun,,,,,0.0,0.0,,,
+0424,02.330,"marry, marriage","kawin, perkawinan",nika,nika mo--an (per) motorli- mopo--an +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,feminine,True,,,False,nan,mo--an  motorli- mopo--an ,,,,culture,tr,action,,0408,,0.0,0.0,,,
+0427,21.430,commit adultery,zinah  berzinah,jina,jina~,Buol,Lakuan,121.1884227601692,1.2578515252242934,,False,,,False,nan,,,,,culture,intr,action,,0415,,0.0,0.0,,,
+0429,02.100,person,orang,tau,tau  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0238,069*,214.0,53.0,C138 D17 E129 F126 G135,18.0,111.0
+0430,02.105,"man, mankind",manusia,maanusia,maanusia  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0236,,0.0,0.0,,,
+0431,19.212,population,penduduk,tuang olipu,tuang olipu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0365,,0.0,0.0,,,
+0432,02.253,"boy, lad (call form)",anak laki-laki  (panggilan) ->04.492,tiButu,tiButu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0250,,0.0,0.0,,,
+0433,02.263,girl  (call form),anak perempuan  (panggilan) ->04.480,tiotu,tiotu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0260a,,0.0,0.0,,,
+0434,02.458,twins,anak kembar,anak pingi,anak pingi   +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0181,,0.0,0.0,,,
+0436,02.251,"youth (male), young man (adolescent)",pemuda (laki-laki),taa,taa / tilo ditimaane  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0247,,0.0,0.0,,,
+0436,02.251,"youth (male), young man (adolescent)",pemuda (laki-laki),tilo ditimaane,taa / tilo ditimaane  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0247,,0.0,0.0,,,
+0437,02.261,"virgin, young girl",gadis,taa,taa / tiloditibuái  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0251,,0.0,0.0,,,
+0437,02.261,"virgin, young girl",gadis,tiloditibuái,taa / tiloditibuái  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0251,,0.0,0.0,,,
+0441,02.461,old man,laki-laki tua,taa ítoYo ??YitiYo,taa ítoYo ??YitiYo / noitoYon  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0253,,0.0,0.0,,,
+0441,02.461,old man,laki-laki tua,noitoYon,taa ítoYo ??YitiYo / noitoYon  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0253,,0.0,0.0,,,
+0443,02.471,old woman,perempuan tua,taa bonggele,taa bonggele / nobonggelelo  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0254,,0.0,0.0,,,
+0443,02.471,old woman,perempuan tua,nobonggelelo,taa bonggele / nobonggelelo  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0254,,0.0,0.0,,,
+0444,18.280,name,nama,tánguYo,tánguYo +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,kebiasaan,0239,475,189.0,63.0,C145 D100 E136 F125 G134,100.0,99.0
+0445,18.285,nickname,julukan,taa pogotad,taa pogotad,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,0240,,0.0,0.0,,,
+0446,19.420,slave,"hamba, budak",taa dungan,taa dungan [2: dunan] +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,[2: dunan],,,humans,noun,,hubungan kemasyarakatan,0394,093,268.0,0.0,C159 E145 F144 G155,,
+0447,19.430,servant,pelayan,ato ??'ato,ato ??'ato   +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,culture,noun,,,0998,,0.0,0.0,,,
+0448,19.560,guest,tamu,tamu,tamu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0323,095*,0.0,0.0,C158 E144 F143 G154,,
+0449,19.550,foreigner,orang asing,taa giigii,taa giigii +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,culture,noun,,,0324,,0.0,0.0,,,
+0450,19.510,"companion, friend","kawan, teman",tamaan  ?ng,tamaan  ?ng  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,hubungan kemasyarakatan,0320,096*,59.0,0.0,C157 E143 F142 G153,,
+0451,19.511,"comrade, friend","sekutu, teman #combine?#",barli,barli  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,culture,noun,,,0321,,0.0,0.0,,,
+0452,02.107,dwarf,orang katai ->12.320,taa gotutan,taa gotutan,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,humans,noun,,,1076,,0.0,0.0,,,
+1164,02.910,I,"aku, saya",aku,"aku (K), kami atoniu ""pesuruh (H) +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,(K),True,nan,,,,,person,pronoun,,kata ganti,1357,097,0.0,182.0,C22 D1 E18 F18 G21,1.0,77.0
+1164,02.910,I,"aku, saya","kami atoniu ""pesuruh","aku (K), kami atoniu ""pesuruh (H) +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,(H),True,nan,,,,,person,pronoun,,kata ganti,1357,097,0.0,182.0,C22 D1 E18 F18 G21,1.0,77.0
+1166,02.941,we (inclusive)/you (polite/for older people),kita,kito,kito +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1365,101*,0.0,185.0,C26 D3 E22 F19 G25,3.0,182.0
+1167,02.920,"you (fam.), thou","engkau, kamu",iko,iko +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1359,098*,0.0,183.0,C23 D2 E19 G22,2.0,168.0
+1168,02.950,"you (plural), ye","kalian, kamu sekalian#",kamu taandanio,kamu taandanio +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1360,102*,0.0,186.0,,,198.0
+1169,02.960,they,mereka,tilo,tilo +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1367/13,103*,0.0,187.0,C27 G26,,163.0
+1170,02.930,"he, she","dia, ia",tio,tio +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,person,pronoun,,kata ganti,1363/13,099,0.0,184.0,C24 E20 G23,,66.0
+1171,,this,ini,tia,tia  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1383,321*,0.0,177.0,C96 D4 F89 G94,4.0,167.0
+1172,,that (nearby),itu (dekatmu),too,too / toági,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1384,322*,0.0,178.0,C97 D5 E89 F90 G95,5.0,161.0
+1172,,that (nearby),itu (dekatmu),toági,too / toági,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,,,,,pronoun,,tata bahasa,1384,322*,0.0,178.0,C97 D5 E89 F90 G95,5.0,161.0
+1173,,that distant,itu yang jauh,too agi  atoo,too agi [aji] atoo  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,True,nan,,[aji],,,,pronoun,,tata bahasa,,323*,0.0,172.0,,,
+1188,13.010,one,satu,teetu,teetu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1293,327,207.0,197.0,C68 D10 E60 F60 G66,11.0,109.0
+1189,13.020,two,dua,duía,duía +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1294,328,330.0,198.0,C69 D11 E61 F61 G67,12.0,176.0
+1190,13.030,three,tiga,totou  ?totoyu,totou  ?totoyu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1295,329,314.0,199.0,C70 E62 F62 G68,,169.0
+1191,13.040,four,empat,opat,opat +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1296,330,121.0,200.0,C71 E63 F63 G69,,56.0
+1192,13.050,five,lima,Limo,Limo +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1297,331,114.0,0.0,C72 E64 F64 G70,,50.0
+1193,13.060,six,enam,onom,onom  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1298,332,264.0,0.0,C73 E65 F65 G71,,
+1194,13.070,seven,tujuh,pitu,pitu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1299,333,253.0,0.0,C74 E66 F66 G72 Sa143,,
+1195,13.080,eight,delapan,uwáyu,uwáyu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1300,334,93.0,0.0,C75 E67 F67 G73,,
+1196,13.090,nine,sembilan,sio,sio / sesio +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1301,335,196.0,0.0,C76 E68 F68 G74,,
+1196,13.090,nine,sembilan,sesio,sio / sesio +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1301,335,196.0,0.0,C76 E68 F68 G74,,
+1197,13.100,ten,sepuluh,mopuYu ??mopuyu =,"mopuYu ??mopuyu = ""repot"" +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,"""repot""",,,number,,nomor-nomor,1302,336,306.0,0.0,C72 E69 F69 G75 Sa176,,
+1198,13.101,eleven,sebelas,peampeetu ??peagu,"peampeetu ??peagu, mapuYu agu teetu~ +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,,1303,,0.0,0.0,,,
+1198,13.101,eleven,sebelas,mapuYu agu teetu,"peampeetu ??peagu, mapuYu agu teetu~ +88",Buol,Lakuan,121.1884227601692,1.2578515252242934,,False,,,False,nan,,,,,,number,,,1303,,0.0,0.0,,,
+1199,13.102,twelve,dua belas,pe agu duia,pe agu duia +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,,1304,,0.0,0.0,,,
+1204,13.104,twenty,dua puluh,dua no puYu,dua no puYu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1312,337,329.0,0.0,C78 E70 F70 G76 Sa192,,
+1207,,thirty,tiga puluh,tee,tee / totoYzu~ no puYu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,,1316,,0.0,0.0,,,
+1207,,thirty,tiga puluh,totoYzu no puYu,tee / totoYzu~ no puYu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,False,,,False,nan,,,,,,number,,,1316,,0.0,0.0,,,
+1210,13.105,hundred,seratus,mogotut,mogotut  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1323,338,144.0,0.0,C79 E71 F71 G77 Sa84,,
+1210a,13.105,two hundred,dua ratus,duia no gotut,duia no gotut,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1323a,,0.0,0.0,,,
+1211,13.106,thousand,seribu,tongoriBu,tongoriBu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,nomor-nomor,1324,339,313.0,0.0,C80 E72 F72 G78,,
+1212,,#complex number#,##,mopuYu no riBu,mopuYu no riBu / puYunriBu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,,1325,,0.0,0.0,,,
+1212,,#complex number#,##,puYunriBu,mopuYu no riBu / puYunriBu  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,number,,,1325,,0.0,0.0,,,
+1213,12.550,"big, large",besar,doka,doka mo-   +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,mo-   ,,,,,stative,prop / sta,kata sifat,1061,256*,19.0,153.0,C83 D12 E75 F75 G81,13.0,11.0
+1287,17.575,"none, there are not",tidak ada,diyauon ??,diyauon ?? +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,adv / qual,,tata bahasa,1343,315*,198.0,0.0,,,
+1288,17.570,there is/are,ada,too ??,too ??  +88,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,adv / qual,,,1342,,0.0,0.0,,,
+1290,17.565,don't (negative imperative),jangan,nai,nai,Buol,Lakuan,121.1884227601692,1.2578515252242934,,True,,,False,nan,,,,,,adv / qual,,,1475,,0.0,0.0,Z: not [future verb]*he(n)+di',,
