@@ -19,7 +19,7 @@ The Tomini–Tolitoli languages are spoken in the northern part of Central Sulaw
 ## Project Structure
 
 The project directory structure is organized as follows:
-
+```bash
 TTLDP/
 ├── data/
 │ ├── dictionaries/
@@ -37,8 +37,7 @@ TTLDP/
 ├── src/
 │ ├── main.py
 ├── README.md
-
-
+```
 ## Getting Started
 
 To get started with the project, follow these steps:
