@@ -51,9 +51,6 @@ pip install pandas xlsxwriter tqdm openpyxl
 ## Configuration
 The project can be configured by modifying the settings and patterns in the main.py script to fit your specific linguistic data and research requirements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Authors
 
 - Prof. Dr. Nikolaus P. Himmelmann (Head of Institute of Linguistics, University of Cologne)
